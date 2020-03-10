@@ -6,9 +6,23 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 2 - 9 Mar 2020
+**Planned Time:** 1.5h
+**Actual Time:** ~2.1h
+**Weekly Quests Progress:** 
+
+**Project:** Nanny's Uncinetto
+* added mom's bio to site
+* organized local inventory
+
+**Project:** Treasure Hunter
+* commit `74d10e4` - Update ResearchPanel to correctly display available zones 
+  - added ResearchPanel to turn on each zone point totals OnEnable and Update
+  - added script to the Research Panel gameObject
+
 ## Day 1 - 8 Mar 2020
 **Planned Time:** 5h
-**Actual Time:** ~5.15h
+**Actual Time:** 5.13h
 **Weekly Quests Progress:** 4%
 
 **Project:** Nanny's Uncinetto

@@ -6,10 +6,19 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 3 - 10 Mar 2020
+**Planned Time:** 1h
+**Actual Time:** 1.9h
+
+**Project:** WeirdBeardDev
+* worked on my outline for a series of C# tutorials
+
+**Project:** General
+* troubleshot and fixed Wacom issue my wife had
+
 ## Day 2 - 9 Mar 2020
 **Planned Time:** 1.5h
-**Actual Time:** ~2.1h
-**Weekly Quests Progress:** 
+**Actual Time:** 2.3h
 
 **Project:** Nanny's Uncinetto
 * added mom's bio to site

@@ -6,6 +6,26 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 6 - 13 Mar 2020
+**Planned Time:** 0
+**Actual Time:** 
+
+## Day 5 - 12 Mar 2020
+**Planned Time:** 3h
+**Actual Time:** 0h
+
+* Day off
+
+## Day 4 - 11 Mar 2020
+**Planned Time:** 5.5h
+**Actual Time:** 6.75h
+
+**Project:** Treasure Hunter
+* reviewed TH banner plan
+
+**Project:** WeirdBeardDev
+* went to test Starship Horizons
+
 ## Day 3 - 10 Mar 2020
 **Planned Time:** 1h
 **Actual Time:** 1.9h

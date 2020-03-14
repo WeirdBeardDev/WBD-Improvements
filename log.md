@@ -7,63 +7,40 @@ I want to start my life as a game designer and developer.
 ---
 
 ## Day 6 - 13 Mar 2020
-**Planned Time:** 0
-**Actual Time:** 
+**Time (planned/actual):** 0h / 1.1h
+* SMD - committed log for Day 4 & 5
+* SMD - created repo for my WBD personal Improvement Challenge and linked it to the template repo
+* WBD - updated PFD and HRUUG events for 16 Mar
 
 ## Day 5 - 12 Mar 2020
-**Planned Time:** 3h
-**Actual Time:** 0h
-
+**Time (planned/actual):** 3h / 0h
 * Day off
 
 ## Day 4 - 11 Mar 2020
-**Planned Time:** 5.5h
-**Actual Time:** 6.75h
-
-**Project:** Treasure Hunter
-* reviewed TH banner plan
-
-**Project:** WeirdBeardDev
-* went to test Starship Horizons
+**Time (planned/actual):** 5.5h / 6.75h
+* TH - reviewed TH banner plan
+* WBD - went to test Starship Horizons
 
 ## Day 3 - 10 Mar 2020
-**Planned Time:** 1h
-**Actual Time:** 1.9h
-
-**Project:** WeirdBeardDev
-* worked on my outline for a series of C# tutorials
-
-**Project:** General
-* troubleshot and fixed Wacom issue my wife had
+**Time (planned/actual):** 1h / 1.9h
+* WBD - worked on my outline for a series of C# tutorials
+* SMD - troubleshot and fixed Wacom issue my wife had
 
 ## Day 2 - 9 Mar 2020
-**Planned Time:** 1.5h
-**Actual Time:** 2.3h
-
-**Project:** Nanny's Uncinetto
-* added mom's bio to site
-* organized local inventory
-
-**Project:** Treasure Hunter
-* commit `74d10e4` - Update ResearchPanel to correctly display available zones 
+**Time (planned/actual):** 1.5h / 2.3h
+* NU - added mom's bio to site
+* NU - organized local inventory
+* TH - commit `74d10e4` - Update ResearchPanel to correctly display available zones 
   - added ResearchPanel to turn on each zone point totals OnEnable and Update
   - added script to the Research Panel gameObject
 
 ## Day 1 - 8 Mar 2020
-**Planned Time:** 5h
-**Actual Time:** 5.13h
-**Weekly Quests Progress:** 4%
-
-**Project:** Nanny's Uncinetto
-* ran a meeting focused on opening up our Etsy store
-
-**Project:** General
-* blocked out my time for the week, and updated my schedule
-* created [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
-
-**Project:** WeirdBeardDev
-* updated [Configuring Git LFS To Use Dropbox](http://weirdbearddev.com/resources/learning/configuring-git-lfs-to-use-dropbox/)
-* reconnected to my MailChimp account
+**Time (planned/actual):** 5h / 5.13h
+* NU - ran a meeting focused on opening up our Etsy store
+* SMD - blocked out my time for the week, and updated my schedule
+* SMD - created [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
+* WBD - updated [Configuring Git LFS To Use Dropbox](http://weirdbearddev.com/resources/learning/configuring-git-lfs-to-use-dropbox/)
+* WBD - reconnected to my MailChimp account
   * cleaned up old SMD audiences
   * converted a few items to WBD
   * started making a list of tasks to fully convert so I can start using MailChimp

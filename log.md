@@ -6,6 +6,17 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 7 - 14 Mar 2020
+**Time (planned/actual):** 6h / 2.7h
+* NU - created agenda for tomorrow's meeting
+* NU - completed updating hot pad listing; created coaster listing as draft
+* TH - reviewed new art work, provided feedback, then incorporated into the game
+* TH - created prefab variants for research point displays
+* TH - commit `cc7f6bd` - Update research points 
+  - added new art work for Caves, Forest, Hills, Lakes, Plains, River, & Swamp
+  - created Research Point Display prefab variants
+  - added them to the Research window
+
 ## Day 6 - 13 Mar 2020
 **Time (planned/actual):** 0h / 1.1h
 * SMD - committed log for Day 4 & 5

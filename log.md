@@ -6,6 +6,30 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 9 - 16 Mar 2020
+**Time (planned/actual):** 4h / 
+* WBD - wrote and published [Improving My Coding Practice](http://weirdbearddev.com/2020/03/16/improving-my-coding-practice/)
+* TH - fix research window so it stays within the screen
+  * commit `f3ce21f` - Fix DragWindow for multiple screen sizes 
+    - refactored the IsWindowFullyOnScreen to use world coordinates
+    - refactored the ClampToScreen to account for multipile screen sizes by using lossyScale
+  * commit `cfdd968` - Fix ResearchPanel blocking GameManager
+    - calling the GameManager during OnEnable blocks the static Instance of GameManager
+
+## Day 8 - 15 Mar 2020
+**Time (planned/actual):** 6h / 4.3h
+* SMD - recorded hours for last week; planned work and time for this week
+* SMD - reviewed my master plan for the year; update my sales funnel
+* SMD - refined 2020Q2 checklist into real goals and grouped them into months
+* TH - hid the Adventurer's and Game Currency sections
+* TH - removed the temp sounds from the game
+* TH - added resolutions to Game view; researched clamping research panel to screen window
+* TH - commits
+  * commit `3aed3c6` - Save MainGame file 
+  * commit `d21282b` - Remove temp sounds and unneeded areas
+    - hid the adventurer's and game currency section
+    - turned off the sounds for all encounters
+
 ## Day 7 - 14 Mar 2020
 **Time (planned/actual):** 6h / 2.7h
 * NU - created agenda for tomorrow's meeting

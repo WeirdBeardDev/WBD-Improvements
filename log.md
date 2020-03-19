@@ -6,8 +6,16 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 11 - 18 Mar 2020
+**Time (planned/actual):** 5h / 0h
+* I allowed a long day at my day-job to sucker me into couching it for the night.
+
+## Day 10 - 17 Mar 2020
+**Time (planned/actual):** 1h / 0h
+* Tuesday night = board game night
+
 ## Day 9 - 16 Mar 2020
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 5.8h
 * WBD - wrote and published [Improving My Coding Practice](http://weirdbearddev.com/2020/03/16/improving-my-coding-practice/)
 * TH - fix research window so it stays within the screen
   * commit `f3ce21f` - Fix DragWindow for multiple screen sizes 

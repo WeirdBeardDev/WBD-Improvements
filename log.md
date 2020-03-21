@@ -6,6 +6,15 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 13 - 20 Mar 2020
+**Time (planned/actual):** 0h / 0.89h
+* TH - creating a LeveledFloat struct (it's a horrible name)
+
+## Day 12 - 19 Mar 2020
+**Time (planned/actual):** 3h / 3.2h
+* WBD - wrote and published [Implementing IEquatable and IComparable](http://weirdbearddev.com/2020/03/19/implementing-iequatable-and-icomparable/)
+* WBD - decided on what I'm posting about next week
+
 ## Day 11 - 18 Mar 2020
 **Time (planned/actual):** 5h / 0h
 * I allowed a long day at my day-job to sucker me into couching it for the night.

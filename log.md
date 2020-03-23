@@ -6,8 +6,17 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 15 - 22 Mar 2020
+**Time (planned/actual):** 2.5h / 2.7h
+* SMD - planned my week
+* NU - put Etsy store in vacation mode due to COVID-19
+
+## Day 14 - 21 Mar 2020
+**Time (planned/actual):** 11h / 0h
+* Insomnia the night before messed up my entire day
+
 ## Day 13 - 20 Mar 2020
-**Time (planned/actual):** 0h / 0.89h
+**Time (planned/actual):** 0h / 0.89h 
 * TH - creating a LeveledFloat struct (it's a horrible name)
 
 ## Day 12 - 19 Mar 2020

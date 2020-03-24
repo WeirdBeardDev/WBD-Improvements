@@ -6,6 +6,35 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 16 - 23 Mar 2020
+**Time (planned/actual):** 4h / 
+* General I almost let the night slip away, however, I got off the couch and went to my office and sat down to work.
+* WBD - created aliases for my git logs
+  * log1 "log --pretty=' commit %x60%h%x60 - %s %n%b' -1"
+  * logtoday "log --pretty=' commit %x60%h%x60 - %s %n%b' --since='yesterday'"
+* TH - started coding my research tree
+  * commit `47df235` - Move ResearchItem to Classes folder 
+  * commit `78702aa` - Merge branch origin 'Research' into local Research
+  * commit `e2e4376` - Refactor LeveledFloat 
+    - streamlined the member variables
+    - streamlined the properties
+    - refactored CalculateLevel(...)
+  * commit `07b2b76` - Refactor LeveledFloat
+    - streamlined the member variables
+    - streamlined the properties
+    - refactored CalculateLevel(...)
+  * commit `657b6e2` - Refactor ResearchItem
+    - changed ResearchCompleted event to a EventHandler, removing the specialized EventArgs class
+    - changed all the setters to protected
+    - made several methods virtual so I could override them later
+    - added base IncreaseCost() and IncreaseBenefit() methods
+  * commit `b185cfa` - Create StartingIncomeResearch class 
+    - need a research item for testing
+  * commit `e89ee92` - Create basic Research Item game object for testing
+  * commit `0f1a39f` - Update Quest Location prefab button to cover progress bar
+  * commit `2327193` - Create baseline to start implementing Research
+
+
 ## Day 15 - 22 Mar 2020
 **Time (planned/actual):** 2.5h / 2.7h
 * SMD - planned my week

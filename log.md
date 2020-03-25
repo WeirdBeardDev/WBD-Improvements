@@ -6,8 +6,25 @@ I want to start my life as a game designer and developer.
 
 ---
 
+## Day 18 - 25 Mar 2020
+**Time (planned/actual):** 5h / 
+* planned WBD - edit blog and post
+* planned TH - implement starting income reserach item 
+* planned SMD - perform mid-week review
+* planned WBD - take stock of MailChimp for WBD
+* planned WBD - auth WBD domain for MailChimp
+
+## Day 17 - 24 Mar 2020
+**Time (planned/actual):** 1.5h / 2h
+* SMD - weekly review of my Master Plan - including goals and sales funnel
+  * Game dev goal: publish at least 3 games this year
+    * created itch.io profile - WeirdBeardDev
+  * Teaching goal: create a beginner's and intermediate series for C#
+    * joined r/csharp and r/learncsharp so I can engage in the communities before I start posting
+* WBD - wrote draft blog 'Planning For More Adventures'
+
 ## Day 16 - 23 Mar 2020
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 4.15h
 * General I almost let the night slip away, however, I got off the couch and went to my office and sat down to work.
 * WBD - created aliases for my git logs
   * log1 "log --pretty=' commit %x60%h%x60 - %s %n%b' -1"

@@ -1,6 +1,11 @@
 # Daily Work Log
-I want to track my efforts at building my own business, Space Monkeys Down.
-I want to start my life as a game designer and developer.  
+## Goals
+* I want to track my efforts at building my own business, Space Monkeys Down, LLC.
+* I want to start my life as a game designer and developer.
+* I want to publish 3 games by the end of 2020.
+  * 1 to Steam
+  * 1 to mobile
+  * all to [WeirdBeardDev's itch.io](https://weirdbearddev.itch.io/)
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
@@ -8,11 +13,13 @@ I want to start my life as a game designer and developer.
 
 ## Day 18 - 25 Mar 2020
 **Time (planned/actual):** 5h / 
-* planned WBD - edit blog and post
-* planned TH - implement starting income reserach item 
-* planned SMD - perform mid-week review
-* planned WBD - take stock of MailChimp for WBD
-* planned WBD - auth WBD domain for MailChimp
+* WBD - edited blog and posted [Planning For More Adventures](http://weirdbearddev.com/2020/03/25/planning-for-more-adventures/)
+* SMD - performed mid-week review
+* TH - reviewed banner sketch
+* WBD - updated MailChimp for WBD branding
+* WBD - created MC pop-up (non-modal) and added as WBD widget
+* WBD - configed auth WBD domain for MailChimp
+* FAFF - organized my Dev Notes Trello board
 
 ## Day 17 - 24 Mar 2020
 **Time (planned/actual):** 1.5h / 2h

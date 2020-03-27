@@ -11,8 +11,12 @@
 
 ---
 
+## Day 19 - 26 Mar 2020
+**Time (planned/actual):** 5h / 0h
+Kerbal Space Program was on sale and had a free trial for the next 3 days.  I've had it on my wishlist for quite some time and decided now was a good time to test it out.  I found the game well made, however, I don't have the time to invent in learning how to play.  Before I could even do basic items I had to take two training courses and even then I consulted the Internet to figure out how to complete two contracts.  If I had a dozen or so free hours a week I could invest in learning the game I would have bought it.  Alas, that's not what I want to focus on.  As it is I spent my time testing the game instead of working on my game.
+
 ## Day 18 - 25 Mar 2020
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 6.2h
 * WBD - edited blog and posted [Planning For More Adventures](http://weirdbearddev.com/2020/03/25/planning-for-more-adventures/)
 * SMD - performed mid-week review
 * TH - reviewed banner sketch

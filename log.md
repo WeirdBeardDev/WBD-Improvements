@@ -11,6 +11,16 @@
 
 ---
 
+## Day 23 - 30 Mar 2020
+**Time (planned/actual):** 5h / 5.11h
+* SMD - did weekly quest and time tracking
+* WBD - worked on Draggable Window code for blog
+* WBD - wrote TH Devlog 7 - Draggable Windows
+
+## Day 22 - 29 Mar 2020
+**Time (planned/actual):** 3h / 0
+I had the best intentions to work today and then I ate some peanut butter brownies and sat on the counch watching TV and playing [Idlescape](https://www.idlescape.com/game) and [Melvor Idle](https://melvoridle.com/).
+
 ## Day 21 - 28 Mar 2020
 **Time (planned/actual):** 10h / 6.8h
 * SMD - planned my day to maximize my time

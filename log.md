@@ -11,6 +11,25 @@
 
 ---
 
+## Day 27 - 3 Apr 2020
+**Time (planned/actual):** 2h / 
+
+## Day 26 - 2 Apr 2020
+**Time (planned/actual):** 2h / 1.1h
+I shook off my funk enough to get some work done.
+
+* WBD - edited and posted [Treasure Hunter Devlog 7 - Draggable Windows](http://weirdbearddev.com/2020/04/02/treasure-hunter-devlog-7-draggable-windows/)
+
+
+## Day 25 - 1 Apr 2020
+**Time (planned/actual):** 5h / 0h
+My funk continued.
+
+## Day 24 - 31 Mar 2020
+**Time (planned/actual):** 2h / 0h
+I was in a funk were I felt nervous about releasing my Draggable Windows code and didn't want to write new code.
+
+
 ## Day 23 - 30 Mar 2020
 **Time (planned/actual):** 5h / 5.11h
 * SMD - did weekly quest and time tracking

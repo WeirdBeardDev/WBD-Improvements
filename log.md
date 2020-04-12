@@ -11,8 +11,25 @@
 
 ---
 
-## Day 27 - 3 Apr 2020
-**Time (planned/actual):** 2h / 
+## Day 29 - 11 Apr 2020
+**Time (planned/actual):** 11h / 
+* SMD - planned my quests for next week
+* SMD - reviewed quarterly goals; updated my weekly quests
+* SMD - helped my wife setup her [Comfort Creatives Patreon](https://www.patreon.com/ComfortCreatives/posts)/Discord connection
+* TH - commit `50399e3` - Display ResearchPanel and improve internal naming 
+  - refactored Point Display prefab to display/hide Research panel except for the ones on the panel which currently do nothing
+  - renamed folder Quest Display to Location Display
+  - renamed folder Quest Zone to Exploration Zone
+  - should have renamed the folders as separate commits
+
+## Day 28 - 10 Apr 2020
+**Time (planned/actual):** 1h / 0.4h
+* SMD - did some bookkeeping
+
+## Day 27 - 7 Apr 2020
+I don't count the missing days as I did nothing work related.
+**Time (planned/actual):** 1h / 0.4h
+* WBD - took Unity's [Editor Scripting](https://learn.unity.com/tutorial/editor-scripting#5c7f8528edbc2a002053b5f6) tutorial
 
 ## Day 26 - 2 Apr 2020
 **Time (planned/actual):** 2h / 1.1h

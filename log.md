@@ -11,6 +11,16 @@
 
 ---
 
+## Day 30 - 18 Apr 2020
+**Time (planned/actual):** 2h / 2h
+* TH - commit `e0620fe` - Implement basic research item displays and leveling
+  - created a second research item - ConcurrentQuestsResearch to use for testing
+  - research panel now updates based upon the contents of the ResearchManager
+  - updated ResearchItem event, ResearchCompleted, to be static
+  - enabled clicking on a research item to increase its level, cost, and benefit
+* TH - commit `c52e62e` - Enable display of research items
+* TH - commit `de3fe69` - Update research panel to display active research tree items
+
 ## Day 29 - 11 Apr 2020
 **Time (planned/actual):** 11h / 
 * SMD - planned my quests for next week

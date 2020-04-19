@@ -11,7 +11,11 @@
 
 ---
 
-## Day 30 - 18 Apr 2020
+## Day 31 - 18 Apr 2020
+**Time (planned/actual):** 10h / 0.8h
+* SMD - planning meeting
+
+## Day 30 - 17 Apr 2020
 **Time (planned/actual):** 2h / 2h
 * TH - commit `e0620fe` - Implement basic research item displays and leveling
   - created a second research item - ConcurrentQuestsResearch to use for testing

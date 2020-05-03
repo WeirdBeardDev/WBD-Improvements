@@ -11,9 +11,15 @@
 
 ---
 
+## Day 34 - 3 May 2020
+**Work streak:** 2 days
+**Time (planned/actual):** 4h / 
+* SMD - participated in Unity's Your First Game Jam
+* SMD - performed weekly cleanup, bookkeeping, and goal review
+
 ## Day 33 - 2 May 2020
 **Work streak:** 1 day
-**Time (planned/actual):** 10h / 
+**Time (planned/actual):** 10h / 10.1h
 * SMD - created plan for next week
 * WBD - posted to PFD and created Meetup event about Unity's Your First Game Jam
 * TH - multiple commits

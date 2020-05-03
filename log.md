@@ -11,6 +11,47 @@
 
 ---
 
+## Day 33 - 2 May 2020
+**Work streak:** 1 day
+**Time (planned/actual):** 10h / 
+* SMD - created plan for next week
+* WBD - posted to PFD and created Meetup event about Unity's Your First Game Jam
+* TH - multiple commits
+  * commit `952f583` - Refactor Encounter class for research 
+    - converted BaseCost and CurrentCost into a Stat type
+    - updated code in Quest and DisplayEncounter for new Cost member
+    - created a formula for calculating base cost for all encounters
+  * commit `75dc46e` - Cleanup Stat class
+  * commit `4c3b116` - Implement new research - Increase Research Point Award
+    - created new research class
+    - updated ResearchManager to know what zone it's in
+    - moved the research item creation into ResearchManager ctor
+    - coded a test method for rewarding research points
+  * commit `b4ef0a0` - Update research benefits
+    - changed zone max locations to Stat class
+    - moved updating benefit modifier to ResearchManager class
+    - cleaned up research item game object class
+  * commit `41af2c7` - Fix bug with research
+    - fixed research benefits were applied to every quest in every zone
+    - updated ResearchManager to reward points instead of ExplorationZone
+  * commit `075e90b` - Implement research effects for new locations
+  * commit `5dfa1d4` - Implement StartingIncomeRsearch for existing quests
+    - added BenefitModifier to ResearchItem
+    - implemented BenefitModifier in ConcurrentQuest* and StartingIncomeResearch
+    - implemented StartingIncomeResearch in ExplorationZone, currently this only works for existing quests
+  * commit `2538333` - Simplify StatModifier class
+    - updated ModifierValue to have a public setter
+    - changed to auto properties
+  * commit `1dc288d` - Update ResearchEffect enum
+    - rename enum
+    - added prefix to enum options
+
+## Day 32 - 21 Apr 2020
+**Time (planned/actual):** 2h / 2.21h
+* SMD - weekly review of master plan, annual goals, and sales funnel
+* TH - commit `ac4971b` - Refactor ResearchItem text displays for cost/benefit
+* TH - commit `d22bd86` - Implement research item for increasing concurrent quests in Plains zone
+
 ## Day 31 - 18 Apr 2020
 **Time (planned/actual):** 10h / 0.8h
 * SMD - planning meeting

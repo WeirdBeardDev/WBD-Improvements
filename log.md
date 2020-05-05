@@ -11,9 +11,29 @@
 
 ---
 
+## Day 35 - 4 May 2020
+**Work streak:** 3 days
+**Time (planned/actual):** 5.5h / 
+* SMD - added Unity Connect to my sales funnel
+* SMD - created game page for Treasure Hunter: Quixxen's Suit
+* WBD - code formatting, added FORMULA tag for VS Code extension Todo Tree, now I can find all my formulas through out the code
+* TH - finalized banner for TH
+* TH - multiple commits
+  * commit `6fe7661` - Refactor UpdateResearchEffect to ImproveLocations 
+    - moved code to ResearchManager
+    - refactored ExplorationZone to work with new code
+    - found a BUG in Location, created a hack to make this work
+  * commit `23b7461` - Add new research item for reducing cost of all encounters
+    - fixed encounter cost
+    - created new class ReduceAllEncounterCostResearch
+    - updated enum ResearchEffect
+    - added new effect to UpdateResearchEffect
+    - add new research to Tree
+  * commit `5a220d7` - Update encounter base cost formula
+
 ## Day 34 - 3 May 2020
 **Work streak:** 2 days
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 2.6h
 * SMD - participated in Unity's Your First Game Jam
 * SMD - performed weekly cleanup, bookkeeping, and goal review
 

@@ -11,14 +11,24 @@
 
 ---
 
+## Day 36 - 5 May 2020
+**Work streak:** 4 days
+**Time (planned/actual):** 2h / 
+* TH - 2 commits
+  * commit `9d63472` - Add new research - ignore encounter cost 
+    - added FreeAmount to track free buildings
+    - HACK changed ComputeCost() to a public method
+    - moved ResearchEffect enum to ResearchManager file
+  * commit `ba4482f` - Add encounter cost formula
+
 ## Day 35 - 4 May 2020
 **Work streak:** 3 days
-**Time (planned/actual):** 5.5h / 
+**Time (planned/actual):** 5.5h / 4.1h
 * SMD - added Unity Connect to my sales funnel
 * SMD - created game page for Treasure Hunter: Quixxen's Suit
 * WBD - code formatting, added FORMULA tag for VS Code extension Todo Tree, now I can find all my formulas through out the code
 * TH - finalized banner for TH
-* TH - multiple commits
+* TH - 3 commits
   * commit `6fe7661` - Refactor UpdateResearchEffect to ImproveLocations 
     - moved code to ResearchManager
     - refactored ExplorationZone to work with new code
@@ -42,7 +52,7 @@
 **Time (planned/actual):** 10h / 10.1h
 * SMD - created plan for next week
 * WBD - posted to PFD and created Meetup event about Unity's Your First Game Jam
-* TH - multiple commits
+* TH - 9 commits
   * commit `952f583` - Refactor Encounter class for research 
     - converted BaseCost and CurrentCost into a Stat type
     - updated code in Quest and DisplayEncounter for new Cost member

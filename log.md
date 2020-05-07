@@ -11,9 +11,17 @@
 
 ---
 
+## Day 37 - 6 May 2020
+**Work streak:** 5 days
+**Time (planned/actual):** 5h / 
+* SMD - reviewed my progress for week
+* WBD - engaged community on PFD, HRUUG, and a few reddit communities
+* WBD - wrote a devlog about Treasure Hunter
+* WBD - troubleshot an error in Unity where I couldn't select anything in my scene - somehow the UI layer got locked WTF??!!
+
 ## Day 36 - 5 May 2020
 **Work streak:** 4 days
-**Time (planned/actual):** 2h / 
+**Time (planned/actual):** 2h / 1.5h
 * TH - 2 commits
   * commit `9d63472` - Add new research - ignore encounter cost 
     - added FreeAmount to track free buildings

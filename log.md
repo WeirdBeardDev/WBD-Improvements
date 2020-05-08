@@ -11,9 +11,20 @@
 
 ---
 
+## Day 38 - 7 May 2020
+**Work streak:** 6 days
+**Time (planned/actual):** 5h / 
+* SMD - reviewed weekly quest template, made updates to reflect reality
+* WBD - posted [A Banner and Research](http://weirdbearddev.com/2020/05/07/a-banner-and-research/) blog and shared out
+* WBD - updated VS Code to April 2020 (v1.45); read about update
+* TH - 2 commits
+  * commit `1f3eaf2` - Add IsObtainable to ResearchManager 
+  * commit `45f75d0` - Add SelectedLocation property to GameManager
+* Personal note - I spent about 2 hours messing around with my new binoculars and cellphone adapter mount, I need a tripod 😄
+
 ## Day 37 - 6 May 2020
 **Work streak:** 5 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 4.8h
 * SMD - reviewed my progress for week
 * WBD - engaged community on PFD, HRUUG, and a few reddit communities
 * WBD - wrote a devlog about Treasure Hunter

@@ -11,9 +11,15 @@
 
 ---
 
+## Day 39 - 8 May 2020
+**Work streak:** 7 days
+**Time (planned/actual):** 2h / 
+* Personal - I don't feel like working today, however, I don't want to break my streak so here I am.
+* TH - worked on getting the correct research tree to show up when clicked for about an hour, but nothing to commit
+
 ## Day 38 - 7 May 2020
 **Work streak:** 6 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 3.6h
 * SMD - reviewed weekly quest template, made updates to reflect reality
 * WBD - posted [A Banner and Research](http://weirdbearddev.com/2020/05/07/a-banner-and-research/) blog and shared out
 * WBD - updated VS Code to April 2020 (v1.45); read about update

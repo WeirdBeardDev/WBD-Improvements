@@ -11,9 +11,16 @@
 
 ---
 
+## Day 40 - 9 May 2020
+**Work streak:** 8 days
+**Time (planned/actual):** 9.5 / 
+* SMD - make a plan for 10-16 May 2020
+* TH - no commits - I need to refactor quite a bit to get multizone research trees to work 😦
+
+
 ## Day 39 - 8 May 2020
 **Work streak:** 7 days
-**Time (planned/actual):** 2h / 
+**Time (planned/actual):** 2h / 1.5h
 * Personal - I don't feel like working today, however, I don't want to break my streak so here I am.
 * TH - worked on getting the correct research tree to show up when clicked for about an hour, but nothing to commit
 

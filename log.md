@@ -11,9 +11,22 @@
 
 ---
 
+## Day 41 - 10 May 2020
+** Work streak:** 9 days
+**Time (planned/actual):** 3.5h / 
+* SMD - weekly quest clean up, and bookkeeping
+* TH - 2 commits
+  * commit `15a3572` - Fix ResearchItem IEquatable and IComparable code
+  * commit `c4001b8` - Add multizone research trees 
+    - created new prefab:RP Display to replace prefab:Points Display
+    - removed all prefab:Points Display variants
+    - updated prefab:Exploration Zone to use new prefab:RP Display
+    - made GameManager know which research tree is visible
+* WBD - updated TH banner and banner title with corrected copies on [A Banner and Research](http://weirdbearddev.com/2020/05/07/a-banner-and-research/) devlog
+
 ## Day 40 - 9 May 2020
 **Work streak:** 8 days
-**Time (planned/actual):** 9.5 / 
+**Time (planned/actual):** 9.5h / 4.3h
 * SMD - make a plan for 10-16 May 2020
 * TH - no commits - I need to refactor quite a bit to get multizone research trees to work 😦
 

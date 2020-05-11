@@ -11,9 +11,20 @@
 
 ---
 
+## Day 42 - 11 May 2020
+**Work streak:** 10 days
+**Time (planned/actual):** 4.5h / 
+* Personal - I was sick last night and got little sleep and that was broken.  I will do some work to keep my streak going, but most of today I will log as sick time.
+* SMD - reviewed master plan; updated my weekly quest list to make sure I remember to use the master plan when I create my quest list
+* TH - 3 commits
+  * commit `4cf99e5` - Add new goal - HaveAmountGoal 
+    - did a temp hack to create goals inside Quest class, will move this a factory later
+  * commit `b080607` - Fix bug that caused the research panel title not to update
+  * commit `b880a74` - Enable purchasing research items
+
 ## Day 41 - 10 May 2020
-** Work streak:** 9 days
-**Time (planned/actual):** 3.5h / 
+**Work streak:** 9 days
+**Time (planned/actual):** 3.5h / 2.1h
 * SMD - weekly quest clean up, and bookkeeping
 * TH - 2 commits
   * commit `15a3572` - Fix ResearchItem IEquatable and IComparable code

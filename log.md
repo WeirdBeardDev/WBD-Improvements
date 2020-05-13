@@ -11,9 +11,18 @@
 
 ---
 
+## Day 43 - 12 May 2020
+**Work streak:** 11 days
+**Time (planned/actual):** 1.5h / 
+* SMD - update daily work log and TH workspace
+* TH - 3 commits
+  * commit `60aea87` - Hack a fix for research point display growing
+  * commit `3bbbbc1` - Add GoalFactory to generate goals
+  * commit `fa1c343` - Add EncounterTypeGoal as an option
+
 ## Day 42 - 11 May 2020
 **Work streak:** 10 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 4.5h
 * Personal - I was sick last night and got little sleep and that was broken.  I will do some work to keep my streak going, but most of today I will log as sick time.
 * SMD - reviewed master plan; updated my weekly quest list to make sure I remember to use the master plan when I create my quest list
 * TH - 3 commits
@@ -21,6 +30,7 @@
     - did a temp hack to create goals inside Quest class, will move this a factory later
   * commit `b080607` - Fix bug that caused the research panel title not to update
   * commit `b880a74` - Enable purchasing research items
+* SMD - rounded out day with sick time
 
 ## Day 41 - 10 May 2020
 **Work streak:** 9 days

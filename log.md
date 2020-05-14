@@ -11,9 +11,16 @@
 
 ---
 
+## Day 44 - 13 May 2020
+**Work streak:** 12 days
+**Time (planned/actual):** 5h / 
+* SMD - mid-week review
+* WBD - community engagement; create PFD event for next Tues; shared HRUUG meetup on Twitter; posted on reddit; posted on Twitter
+* WBD - wrote draft devlog - "Research Complete - Heading Towards Alpha"
+
 ## Day 43 - 12 May 2020
 **Work streak:** 11 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 2.1h
 * SMD - update daily work log and TH workspace
 * TH - 3 commits
   * commit `60aea87` - Hack a fix for research point display growing

@@ -11,9 +11,23 @@
 
 ---
 
+## Day 45 - 14 May 2020
+**Work streak:** 13 days
+**Time (planned/actual):** 4.5h / 
+* Personal note - I don't want to break my work streak so I'm pushing through and determined to get at least a few hours in tonight.
+* SMD - reviewed plan for the day
+* WBD - posted devlog "Research Complte - Heading Towards Alpha"
+* TH - merged `Research` onto `master`; created `savemgt` branch
+* TH - reviewed existing code for saving/loading; turns out I had a working implementation for saving/loading back in Sept; somewhere along the way I deleted key pieces of the code; luckily git has it all stored so I can find the missing pieces and then fit them into the existing code base
+* TH - created `workingsave` branch from Sept's code so I can use it as a reference
+* TH - 3 commits
+  * commit `16e00ea` - Cleanup GameObjectExtension using statements 
+  * commit `df5642b` - Resolved merge conflicts
+  * commit `3cf9124` - Add company and project name
+
 ## Day 44 - 13 May 2020
 **Work streak:** 12 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 3.4h
 * SMD - mid-week review
 * WBD - community engagement; create PFD event for next Tues; shared HRUUG meetup on Twitter; posted on reddit; posted on Twitter
 * WBD - wrote draft devlog - "Research Complete - Heading Towards Alpha"

@@ -11,9 +11,17 @@
 
 ---
 
+## Day 46 - 15 May 2020
+**Work streak:** 14 days
+**Time (planned/actual):** 1.5h / 
+* Personal note - I attended a virtual graduation of a friend tonight
+* WBD - community engagement on reddit and tumblr
+* TH - 1 commit
+  * commit `194c378` - Laid groundwork for implementing save/load mechanics 
+
 ## Day 45 - 14 May 2020
 **Work streak:** 13 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 3.5h
 * Personal note - I don't want to break my work streak so I'm pushing through and determined to get at least a few hours in tonight.
 * SMD - reviewed plan for the day
 * WBD - posted devlog "Research Complte - Heading Towards Alpha"

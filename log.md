@@ -11,9 +11,22 @@
 
 ---
 
+## Day 47 - 16 May 2020
+**Work streak:** 15 days
+**Time (planned/actual):** 5.5h / 
+* SMD - reviewed goals for next week
+* SMD - planned my work for next week
+* TH - got file saving and loading working - it correctly saves some game state but does not reload it yet; next steps are to save all game state and then load and apply a saved game
+* TH - watched a few videos on serialization as a refresher
+* TH - 1 commits
+  * commit `ece5021` - Add save capability 
+    - game saves some game state, and can load the file but not update running game state
+    - only active zones are saved
+    - turned Quest:Location into a NonSerialized member because the MonoBehaviour can't be serialized this way
+
 ## Day 46 - 15 May 2020
 **Work streak:** 14 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 1.3h
 * Personal note - I attended a virtual graduation of a friend tonight
 * WBD - community engagement on reddit and tumblr
 * TH - 1 commit

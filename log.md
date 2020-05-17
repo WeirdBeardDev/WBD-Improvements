@@ -1,19 +1,39 @@
 # Daily Work Log
 ## Goals
-* I want to track my efforts at building my own business, Space Monkeys Down, LLC.
+* I want to track my efforts at building my own business, Space Monkeys Down.
 * I want to start my life as a game designer and developer.
 * I want to publish 3 games by the end of 2020.
   * 1 to Steam
   * 1 to mobile
   * all to [WeirdBeardDev's itch.io](https://weirdbearddev.itch.io/)
+* I want to spend at least 20 hours a week on building my business.
+* I want to achieve a 100 day streak for working on my business.
+  * I need to spend at least 1 hour of good work for it to count towards my streak.
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
 ---
 
+## Day 48 - 17 May 2020
+**Work streak:** 16 days
+**Time (planned/actual):** 3.5h / 
+* SMD - weekly quest cleanup; time tracking
+  * I want to start spending about 50% of my time on my game project
+  * SMD: 15% (3.29/21.62)
+  * TH: 44% (9.62/21.62)
+  * WBD: 25% (5.41/21.62)
+  * Sick: 15% (3.3/21.62)
+  * I completed 55% of my quest list last week.
+* TH - 2 commits
+  * commit `ac35bdf` - Refactor game saving/loading
+    - SaveData has a version number
+    - SaveData is now setup to track all high-level objects which will then auto-track their own hierarchy
+    - created ZoneData to store ExplorationZone data as their is no language-only version
+  * commit `c18e211` - Fix progress bar prefab to display correctly
+
 ## Day 47 - 16 May 2020
 **Work streak:** 15 days
-**Time (planned/actual):** 5.5h / 
+**Time (planned/actual):** 5.5h / 4.8h
 * SMD - reviewed goals for next week
 * SMD - planned my work for next week
 * TH - got file saving and loading working - it correctly saves some game state but does not reload it yet; next steps are to save all game state and then load and apply a saved game

@@ -14,9 +14,19 @@
 
 ---
 
+## Day 49 - 18 May 2020
+**Work streak:** 17 days
+**Time (planned/actual):** 3.5h / 
+* SMD - identified a bunch of business goals for Q3 and recorded them on my master plan
+* SMD - review annual goals - I realized I don't have due dates for any of my goals, so I added them and organized my goals a bit better
+* SMD - reviewed sales funnel, realizing I need to learn more about Twitter, Ko-fi, and Unity Connect
+* TH - 1 commits
+  * commit `fb23785` - Add autosave feature
+* Personal note - I had a TAGS meeting tonight which I let break my focus and I never got back to work.
+
 ## Day 48 - 17 May 2020
 **Work streak:** 16 days
-**Time (planned/actual):** 3.5h / 
+**Time (planned/actual):** 3.5h / 1.7h
 * SMD - weekly quest cleanup; time tracking
   * I want to start spending about 50% of my time on my game project
   * SMD: 15% (3.29/21.62)

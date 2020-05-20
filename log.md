@@ -14,9 +14,16 @@
 
 ---
 
+## Day 50 - 19 May 2020
+**Work streak:** 18 days
+**Time (planned/actual):** 1.5h / 
+* SMD - review work for the day
+* WBD - attend the PFD and HRUUG virtual meetup on Discord
+* TH - worked on applying the load file; I have lots of refactoring to do
+
 ## Day 49 - 18 May 2020
 **Work streak:** 17 days
-**Time (planned/actual):** 3.5h / 
+**Time (planned/actual):** 3.5h / 1.5h
 * SMD - identified a bunch of business goals for Q3 and recorded them on my master plan
 * SMD - review annual goals - I realized I don't have due dates for any of my goals, so I added them and organized my goals a bit better
 * SMD - reviewed sales funnel, realizing I need to learn more about Twitter, Ko-fi, and Unity Connect

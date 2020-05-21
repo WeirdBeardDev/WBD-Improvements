@@ -14,9 +14,21 @@
 
 ---
 
+## Day 51 - 20 May 2020
+**Work streak:** 19 days
+**Time (planned/actual):** 5h / 1.8h
+* TH - mid-week review
+* TH - 1 commits
+  * commit `616de84` - Add multiple items 
+    - didn't follow atomic commits
+    - added zone backgrounds as a test
+    - refactored completing encounter code
+    - working on applying loaded data, running into errors with null refs
+* Personal note: I was falling asleep coding so I quit early
+
 ## Day 50 - 19 May 2020
 **Work streak:** 18 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 5.4h
 * SMD - review work for the day
 * WBD - attend the PFD and HRUUG virtual meetup on Discord
 * TH - worked on applying the load file; I have lots of refactoring to do

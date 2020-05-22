@@ -14,6 +14,22 @@
 
 ---
 
+## Day 52 - 21 May 2020
+**Work streak:** 20 days
+**Time (planned/actual):** 2h
+* Personal note - today was a long rough day at my day job
+* Personal note - I got into a groove once I made myself sit down and work
+* TH - 7 commits
+  * commit `78502ea` - Add goal updates to DisplayLocation 
+  * commit `235adc8` - Refactor CurrencyGO properties
+  * commit `9045058` - Add documentation comment
+  * commit `88da4d6` - Add encounter updates to DisplayLocation
+  * commit `132bcc6` - Add currency updates to DisplayLocation
+  * commit `7572620` - Create DisplayLocation script
+    - moved title updating code here
+    - made the background change based on different zones
+  * commit `731bc18` - Minor update
+
 ## Day 51 - 20 May 2020
 **Work streak:** 19 days
 **Time (planned/actual):** 5h / 1.8h

@@ -14,10 +14,25 @@
 
 ---
 
+## Day 53 - 22 May 2020
+**Work streak:** 21 days
+**Time (planned/actual):** 1.5h / 
+* WBD - watched [Software Design Patterns & Unity](https://www.youtube.com/watch?v=Cdt1So_yzbs&feature=youtu.be)
+* WBD - watched [ScriptableObjects Events in Unity](https://www.youtube.com/watch?v=gXD2z_kkAXs)
+* SMD - reviewed weekly quests ⏲
+* TH - 3 commits
+  * commit `bf896e0` - Start refactoring of loading research
+  * commit `88d647a` - Fix loading game state
+    - zones, locations, quests, encounters, and goals now work on reload
+    - still need to test research
+    - SelectedLocation events are only captured in GameManager
+  * commit `328e499` - Refactor goal achieved event
+    - removed GoalAchievedEventArts class as it is not needed
+
 ## Day 52 - 21 May 2020
 **Work streak:** 20 days
-**Time (planned/actual):** 2h
-* Personal note - today was a long rough day at my day job
+**Time (planned/actual):** 2h / 3.4h
+* Personal note - today was a long, rough day at my day job
 * Personal note - I got into a groove once I made myself sit down and work
 * TH - 7 commits
   * commit `78502ea` - Add goal updates to DisplayLocation 

@@ -14,12 +14,29 @@
 
 ---
 
+## Day 54 - 23 May 2020
+**Work streak:** 22 days
+**Time (planned/actual):** 8h / 
+* SMD - created plan for next week
+* SMD - updated cover letter and resume; submitted job app to Mohawk Games for QA Tester position
+* WBD - learned about WebGL publishing
+* WBD - test published TH to localhost and it worked, even saving/loading
+* WBD - test published TH to Windows
+* TH - 2 commits
+  * commit `c5ddd40` - Add close button and setup two builds 
+    - built a WebGL build
+    - built a Windows build
+  * commit `c9a729c` - Add research tree to load game
+    - fixed a bug in Stat class
+    - enabled creating research GOs as needed
+* FAFF - organized my dev notes a bit
+
 ## Day 53 - 22 May 2020
 **Work streak:** 21 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 3h
 * WBD - watched [Software Design Patterns & Unity](https://www.youtube.com/watch?v=Cdt1So_yzbs&feature=youtu.be)
 * WBD - watched [ScriptableObjects Events in Unity](https://www.youtube.com/watch?v=gXD2z_kkAXs)
-* SMD - reviewed weekly quests ⏲
+* SMD - reviewed weekly quests
 * TH - 3 commits
   * commit `bf896e0` - Start refactoring of loading research
   * commit `88d647a` - Fix loading game state
@@ -280,6 +297,7 @@
 **Time (planned/actual):** 10h / 0.8h
 * SMD - planning meeting
 
+# Days 1-30 - 8 Mar - 17 Apr 2020
 ## Day 30 - 17 Apr 2020
 **Time (planned/actual):** 2h / 2h
 * TH - commit `e0620fe` - Implement basic research item displays and leveling

@@ -15,6 +15,14 @@
 
 ---
 
+## Day 56 - 25 May 2020
+**Work streak:** 24 days
+**Time (planned/actual):** 8h / 
+* Personal note - my wife and I want to spend some time together so I'm only going to work part of my planned day
+* SMD - assessed my plan to take part of the day off
+* WBD - edited, posted, and shared Saving and Loading For the Win!
+* WBD - started creating itch.io page for TH; not finished yet
+
 ## Day 55 - 24 May 2020
 **Work streak:** 23 days
 **Time (planned/actual):** 3.5h / 3.1h

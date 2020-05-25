@@ -21,10 +21,12 @@
 * SMD - weekly quest cleanup; time tracking 
   * Total:  22.86h
   * Quests: 31  
+
 | Quests Completed |  SMD  |  TH   |  WBD  | FAFF  |
 | :--------------: | :---: | :---: | :---: | :---: |
 |       52%        |  17%  |  52%  |  28%  |  3%   |
 |        16        | 3.94  | 11.82 | 6.41  | 0.69  |
+
 * WBD - turned on Google analytics for my site
 * WBD - wrote blog "Saving and Loading For the Win!"
 * TH - 2 commits

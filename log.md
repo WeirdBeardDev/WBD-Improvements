@@ -17,10 +17,10 @@
 
 ## Day 55 - 24 May 2020
 **Work streak:** 23 days
-**Time (planned/actual):** 3.5h / 
-* SMD - weekly quest cleanup; time tracking ⏲
+**Time (planned/actual):** 3.5h / 3.1h
+* SMD - weekly quest cleanup; time tracking 
   * Total:  22.86h
-  * Quests: 31
+  * Quests: 31  
 | Quests Completed |  SMD  |  TH   |  WBD  | FAFF  |
 | :--------------: | :---: | :---: | :---: | :---: |
 |       52%        |  17%  |  52%  |  28%  |  3%   |

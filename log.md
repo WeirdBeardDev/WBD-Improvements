@@ -9,14 +9,34 @@
 * I want to spend at least 20 hours a week on building my business.
 * I want to achieve a 100 day streak for working on my business.
   * I need to spend at least 1 hour of good work for it to count towards my streak.
+* I want to complete >90% of my quest list every week. (added 24 May 2020)
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
 ---
 
+## Day 55 - 24 May 2020
+**Work streak:** 23 days
+**Time (planned/actual):** 3.5h / 
+* SMD - weekly quest cleanup; time tracking ⏲
+  * Total:  22.86h
+  * Quests: 31
+| Quests Completed |  SMD  |  TH   |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       52%        |  17%  |  52%  |  28%  |  3%   |
+|        16        | 3.94  | 11.82 | 6.41  | 0.69  |
+* WBD - turned on Google analytics for my site
+* WBD - wrote blog "Saving and Loading For the Win!"
+* TH - 2 commits
+  * commit `2f5601a` - Remove unnecessary usings in SaveData
+  * commit `15f8a61` - Enable multiple goals in game 
+    * HaveAmountGoal 
+    * EncounterTypeGoal 
+    * IncomeGoal
+  
 ## Day 54 - 23 May 2020
 **Work streak:** 22 days
-**Time (planned/actual):** 8h / 
+**Time (planned/actual):** 8h / 6h
 * SMD - created plan for next week
 * SMD - updated cover letter and resume; submitted job app to Mohawk Games for QA Tester position
 * WBD - learned about WebGL publishing

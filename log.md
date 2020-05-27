@@ -15,9 +15,23 @@
 
 ---
 
+## Day 57 - 26 May 2020
+**Work streak:** 25 days
+**Time (planned/actual):** 1.5h / 
+* SMD - review Discord servers I'm a part of
+* WBD - installed [Node.js](https://nodejs.org/en/) and [http-server](https://www.npmjs.com/package/http-server) so I can run local servers if I want for WebGL testing
+* TH - 3 commits
+  * commit `d0013c7` - Setup for alpha release
+  * commit `e5db5a2` - Add new icons
+  * commit `d4226f0` - Add reset game functionality
+* TH - created 3 tags
+  * v0.1 - annotated tag pushed to origin
+  * v0.1-web - GitHub release for WebGL build with zip
+  * v0.1-standalone - GitHub release for Windows build with zip
+
 ## Day 56 - 25 May 2020
 **Work streak:** 24 days
-**Time (planned/actual):** 8h / 
+**Time (planned/actual):** 8h / 2.3h
 * Personal note - my wife and I want to spend some time together so I'm only going to work part of my planned day
 * SMD - assessed my plan to take part of the day off
 * WBD - edited, posted, and shared Saving and Loading For the Win!

@@ -15,9 +15,29 @@
 
 ---
 
+## Day 58 - 27 May 2020
+**Work streak:** 26 days
+**Time (planned/actual):** 5h / 
+* SMD - discussed creating and selling an icon pack later this year
+* WBD - cleaned up GitHub releases so that there is only 1 release and the WebGL and Windows zip files are attached to it
+* SMD - mid-week review ⏲
+* WBD - worked on itch.io page, it hosts my game but I get a blank screen and no errors in the console ⏲
+  * I don't see an entry in IndexedDB saving "zones.smd"
+  * fixed it with commit `d6625fe`
+  * created new build files; new release v0.1.1
+  * made additional changes to itch page including
+    * adding a devlog - Saving and Loading For the Win!
+    * adding new sections to the description including Dev Status and Gameplay Status
+    * updated widget page as I will use that on my WBD page to direct people to itch to play the game
+    * tomorrow I will build the WBD page and then do a final check on the itch page
+* TH - 2 commits
+  * commit `2ce80ee` - Update project name
+  * commit `d6625fe` - Fix stack overflow bug
+    * calling FirstLocation when no Locations exists caused a stack overflow
+
 ## Day 57 - 26 May 2020
 **Work streak:** 25 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 4.7h
 * SMD - review Discord servers I'm a part of
 * WBD - installed [Node.js](https://nodejs.org/en/) and [http-server](https://www.npmjs.com/package/http-server) so I can run local servers if I want for WebGL testing
 * TH - 3 commits

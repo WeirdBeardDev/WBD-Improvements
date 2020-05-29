@@ -15,13 +15,24 @@
 
 ---
 
+## Day 59 - 28 May 2020
+**Work streak:** 27 days
+**Time (planned/actual):** 4h / 
+* Peronsal note: I got distressing news about my cat and am determined to keep my streak going but not much more
+* SMD - setup and review my work for the day
+* WBD - reviewed WP and GA stats for WBD
+* WBD - reviewed itch page for TH
+* WBD - created [Games](http://weirdbearddev.com/games/) portfolio page
+* WBD - added TH to the portfolio and added a link to in the Games menu
+* WBD - discovered I can't use the itch.io widget in Premium WP.com site as it needs an iframe tag
+
 ## Day 58 - 27 May 2020
 **Work streak:** 26 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 7.1h
 * SMD - discussed creating and selling an icon pack later this year
 * WBD - cleaned up GitHub releases so that there is only 1 release and the WebGL and Windows zip files are attached to it
-* SMD - mid-week review ⏲
-* WBD - worked on itch.io page, it hosts my game but I get a blank screen and no errors in the console ⏲
+* SMD - mid-week review
+* WBD - worked on itch.io page, it hosts my game but I get a blank screen and no errors in the console
   * I don't see an entry in IndexedDB saving "zones.smd"
   * fixed it with commit `d6625fe`
   * created new build files; new release v0.1.1

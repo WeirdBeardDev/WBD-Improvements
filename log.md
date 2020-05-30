@@ -15,9 +15,20 @@
 
 ---
 
+## Day 60 - 29 May 2020
+**Work streak:** 28 days
+**Time (planned/actual):** 1.5h / 
+* WBD - check stats (on site & GA) for WBD, itch, TH
+* WBD - wrote up build process for WebGL
+* WBD - posted TH to [r/incremental_games](https://www.reddit.com/r/incremental_games/) [Feedback Friday 2020-05-29](https://www.reddit.com/r/incremental_games/comments/gshy0j/feedback_friday_20200529/) post
+* WBD - got feedback from watching Pedro's YouTube video - [Feedback Friday Treasure Hunter](https://www.youtube.com/watch?v=xSIiP2zsHFI&feature=youtu.be)
+* WBD - played [Pedro's game](https://pidroh.github.io/DanceSDL/) and provided feedback on r/incremental_games [Feedback Friday 2020-05-29](https://www.reddit.com/r/incremental_games/comments/gshy0j/feedback_friday_20200529/fs5ipi1/)
+* WBD - talked with a friend about learning Google Analytics
+
+
 ## Day 59 - 28 May 2020
 **Work streak:** 27 days
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 2.5h
 * Peronsal note: I got distressing news about my cat and am determined to keep my streak going but not much more
 * SMD - setup and review my work for the day
 * WBD - reviewed WP and GA stats for WBD

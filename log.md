@@ -34,6 +34,12 @@
   * commit `311678c` - Add background displays to research panel
   * commit `7b2c5bc` - Add swamps background
   * commit `5e85966` - Add new progress bar piping
+* WBD - improved my git log alias commands
+  * `git log1` = `log --pretty='* commit %x60%h%x60 (%cd) - %s %n%b' -1 --date=relative`
+  * `git logtoday` = `log --pretty='* commit %x60%h%x60 (%cd) - %s' --since='12:00:00' --date=short`
+  * `git logx -#` = `log --pretty='* commit %x60%h%x60 (%cd) - %s' --date=short`
+  * `git logfullx -#` = `log --pretty='* commit %x60%h%x60 (%cd) - %s%n%b' --date=short`
+
 
 ## Day 61 - 30 May 2020
 **Work streak:** 29 days

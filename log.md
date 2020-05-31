@@ -15,9 +15,36 @@
 
 ---
 
+## Day 61 - 30 May 2020
+**Work streak:** 29 days
+**Time (planned/actual):** 6.5h / 
+* WBD - reviewed metrics for WBD, and TH
+* WBD - responded to feedback on reddit, see [u/DangerBrijowt's comment](https://www.reddit.com/r/incremental_games/comments/gshy0j/feedback_friday_20200529/fsb2m6s/)
+* SMD - created my plan for next week
+* WBD - posted a discussion topic and a project entry on the message board in HRUUG group
+* WBD - updated my [Tips & Tricks](https://weirdbearddev.com/resources/tips-tricks/) page
+* WBD - updated my [Learning](https://weirdbearddev.com/resources/learning/) page
+* WBD - responded to more feedback on reddit
+* WBD - added a shortcut keys section to itch page
+* TH - 7 commits
+  * found bug in restoring research levels, documented for later fixing
+  * merged into master
+  * commit `e4739d4` - Fix exploration zone scroll bar not reaching the bottom
+  * commit `7a6eb78` - Fix pass thru scrolling in exploration zone
+  * commit `e563452` - Add zone specific scrolling to entire zone area
+  * commit `a5dfc6b` - Fix null ref error in Editor mode
+  * commit `8595f4a` - Turn off autosave during Editor testing
+  * commit `86ffa6a` - Fix scrollbars in each zone
+    * the prefab defaults were overridden with weird values
+    * reset the vertical scrollbars to prefab defaults and it works correctly
+    * fixed issue were is wasn't scrolling to the bottom
+  * commit `475fe64` - Setup game for testing in the Unity Editor
+    * added #if directives around key code so that when I'm testing the game is easier
+    * when I build the code it will revert to PROD code
+
 ## Day 60 - 29 May 2020
 **Work streak:** 28 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 3.6h
 * WBD - check stats (on site & GA) for WBD, itch, TH
 * WBD - wrote up build process for WebGL
 * WBD - posted TH to [r/incremental_games](https://www.reddit.com/r/incremental_games/) [Feedback Friday 2020-05-29](https://www.reddit.com/r/incremental_games/comments/gshy0j/feedback_friday_20200529/) post

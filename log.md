@@ -15,9 +15,29 @@
 
 ---
 
+## Day 62 - 31 May 2020
+**Work streak:** 30 days
+**Time (planned/actual):** 3.5h / 
+* WBD - reviewed metrics for WBD and TH (itch)
+* SMD - weekly quest cleanup; time tracking
+  * Total: 30.78h
+  * Planned Quests: 39
+
+| Quests Completed |  SMD  |  TH   |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       67%        |  19%  |  57%  |  24%  |  0%   |
+|        26        | 5.76  | 17.68 | 7.34  |   0   |
+
+* WBD - wrote and posted [blog](http://weirdbearddev.com/2020/05/31/treasure-hunter-alpha-released/) about TH alpha release on itch.io
+* TH - started reading [Choosing the Resolution of Your 2D Art Assets](https://blogs.unity3d.com/2018/11/19/choosing-the-resolution-of-your-2d-art-assets/)
+* TH - 3 commits
+  * commit `311678c` - Add background displays to research panel
+  * commit `7b2c5bc` - Add swamps background
+  * commit `5e85966` - Add new progress bar piping
+
 ## Day 61 - 30 May 2020
 **Work streak:** 29 days
-**Time (planned/actual):** 6.5h / 
+**Time (planned/actual):** 6.5h / 7.4h
 * WBD - reviewed metrics for WBD, and TH
 * WBD - responded to feedback on reddit, see [u/DangerBrijowt's comment](https://www.reddit.com/r/incremental_games/comments/gshy0j/feedback_friday_20200529/fsb2m6s/)
 * SMD - created my plan for next week
@@ -42,6 +62,7 @@
     * added #if directives around key code so that when I'm testing the game is easier
     * when I build the code it will revert to PROD code
 
+# Days 31-60 - 18 Apr - 29 May 2020
 ## Day 60 - 29 May 2020
 **Work streak:** 28 days
 **Time (planned/actual):** 1.5h / 3.6h

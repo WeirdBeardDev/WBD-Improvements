@@ -15,9 +15,21 @@
 
 ---
 
+## Day 63 - 1 June 2020
+**Work streak:** 31 days
+**Time (planned/actual):** 4.5h / 
+* WBD - reviewed metrics for WBD and TH
+* WBD - participated in Solo Game Developers stand up
+* TH - found and marked all current formula locations; updated TH sheet with current formulas
+* TH - 4 commits
+  * commit `8180e5f` (2020-06-01) - Mark all formula locations
+  * commit `85bf92e` (2020-06-01) - Move goal button to under the quest title
+  * commit `3f94dee` (2020-06-01) - Hide close button in Editor and WebGL versions
+  * commit `66bfd9c` (2020-06-01) - Update research panel and associated research items
+
 ## Day 62 - 31 May 2020
 **Work streak:** 30 days
-**Time (planned/actual):** 3.5h / 
+**Time (planned/actual):** 3.5h / 4h
 * WBD - reviewed metrics for WBD and TH (itch)
 * SMD - weekly quest cleanup; time tracking
   * Total: 30.78h

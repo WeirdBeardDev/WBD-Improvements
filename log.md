@@ -15,6 +15,19 @@
 
 ---
 
+## Day 64 - 2 June 2020
+**Work streak:** 32 days
+**Time (planned/actual):** 1.5h / 
+* Active Timers ⏲
+  * SMD Work
+  * TH Marketing
+  * TH Design
+  * WBD Creation
+* TH - reviewed metrics for WBD and TH
+* TH - reviewed multibuy formulas for additive and multiplictive
+* TH - redesign of encounter grid into a table layout like Matters of Scale
+* SMD - updated time tracker cards in Trello
+
 ## Day 63 - 1 June 2020
 **Work streak:** 31 days
 **Time (planned/actual):** 4.5h / 

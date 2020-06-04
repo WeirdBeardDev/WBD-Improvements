@@ -15,14 +15,22 @@
 
 ---
 
+## Day 65 - 3 June 2020
+**Work streak:** 33 days
+**Time (planned/actual):** 5h / 
+* SMD - spent time troubleshooting wife's Wacom tablet
+* WBD - posted Unity news to HRUUG
+* WBD - wrote first draft of "Upcoming Features for Treasure Hunter"
+* TH - review metrics for TH
+* TH - started design for updating the Goal display
+* TH - 3 commits
+  * commit `84affef` (2020-06-03) - Show correct map and fragments totals
+  * commit `3d1b854` (2020-06-03) - Hide progress bar is quest is not doable
+  * commit `6c890f3` (2020-06-03) - Redesign encounter display
+
 ## Day 64 - 2 June 2020
 **Work streak:** 32 days
-**Time (planned/actual):** 1.5h / 
-* Active Timers ⏲
-  * SMD Work
-  * TH Marketing
-  * TH Design
-  * WBD Creation
+**Time (planned/actual):** 1.5h / 2.1h
 * TH - reviewed metrics for WBD and TH
 * TH - reviewed multibuy formulas for additive and multiplictive
 * TH - redesign of encounter grid into a table layout like Matters of Scale

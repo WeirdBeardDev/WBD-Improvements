@@ -15,9 +15,15 @@
 
 ---
 
+## Day 66 - 4 June 2020
+**Work streak:** 34 days
+**Time (planned/actual):** 4h / 
+* Personal note - my day job sucked all the joy out of the day, I have a few things to do and then I'm taking the night off to recharge my batteries
+* WBD - Edited and posted [Upcoming Features for Treasure Hunter](https://weirdbearddev.com/2020/06/04/upcoming-features-for-treasure-hunter/)
+
 ## Day 65 - 3 June 2020
 **Work streak:** 33 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 7h
 * SMD - spent time troubleshooting wife's Wacom tablet
 * WBD - posted Unity news to HRUUG
 * WBD - wrote first draft of "Upcoming Features for Treasure Hunter"

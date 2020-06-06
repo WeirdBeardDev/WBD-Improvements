@@ -15,9 +15,17 @@
 
 ---
 
+## Day 67 - 5 June 2020
+**Work streak:** 35 days
+**Time (planned/actual):** 1.5h / 
+* Personal note: I did not sleep well last night, then we have company for dinner so I got started at 2245 at night, barely enough time to meet my 1 hour min
+* WBD - reviewed metrics for WBD and TH
+* TH - learned how to create inline sprites for TextMesPro
+  * started updating various texts to use XP icon instead of saying XP, no commit ready
+
 ## Day 66 - 4 June 2020
 **Work streak:** 34 days
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 1.3h
 * Personal note - my day job sucked all the joy out of the day, I have a few things to do and then I'm taking the night off to recharge my batteries
 * WBD - Edited and posted [Upcoming Features for Treasure Hunter](https://weirdbearddev.com/2020/06/04/upcoming-features-for-treasure-hunter/)
 

@@ -15,9 +15,29 @@
 
 ---
 
+## Day 68 - 6 June 2020
+**Work streak:** 36 days
+**Time (planned/actual):** 5h / 
+* WBD - reviewed metrics for WBD
+  * had 17 views from 11 visitors to WBD (WP Traffic)
+  * had 19 pageviews, 15 sessions from 14 users (GA)
+* WBD - updated Tips & Tricks page with fixed and variable formatting in string interpolation
+* WBD (learn) - completed Unity tut [Intro to Sprite Editor & Sheets 2019.2](https://learn.unity.com/tutorial/introduction-to-sprite-editor-sheets-2019-2#)
+* WBD (learn) - completed Unity tut [Intro to Sprite Atlas - 2019.3](https://learn.unity.com/tutorial/introduction-to-the-sprite-atlas-2019-3#5e5d07d2edbc2a0ab69d25ac)
+* SMD - reviewed annual goals and sales funnel
+  * created my YouTube channel for WBD
+* SMD - created my plan for next week
+* SMD - categorized ideas for future work
+* TH - end of week review for TH comp design
+* WBD - took first 2 lessons of [Beginner's course](https://analytics.google.com/analytics/academy/course/6) on Analytics Academy
+* WBD - created a list of follow-on courses and reading materials to learn GA
+* WBD - learn - [C# Survival Guide - Command Pattern](https://learn.unity.com/project/c-survival-guide-command-pattern?utm_source=learn_recommendation)
+* TH - x commits
+  * 
+
 ## Day 67 - 5 June 2020
 **Work streak:** 35 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 1.2h
 * Personal note: I did not sleep well last night, then we have company for dinner so I got started at 2245 at night, barely enough time to meet my 1 hour min
 * WBD - reviewed metrics for WBD and TH
 * TH - learned how to create inline sprites for TextMesPro

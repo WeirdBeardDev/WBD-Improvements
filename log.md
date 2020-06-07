@@ -15,9 +15,30 @@
 
 ---
 
+## Day 69 - 7 June 2020
+**Work streak:** 37 days
+**Time (planned/actual):** 3.5h / 
+* Active Timers ⏲
+  * SMD Work
+* SMD - weekly quest cleanup; time tracking
+  * Total: 30.85h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       62%        |  13%  |  55%  |  32%  |  0%   |
+|     28 of 45     | 4.14  | 16.73 | 9.98  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    29%    |     63%     |      8%      |
+|   4.87    |    10.48    |     1.38     |
+
+* SMD - weekly review of annual goals; sales funnel; and hours by project report
+* SMD - created my SMD and WBD goals for Q3
+
 ## Day 68 - 6 June 2020
 **Work streak:** 36 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 8.2h
 * WBD - reviewed metrics for WBD
   * had 17 views from 11 visitors to WBD (WP Traffic)
   * had 19 pageviews, 15 sessions from 14 users (GA)
@@ -32,8 +53,8 @@
 * WBD - took first 2 lessons of [Beginner's course](https://analytics.google.com/analytics/academy/course/6) on Analytics Academy
 * WBD - created a list of follow-on courses and reading materials to learn GA
 * WBD - learn - [C# Survival Guide - Command Pattern](https://learn.unity.com/project/c-survival-guide-command-pattern?utm_source=learn_recommendation)
-* TH - x commits
-  * 
+* TH - 1 commits
+  * commit `06eb9e5` (2020-06-06) - Create sprite atlases for UI sprites
 
 ## Day 67 - 5 June 2020
 **Work streak:** 35 days

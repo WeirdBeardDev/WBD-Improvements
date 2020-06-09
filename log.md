@@ -15,11 +15,20 @@
 
 ---
 
+## Day 70 - 8 June 2020
+**Work streak:** 38 days
+**Time (planned/actual):** 4.5h / 
+* SMD - reviewed checklist for the day
+* TH - working on multibuy feature and can't seem to get the formulas working correctly
+* TH - 4 commits
+  * commit `2b6495f` (2020-06-08) - Display multibuy option in encounter name
+  * commit `7295477` (2020-06-08) - Fix issue with setting zone for new locations
+  * commit `3d6aaf1` (2020-06-08) - Update goal descriptions to read better
+  * commit `4aebd29` (2020-06-08) - Update GoalFactory to use all goals in Editor
+
 ## Day 69 - 7 June 2020
 **Work streak:** 37 days
-**Time (planned/actual):** 3.5h / 
-* Active Timers ⏲
-  * SMD Work
+**Time (planned/actual):** 3.5h / 1.4h
 * SMD - weekly quest cleanup; time tracking
   * Total: 30.85h
 

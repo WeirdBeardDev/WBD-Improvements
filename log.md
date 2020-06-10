@@ -15,9 +15,22 @@
 
 ---
 
+## Day 71 - 9 June 2020
+**Work streak:** 39 days
+**Time (planned/actual):** 1.5h / 
+* WBD - Unity 2019.4 LTS released today, made posts to PFD and HRUUG
+* SMD - reviewed and ordered a Macbook Pro laptop for my wife
+* WBD - read up on Unity's 2019 LTS
+* TH - 5 commits
+  * commit `d4a9a86` (2020-06-09) - Update generic encounter names so goals are easier for testing
+  * commit `6c62c35` (2020-06-09) - Fix bug with Rivers zone and higher selected highlighting
+  * commit `b498658` (2020-06-09) - Add research point text highlight when selected
+  * commit `3945c69` (2020-06-09) - Add cheap highlight to selected location
+  * commit `ac20cab` (2020-06-09) - Implement multibuy for 1, 10, max (more to come)
+
 ## Day 70 - 8 June 2020
 **Work streak:** 38 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 6.6h
 * SMD - reviewed checklist for the day
 * TH - working on multibuy feature and can't seem to get the formulas working correctly
 * TH - 4 commits

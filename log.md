@@ -15,9 +15,19 @@
 
 ---
 
+## Day 72 - 10 June 2020
+**Work streak:** 40 days
+**Time (planned/actual):** 5h / 
+* SMD - reviewed tasks for the day
+* WBD - reviewed metrics for WBD and itch TH page
+* TH - 3 commits
+  * commit `9373117` (2020-06-10) - Add Completed Tiers Goals
+  * commit `8a56c17` (2020-06-10) - Add Earn Income Total Goal
+  * commit `8e4b2b9` (2020-06-10) - Add Times Completed Goal
+
 ## Day 71 - 9 June 2020
 **Work streak:** 39 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 6h
 * WBD - Unity 2019.4 LTS released today, made posts to PFD and HRUUG
 * SMD - reviewed and ordered a Macbook Pro laptop for my wife
 * WBD - read up on Unity's 2019 LTS

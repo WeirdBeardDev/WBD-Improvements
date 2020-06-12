@@ -15,9 +15,21 @@
 
 ---
 
+## Day 74 - 12 June 2020
+**Work streak:** 42 days
+**Time (planned/actual):** 1.5h / 
+* Active Timers ⏲
+  * SMD Work
+  * WBD Creation
+* SMD - reviewed tasks for the day
+  * I've focused almost exclusively on TH, I've gotten little else done on my checklist
+* WBD - took [C# Survival Guide - LINQ](https://learn.unity.com/project/c-survival-guide-linq?courseId=5cf06bd1edbc2a58d7fc3209)
+* TH - 1 commits
+  * commit `6bc253a` (2020-06-12) - Start refactoring Research to use standard formulas
+
 ## Day 73 - 11 June 2020
 **Work streak:** 41 days
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 6.4h
 * SMD - reviewed tasks for the day
 * SMD - helped my wife get her camera and headset working on the temp computer she's using
 * WBD - reviewed metrics for WBD and itch TH page

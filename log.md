@@ -15,9 +15,26 @@
 
 ---
 
+## Day 73 - 11 June 2020
+**Work streak:** 41 days
+**Time (planned/actual):** 4h / 
+* SMD - reviewed tasks for the day
+* SMD - helped my wife get her camera and headset working on the temp computer she's using
+* WBD - reviewed metrics for WBD and itch TH page
+* TH - 9 commits
+  * commit `96906ea` (2020-06-11) - Switch Goals to standard formulas
+  * commit `361f37f` (2020-06-11) - Switch Encounters to standard formulas
+  * commit `e5fbe90` (2020-06-11) - Move applying research effects into the ResearchItem derived class
+  * commit `fe96162` (2020-06-11) - Add new method for implement effects
+  * commit `5c69709` (2020-06-11) - Add FireResearchCompleted method so derived classes can call if needed
+  * commit `b3027f7` (2020-06-11) - Refactor ResearchItem to use ExplorationZone directly
+  * commit `a427b94` (2020-06-11) - Refactor research to use ExplorationZone directly
+  * commit `a98b16f` (2020-06-11) - Refactor base income formula
+  * commit `94cf16e` (2020-06-11) - Refactor and test all goal classes
+
 ## Day 72 - 10 June 2020
 **Work streak:** 40 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 4.3h
 * SMD - reviewed tasks for the day
 * WBD - reviewed metrics for WBD and itch TH page
 * TH - 3 commits

@@ -15,12 +15,31 @@
 
 ---
 
+## Day 76 - 14 June 2020
+**Work streak:** 44 days
+**Time (planned/actual):** 2.5h / 
+* SMD - weekly quest cleanup
+  * Total: 36.44h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       53%        |  13%  |  81%  |  6%   |  0%   |
+|     26 of 49     | 4.59  | 29.54 | 2.31  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    2%     |     98%     |      0%      |
+|   0.66    |    28.88    |      0       |
+
+* SMD - updated time tracking sheet to calculate the above metrics
+* SMD - reviewed/updated annual goals, sales funnel, and hours by project report
+* TH - wrote/posted game release post
+* TH - released TH v0.1.2 alpha 3
+* TH - promoted my release
+
 ## Day 75 - 13 June 2020
 **Work streak:** 43 days
-**Time (planned/actual):** 8h / 
-* Active Timers ⏲
-  * SMD Work
-  * WBD Creation
+**Time (planned/actual):** 8h / 8.1h
 * SMD - reviewed tasks for the day
 * WBD - reviewed metrics for WBD and itch TH
 * TH - reviewed textbox, background, and bordering artwork
@@ -189,8 +208,8 @@
 
 | Quests Completed |  SMD  |  TH   |  WBD  | FAFF  |
 | :--------------: | :---: | :---: | :---: | :---: |
-|       67%        |  19%  |  57%  |  24%  |  0%   |
-|        26        | 5.76  | 17.68 | 7.34  |   0   |
+|       67%        |  19%  |  24%  |  57%  |  0%   |
+|        26        | 5.76  | 7.34  | 17.68 |   0   |
 
 * WBD - wrote and posted [blog](http://weirdbearddev.com/2020/05/31/treasure-hunter-alpha-released/) about TH alpha release on itch.io
 * TH - started reading [Choosing the Resolution of Your 2D Art Assets](https://blogs.unity3d.com/2018/11/19/choosing-the-resolution-of-your-2d-art-assets/)

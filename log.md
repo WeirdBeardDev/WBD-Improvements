@@ -15,12 +15,27 @@
 
 ---
 
-## Day 74 - 12 June 2020
-**Work streak:** 42 days
-**Time (planned/actual):** 1.5h / 
+## Day 75 - 13 June 2020
+**Work streak:** 43 days
+**Time (planned/actual):** 8h / 
 * Active Timers ⏲
   * SMD Work
   * WBD Creation
+* SMD - reviewed tasks for the day
+* WBD - reviewed metrics for WBD and itch TH
+* TH - reviewed textbox, background, and bordering artwork
+* TH - updating my home web server to host multiple versions of my games, including having a front page listing the ones available
+* TH - create webgl test for local testing
+* TH - created Alpha Release 3, tag v0.1.2 in GitHub
+* SMD - created plan for next week
+* TH - 3 commits
+  * commit `41bb8fa` (2020-06-13) - Rollback using ExplorationZone directly in my ResearchManager
+  * commit `1127e73` (2020-06-13) - Add first base formulas for research costs and benefits
+  * commit `64309e9` (2020-06-13) - Refactor research panel point display switch
+
+## Day 74 - 12 June 2020
+**Work streak:** 42 days
+**Time (planned/actual):** 1.5h / 
 * SMD - reviewed tasks for the day
   * I've focused almost exclusively on TH, I've gotten little else done on my checklist
 * WBD - took [C# Survival Guide - LINQ](https://learn.unity.com/project/c-survival-guide-linq?courseId=5cf06bd1edbc2a58d7fc3209)

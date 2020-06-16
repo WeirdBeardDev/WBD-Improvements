@@ -15,9 +15,28 @@
 
 ---
 
+## Day 77 - 15 June 2020
+**Work streak:** 45 days
+**Time (planned/actual):** 4.5h / 
+* SMD - reviewed quests for the day
+* TH - review metrics for WBD and itch TH
+* WBD - recorded my Build, Save, and Release Game process
+* TH - minor update on itch to facilitate testing
+* TH - created quest list for v0.1.3
+* TH - 9 commits
+  * commit `2576b86` (2020-06-15) - Update encounter type goal for easier testing
+  * commit `0d02d6f` (2020-06-15) - Fix bug with completed tiers goal
+  * commit `9df45e5` (2020-06-15) - update completed tier goal for easier alpha testing
+  * commit `2391c71` (2020-06-15) - Update earn income goal for easier alpha testing
+  * commit `e20f51e` (2020-06-15) - Update times completed goal for easier alpha testing
+  * commit `ffdad1c` (2020-06-15) - Update income goal for easier alpha testing
+  * commit `83a8a52` (2020-06-15) - Update have amount goal for easier alpha testing
+  * commit `4b314b0` (2020-06-15) - Update encouter type goal for better testing
+  * commit `f680e7e` (2020-06-15) - Update project version
+
 ## Day 76 - 14 June 2020
 **Work streak:** 44 days
-**Time (planned/actual):** 2.5h / 
+**Time (planned/actual):** 2.5h / 3.9h
 * SMD - weekly quest cleanup
   * Total: 36.44h
 

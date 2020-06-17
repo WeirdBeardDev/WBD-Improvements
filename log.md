@@ -15,6 +15,19 @@
 
 ---
 
+## Day 78 - 16 June 2020
+**Work streak:** 46 days
+**Time (planned/actual):** 1.5h / 
+* Active Timers ⏲
+  * SMD Work
+  * TH Marketing
+  * WBD Creation
+* TH - looked into a reported issue on RP increase not working
+* TH - recorded feedback on my Trello board
+* TH - found 2 bugs and added them to my worklist for Alpha 4
+* TH - reviewed art comp draft
+* TH - organized my quest list for v0.1.3 alpha 4
+
 ## Day 77 - 15 June 2020
 **Work streak:** 45 days
 **Time (planned/actual):** 4.5h / 

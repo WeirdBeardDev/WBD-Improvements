@@ -15,13 +15,16 @@
 
 ---
 
+## Day 79 - 17 June 2020
+**Work streak:** 47 days
+**Time (planned/actual):** 5h / 
+* Personal note: my day job kicked my ass today, I need to keep my streak going then I'm taking the night off, tomorrow will take even more from me
+* SMD - reviewed my tasks for tonight
+* TH - completed a basic high-level design that includes 2 pretige systems
+
 ## Day 78 - 16 June 2020
 **Work streak:** 46 days
-**Time (planned/actual):** 1.5h / 
-* Active Timers ⏲
-  * SMD Work
-  * TH Marketing
-  * WBD Creation
+**Time (planned/actual):** 1.5h / 2h
 * TH - looked into a reported issue on RP increase not working
 * TH - recorded feedback on my Trello board
 * TH - found 2 bugs and added them to my worklist for Alpha 4

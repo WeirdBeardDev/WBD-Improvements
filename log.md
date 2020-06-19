@@ -15,6 +15,15 @@
 
 ---
 
+## Day 80 - 18 June 2020
+**Work streak:** 48 days
+**Time (planned/actual):** 1.5 h / 
+* Personal note: my day job kicked my ass again today
+* SMD - reviewed my quests for the day
+* WBD - reviewed metrics for WBD and itch TH
+* TH - further designed the scope of TH and captured it in my TH notebook
+* TH - I now have a defined path for my game, including an end; I need to design several more pieces but at least now I know **what** I need to design.
+
 ## Day 79 - 17 June 2020
 **Work streak:** 47 days
 **Time (planned/actual):** 5h / 

@@ -15,9 +15,16 @@
 
 ---
 
+## Day 81 - 19 June 2020
+**Work streak:** 49 days
+**Time (planned/actual):** 1.5h / 
+* SMD - reviewed my quests for the day and week
+* SMD - setup [Comfort Creatives Patreon](https://www.patreon.com/ComfortCreatives/posts) in GA
+* SMD - began setting up my wife's new computer
+
 ## Day 80 - 18 June 2020
 **Work streak:** 48 days
-**Time (planned/actual):** 1.5 h / 
+**Time (planned/actual):** 1.5 h / 1.6h
 * Personal note: my day job kicked my ass again today
 * SMD - reviewed my quests for the day
 * WBD - reviewed metrics for WBD and itch TH
@@ -26,7 +33,7 @@
 
 ## Day 79 - 17 June 2020
 **Work streak:** 47 days
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 1.2h
 * Personal note: my day job kicked my ass today, I need to keep my streak going then I'm taking the night off, tomorrow will take even more from me
 * SMD - reviewed my tasks for tonight
 * TH - completed a basic high-level design that includes 2 pretige systems

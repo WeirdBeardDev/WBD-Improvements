@@ -15,9 +15,22 @@
 
 ---
 
+## Day 82 - 20 June 2020
+**Work streak:** 50 days
+**Time (planned/actual):** 6.5h / 
+* SMD - reviewed quests for the day
+* SMD - verified CC Patreon's GA was setup correctly and capturing results
+* SMD - continued setting up wife's new computer
+* SMD - added my wife to GA so she can view and analyze her Patreon traffic
+* WBD - moved TH folder out of Dropbox, as Dropbox kept trying to sync files that Unity was using which caused Unity to fail to copy DLLs or fail to build
+  * I followed [how to move or copy a Unity project (without breaking it)](https://gamedevbeginner.com/how-to-move-or-copy-a-unity-project-without-breaking-it/)
+* SMD - created quest plan for next week
+* SMD - created JSONPath queries to pull checklist items from Trello card exports
+* WBD - took [Responsive UI When Adding Text and Images](https://learn.unity.com/tutorial/responsive-ui-when-adding-text-and-images?uv=2018.1&courseId=5d0ab9beedbc2a16225ed24d&projectId=5d0a1f46edbc2a00204e78e9#)
+
 ## Day 81 - 19 June 2020
 **Work streak:** 49 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 1.6h
 * SMD - reviewed my quests for the day and week
 * SMD - setup [Comfort Creatives Patreon](https://www.patreon.com/ComfortCreatives/posts) in GA
 * SMD - began setting up my wife's new computer

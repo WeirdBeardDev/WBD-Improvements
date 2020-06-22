@@ -15,9 +15,30 @@
 
 ---
 
+## Day 83 - 21 June 2020
+**Work streak:** 51 days
+**Time (planned/actual):** 3.5h / 
+* SMD - weekly quest clean up
+  * Total: 20.3h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       59%        |  43%  |  48%  |  8%   |  0%   |
+|     23 of 39     | 8.77  | 9.84  | 1.69  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    43%    |     19%     |     38%      |
+|   4.23    |    1.91     |     3.7      |
+
+* SMD - reviewed/updated annual goals, sales funnel, and hours by project report
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - created new GA view for tracking Patreon mobile views for CC
+* WBD - engaged with feedback on reddit
+
 ## Day 82 - 20 June 2020
 **Work streak:** 50 days
-**Time (planned/actual):** 6.5h / 
+**Time (planned/actual):** 6.5h / 6.5h
 * SMD - reviewed quests for the day
 * SMD - verified CC Patreon's GA was setup correctly and capturing results
 * SMD - continued setting up wife's new computer

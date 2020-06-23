@@ -15,9 +15,24 @@
 
 ---
 
+## Day 84 - 22 June 2020
+**Work streak:** 52 days
+**Time (planned/actual):** 5.5h / 
+* SMD - reviewed quests for the day
+* SMD - helped my wife work with tech support for her Cintiq
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - wrote blog about upcoming features in TH
+* TH - edited and posted Working on More Features
+* TH - x commits
+  * commit `a6fad98` (2020-06-22) - Remove last of testing objects
+  * commit `0e8ff90` (2020-06-22) - Add swamp encounter names
+  * commit `63d47c7` (2020-06-22) - Add river encounter names
+  * commit `18eb8ab` (2020-06-22) - Remove failed experiment
+  * commit `9bf43c2` (2020-06-22) - Update TMP to 2.1.0-preview.14
+
 ## Day 83 - 21 June 2020
 **Work streak:** 51 days
-**Time (planned/actual):** 3.5h / 
+**Time (planned/actual):** 3.5h / 2.7h
 * SMD - weekly quest clean up
   * Total: 20.3h
 

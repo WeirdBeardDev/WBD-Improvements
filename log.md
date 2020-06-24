@@ -15,9 +15,18 @@
 
 ---
 
+## Day 85 - 23 June 2020
+**Work streak:** 53 days
+**Time (planned/actual):** 1.5h / 
+* SMD - reviewed quests for the day
+* TH - 3 commits
+  * commit `6723426` (2020-06-23) - Fix bug of partial quests getting focus
+  * commit `e6f6963` (2020-06-23) - Fix bug of partial quest still earning income
+  * commit `67d3279` (2020-06-23) - Fix issue where it always says "maps"
+
 ## Day 84 - 22 June 2020
 **Work streak:** 52 days
-**Time (planned/actual):** 5.5h / 
+**Time (planned/actual):** 5.5h / 4.4h
 * SMD - reviewed quests for the day
 * SMD - helped my wife work with tech support for her Cintiq
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon

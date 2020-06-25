@@ -15,9 +15,29 @@
 
 ---
 
+## Day 86 - 24 June 2020
+**Work streak:** 54 days
+**Time (planned/actual):** 5.5h / 
+* Timers ⏲
+  * SMD Work
+  * WBD Work
+  * TH Creation
+* SMD - reviewed quests for today
+* SMD - mid-week review
+  * discussed CC Patreon metrics
+  * discussed art feedback
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - reviewed art and provide feedback
+* WBD - engaged community, PFD, HRUUG, and reddit
+* TH - 4 commits
+  * commit `c5b9593` (2020-06-24) - Fix issue where explicit save didn't update game time
+  * commit `cfbb8b1` (2020-06-24) - Fix issue with offline play not updating correctly
+  * commit `4fa55ef` (2020-06-24) - Add basic time tracking
+  * commit `4a473b8` (2020-06-24) - Minor Unity changes to scene
+
 ## Day 85 - 23 June 2020
 **Work streak:** 53 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 1.3h
 * SMD - reviewed quests for the day
 * TH - 3 commits
   * commit `6723426` (2020-06-23) - Fix bug of partial quests getting focus

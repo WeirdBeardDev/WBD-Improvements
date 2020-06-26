@@ -15,13 +15,21 @@
 
 ---
 
-## Day 86 - 24 June 2020
-**Work streak:** 54 days
-**Time (planned/actual):** 5.5h / 
+## Day 87 - 25 June 2020
+**Work streak:** 55 days
+**Time (planned/actual):** 5h / 
 * Timers ⏲
   * SMD Work
   * WBD Work
-  * TH Creation
+* Personal note - I'm spending the evening with my wife
+* SMD - reviewed quests for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - 1 commit
+  * commit `08aa8a9` (2020-06-25) - Add basic offline functionality
+
+## Day 86 - 24 June 2020
+**Work streak:** 54 days
+**Time (planned/actual):** 5.5h / 5.1h
 * SMD - reviewed quests for today
 * SMD - mid-week review
   * discussed CC Patreon metrics

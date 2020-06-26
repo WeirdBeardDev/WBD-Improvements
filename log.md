@@ -15,12 +15,18 @@
 
 ---
 
+## Day 88 - 26 June 2020
+**Work streak:** 56 days
+**Time (planned/actual):** 1.5h / 
+* SMD - reviewed quests for today
+* WBD - review metrics for WBD, itch TH, and CC Patreon
+* WBD - took [C# Survival Guide - Object Pools](https://learn.unity.com/project/c-survival-guide-object-pools?courseId=5cf06bd1edbc2a58d7fc3209)
+* WBD - read over a job position that I will apply for
+
+
 ## Day 87 - 25 June 2020
 **Work streak:** 55 days
-**Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
-  * WBD Work
+**Time (planned/actual):** 5h / 1.2h
 * Personal note - I'm spending the evening with my wife
 * SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon

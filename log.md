@@ -15,6 +15,17 @@
 
 ---
 
+## Day 89 - 27 June 2020
+**Work streak:** 57 days
+**Time (planned/actual):** 6.5h / 
+* Timers ⏲
+  * SMD Work
+* SMD - reviewed quests for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* SMD - created quest list for next week
+* TH - 1 commit
+  * commit `f5056bc` (2020-06-27) - Test offline functionality
+
 ## Day 88 - 26 June 2020
 **Work streak:** 56 days
 **Time (planned/actual):** 1.5h / 

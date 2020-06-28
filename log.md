@@ -15,11 +15,33 @@
 
 ---
 
+# Days 61-90; 30 May - 28 June 2020
+
+## Day 90 - 28 June 2020
+**Work streak:** 58 days
+**Time (planned/actual):** 3.5h / 
+* SMD - weekly quest clean up
+  * Total: 21.65h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       56%        |  15%  |  59%  |  27%  |  0%   |
+|     22 of 39     | 3.19  | 12.72 | 5.74  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |     88%     |     12%      |
+|     0     |    11.16    |     1.56     |
+
+* SMD - reviewed/updated annual goals, sales funnel, and hours by project report
+* WBD - updated resume/cover letter to submit for a job
+* WBD - signed up for the Unity Advisory Panel
+* WBD - took [Object Pooling](https://learn.unity.com/tutorial/object-pooling-1#) course
+* FAFF - moved all my dev related cards to my Dev Notes Trello board
+
 ## Day 89 - 27 June 2020
 **Work streak:** 57 days
-**Time (planned/actual):** 6.5h / 
-* Timers ⏲
-  * SMD Work
+**Time (planned/actual):** 6.5h / 5.8h
 * SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon
 * SMD - created quest list for next week
@@ -405,7 +427,7 @@
     * added #if directives around key code so that when I'm testing the game is easier
     * when I build the code it will revert to PROD code
 
-# Days 31-60 - 18 Apr - 29 May 2020
+# Days 31-60; 18 Apr - 29 May 2020
 ## Day 60 - 29 May 2020
 **Work streak:** 28 days
 **Time (planned/actual):** 1.5h / 3.6h
@@ -774,7 +796,7 @@
 **Time (planned/actual):** 10h / 0.8h
 * SMD - planning meeting
 
-# Days 1-30 - 8 Mar - 17 Apr 2020
+# Days 1-30; 8 Mar - 17 Apr 2020
 ## Day 30 - 17 Apr 2020
 **Time (planned/actual):** 2h / 2h
 * TH - commit `e0620fe` - Implement basic research item displays and leveling

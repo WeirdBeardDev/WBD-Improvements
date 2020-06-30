@@ -15,11 +15,26 @@
 
 ---
 
-# Days 61-90; 30 May - 28 June 2020
+## Day 91 - 29 June 2020
+**Work streak:** 59 days
+**Time (planned/actual):** 4.5h / 
+* WBD - responded to a comment on itch
+* WBD - reviewed WBD, itch TH, and CC Patreon metrics
+* TH - 9 commits
+  * commit `9a94ccd` (2020-06-29) - Fix bug where encounter button turned green too early
+  * commit `4a9dd81` (2020-06-29) - Update text for clarity
+  * commit `75178e5` (2020-06-29) - Add offline update display panel
+  * commit `4e2c704` (2020-06-29) - Add confirmation dialogue for resetting the game
+  * commit `a23e95f` (2020-06-29) - Add a modal panel and dialogues templates
+  * commit `2793cff` (2020-06-29) - Add TMP presets
+  * commit `b12aec0` (2020-06-29) - Finish implementing offline progression
+  * commit `7552f09` (2020-06-29) - Fix TMP color issue
+  * commit `cfb5eb1` (2020-06-29) - Enable Unity Quick Search feature
 
+# Days 61-90; 30 May - 28 June 2020
 ## Day 90 - 28 June 2020
 **Work streak:** 58 days
-**Time (planned/actual):** 3.5h / 
+**Time (planned/actual):** 3.5h / 3.2h
 * SMD - weekly quest clean up
   * Total: 21.65h
 

@@ -15,9 +15,31 @@
 
 ---
 
+## Day 92 - 30 June 2020
+**Work streak:** 60 days
+**Time (planned/actual):** 1.5h / 
+* Timers ⏲
+  * SMD Work
+  * WBD Work
+  * TH Creation
+* SMD - reviewed quests for the day
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - read over Herbster's tut, [Unity Tutorial: Friendship request system design](http://www.herbstergames.com/post/5-tutorial-friendship-request-system-design)
+* TH - reviewed draft examples of icons
+* TH - 9 commits
+  * commit `02cd3a0` (2020-06-30) - Add groundwork for autocomplete goals
+  * commit `b3951aa` (2020-06-30) - Update reset file to create new location
+  * commit `4d4f837` (2020-06-30) - Add auto complete goal tech
+  * commit `7cf1653` (2020-06-30) - Update ResearchManager to add new techs to old save files
+  * commit `6a2fcb9` (2020-06-30) - Clean up comments
+  * commit `d67da20` (2020-06-30) - Add autocomplete goal research code
+  * commit `10223bf` (2020-06-30) - Update increase research points research to start at 0
+  * commit `818fc85` (2020-06-30) - Update concurrent quest research to remove unnecessary code
+  * commit `bd59dc7` (2020-06-30) - Add minor cleanup to code files
+
 ## Day 91 - 29 June 2020
 **Work streak:** 59 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 6h
 * WBD - responded to a comment on itch
 * WBD - reviewed WBD, itch TH, and CC Patreon metrics
 * TH - 9 commits

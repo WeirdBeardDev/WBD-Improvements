@@ -15,13 +15,18 @@
 
 ---
 
+## Day 93 - 1 July 2020
+**Work streak:** 61 days
+**Time (planned/actual):** 5.5h / 
+* SMD - reviewed quests for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - 2 commits
+  * commit `1af801a` (2020-07-01) - Finish coding autocomplete goal tech
+  * commit `8a223a9` (2020-07-01) - Add GoalRegressed event to Goal class
+
 ## Day 92 - 30 June 2020
 **Work streak:** 60 days
-**Time (planned/actual):** 1.5h / 
-* Timers ⏲
-  * SMD Work
-  * WBD Work
-  * TH Creation
+**Time (planned/actual):** 1.5h / 5h
 * SMD - reviewed quests for the day
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon
 * WBD - read over Herbster's tut, [Unity Tutorial: Friendship request system design](http://www.herbstergames.com/post/5-tutorial-friendship-request-system-design)

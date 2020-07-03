@@ -15,9 +15,29 @@
 
 ---
 
+## Day 94 - 2 July 2020
+**Work streak:** 62 days
+**Time (planned/actual):** 4h / 
+* Timers ⏲
+  * SMD Work
+  * WBD Work
+  * TH Creation
+* Personal - so glad today starts a 3 day weekend from my day job
+* SMD - reviewed quests for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - research repeating calls in Unity
+  * look into InvokeRepeating, Coroutine, and Timer
+  * read article [InvokeRepeating vs Coroutines: Run a method at certain time intervals](https://www.codinblack.com/how-to-run-a-method-at-certain-time-intervals-in-unity/)
+  * read article [Coroutines in Unity and how to use them](https://gamedevbeginner.com/coroutines-in-unity-when-and-how-to-use-them/)
+* TH - 4 commits
+  * commit `66f11fa` (2020-07-02) - Fix bug where goal autocomplete timers weren't enabled on load
+  * commit `27c6115` (2020-07-02) - Fix bug in loading corrupt game file
+  * commit `743da10` (2020-07-02) - Fix bug where goal tried to save a WaitForSeconds object
+  * commit `fa2e407` (2020-07-02) - Fix bug where stopping a null coroutine caused an error
+
 ## Day 93 - 1 July 2020
 **Work streak:** 61 days
-**Time (planned/actual):** 5.5h / 
+**Time (planned/actual):** 5.5h / 2.8h
 * SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon
 * TH - 2 commits

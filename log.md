@@ -15,9 +15,17 @@
 
 ---
 
+## Day 96 - 4 July 2020
+**Work streak:** 64 days
+**Time (planned/actual):** 4.5h / 
+* Personal - I opted to create my plan tomorrow
+* SMD - reviewed quests for today
+* TH - write release announcement for TH alpha 4
+* TH - edit and post release announcement for TH alpha 4
+
 ## Day 95 - 3 July 2020
 **Work streak:** 63 days
-**Time (planned/actual):** 7.5h / 
+**Time (planned/actual):** 7.5h / 5h
 * SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon
 * TH - reviewed artwork

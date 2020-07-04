@@ -15,13 +15,26 @@
 
 ---
 
+## Day 95 - 3 July 2020
+**Work streak:** 63 days
+**Time (planned/actual):** 7.5h / 
+* SMD - reviewed quests for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - reviewed artwork
+* TH - worked thru the build and releasing the TH Alpha 4 v0.1.3
+* TH - 8 commits
+  * commit `66eede2` (2020-07-03) - Change offline speed for non-Editor games
+  * commit `f9101a4` (2020-07-03) - Update reset game file
+  * commit `8f015a5` (2020-07-03) - Fix bug where older save files don't have PlayTime
+  * commit `8c27576` (2020-07-03) - Change Jump Time text to include "only"
+  * commit `0f3248f` (2020-07-03) - Change encounter text to left aligned
+  * commit `448ac5b` (2020-07-03) - Update time box details
+  * commit `de6a400` (2020-07-03) - Update version number
+  * commit `e1ac7e4` (2020-07-03) - Update PlayTime
+
 ## Day 94 - 2 July 2020
 **Work streak:** 62 days
-**Time (planned/actual):** 4h / 
-* Timers ⏲
-  * SMD Work
-  * WBD Work
-  * TH Creation
+**Time (planned/actual):** 4h / 1.2h
 * Personal - so glad today starts a 3 day weekend from my day job
 * SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon

@@ -15,9 +15,27 @@
 
 ---
 
+## Day 97 - 5 July 2020
+**Work streak:** 65 days
+**Time (planned/actual):** 2h / 
+* SMD - weekly quest clean up
+  * Total: 25.87h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       55%        |  6%   |  76%  |  16%  |  1%   |
+|     21 of 38     | 1.64  | 19.74 | 4.25  | 0.24  |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    1%     |     87%     |     12%      |
+|   0.17    |    17.25    |     2.32     |
+
+* SMD - create my plan for the week
+
 ## Day 96 - 4 July 2020
 **Work streak:** 64 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 2.7h
 * Personal - I opted to create my plan tomorrow
 * SMD - reviewed quests for today
 * TH - write release announcement for TH alpha 4

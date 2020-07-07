@@ -15,9 +15,22 @@
 
 ---
 
+## Day 98 - 6 July 2020
+**Work streak:** 66 days
+**Time (planned/actual):** 5h / 
+* Timers ⏲
+  * SMD Work
+  * WBD Work
+  * TH Design
+  * TH Marketing
+* SMD - reviewed quest for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* SMD - reviewed annual plan, goals, and sales funnel
+* TH - design Adventurer feature, UI and code
+
 ## Day 97 - 5 July 2020
 **Work streak:** 65 days
-**Time (planned/actual):** 2h / 
+**Time (planned/actual):** 2h / 2.2h
 * SMD - weekly quest clean up
   * Total: 25.87h
 

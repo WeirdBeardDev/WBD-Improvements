@@ -15,15 +15,18 @@
 
 ---
 
+## Day 99 - 7 July 2020
+**Work streak:** 67 days
+**Time (planned/actual):** 1.5h / 
+* SMD - reviewed quests for today
+* WBD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - 1 commits
+  * commit `baacb76` (2020-07-07) - Add new artwork
+
 ## Day 98 - 6 July 2020
 **Work streak:** 66 days
-**Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
-  * WBD Work
-  * TH Design
-  * TH Marketing
-* SMD - reviewed quest for today
+**Time (planned/actual):** 5h / 3.1h
+* SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon
 * SMD - reviewed annual plan, goals, and sales funnel
 * TH - design Adventurer feature, UI and code

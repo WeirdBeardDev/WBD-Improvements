@@ -15,13 +15,22 @@
 
 ---
 
+## Day 101 - 9 July 2020
+**Work streak:** 69 days
+**Time (planned/actual):** 4.5h / 
+* Personal - decided to have an impromptu date night
+* WBD - engaged with communities on reddit
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* SMD - updated VS code to June 2020 v1.47
+* TH - 4 commits
+  * commit `7d631fd` (2020-07-09) - Disable shortcuts while adding offline time
+  * commit `206215c` (2020-07-09) - Move encounter shortcuts to shortcut manager
+  * commit `39fcd53` (2020-07-09) - Move complete goal shortcut to shortcut manager
+  * commit `817938c` (2020-07-09) - Move research shortcut to new shortcut manager
+
 ## Day 100 - 8 July 2020
 **Work streak:** 68 days
-**Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
-  * WBD Work
-  * TH Design
+**Time (planned/actual):** 5h / 5h
 * SMD - reviewed quests for today
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * WBD - determined next blog topic

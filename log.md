@@ -15,9 +15,24 @@
 
 ---
 
+## Day 100 - 8 July 2020
+**Work streak:** 68 days
+**Time (planned/actual):** 5h / 
+* Timers ⏲
+  * SMD Work
+  * WBD Work
+  * TH Design
+* SMD - reviewed quests for today
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - determined next blog topic
+* WBD - took [Optimizing Scripts](https://learn.unity.com/tutorial/optimizing-scripts#)
+* WBD - engaged with communities on reddit
+* TH - designed skill UI
+* WBD - tweeted progress - adv and skill ui designs
+
 ## Day 99 - 7 July 2020
 **Work streak:** 67 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 2.6h
 * SMD - reviewed quests for today
 * WBD - reviewed metrics for WBD, itch TH, and CC Patreon
 * TH - 1 commits

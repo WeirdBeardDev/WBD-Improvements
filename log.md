@@ -15,9 +15,20 @@
 
 ---
 
+## Day 102 - 10 July 2020
+**Work streak:** 70 days
+**Time (planned/actual):** 1.5h / 
+* Timers ⏲
+  * SMD Work
+* SMD planned today's quests
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* SMD - record ideas for a shortcut class
+* WBD - researched devlog "My VS Code Setup"
+* WBD - tweet today's progress - asked people what VS Code extensions they use with Unity
+
 ## Day 101 - 9 July 2020
 **Work streak:** 69 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 1.5h
 * Personal - decided to have an impromptu date night
 * WBD - engaged with communities on reddit
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon

@@ -15,12 +15,27 @@
 
 ---
 
+## Day 103 - 11 July 2020
+**Work streak:** 71 days
+**Time (planned/actual):** 8.5h / 
+* SMD - planned today's quests
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* SMD - created plan for next week
+* WBD - compiled learning list from [learning game design as a programmer](https://www.reddit.com/r/gamedesign/comments/hoq31d/learning_game_design_as_a_programmer/) post on reddit
+* WBD - created banner for Git/Dbx article
+* TH - compiled list of start adventurer art and submited requests
+* TH - 6 commits
+  * commit `66be5e6` (2020-07-11) - Add basic Adventurers Panel
+  * commit `c1dce65` (2020-07-11) - Remove old Adventurers section
+  * commit `6205235` (2020-07-11) - Remove screen actions meta file because git deleted an empty folder
+  * commit `e186217` (2020-07-11) - Add jump time shortcut key
+  * commit `020da94` (2020-07-11) - Add next zone/previous zone shortcuts
+  * commit `64ed48d` (2020-07-11) - Add next/previous location shortcuts
+
 ## Day 102 - 10 July 2020
 **Work streak:** 70 days
-**Time (planned/actual):** 1.5h / 
-* Timers ⏲
-  * SMD Work
-* SMD planned today's quests
+**Time (planned/actual):** 1.5h / 4.1h
+* SMD - planned today's quests
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * SMD - record ideas for a shortcut class
 * WBD - researched devlog "My VS Code Setup"

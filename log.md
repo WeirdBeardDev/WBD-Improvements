@@ -15,9 +15,40 @@
 
 ---
 
+## Day 104 - 12 July 2020
+**Work streak:** 72 days
+**Tiime (planned/actual):** 8.5h / 
+* Timer ⏲
+  * SMD Work
+  * TH Design
+  * TH Creation
+  * WBD Work
+* SMD - completed weekly admin and monthly budgetary activities
+  * Total: 25.65h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       95%        |  25%  |  40%  |  34%  |  0%   |
+|     36 of 38     | 6.48  | 10.34 | 8.83  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    33%    |     65%     |      2%      |
+|   3.39    |    6.69     |     .26      |
+
+* SMD - reviewed annual goals and sales funnel
+* WBD - research future blog topics
+* TH - updated notes on the game, decided next design session
+* TH - 5 commits
+  * commit `5bc54cf` (2020-07-12) - Add Adventurers class
+  * commit `9c330ae` (2020-07-12) - Cleanup Quest code
+  * commit `3d20e56` (2020-07-12) - Add ExpertiseType enum
+  * commit `a5ad83a` (2020-07-12) - Add RarityType enum
+  * commit `94adee8` (2020-07-12) - Update sprite names
+
 ## Day 103 - 11 July 2020
 **Work streak:** 71 days
-**Time (planned/actual):** 8.5h / 
+**Time (planned/actual):** 8.5h / 7.3h
 * SMD - planned today's quests
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * SMD - created plan for next week

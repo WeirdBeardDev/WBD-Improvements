@@ -15,14 +15,18 @@
 
 ---
 
+## Day 105 - 13 July 2020
+**Work streak:** 73 days
+**Time (planned/actual):** 4.5h / 
+* Personal - I felt like crap tonight and didn't get as much accomplished as I wanted to.
+* SMD - reviewed tasks for today
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - engaged community
+* WBD - write first draft My VS Code Setup
+
 ## Day 104 - 12 July 2020
 **Work streak:** 72 days
-**Tiime (planned/actual):** 8.5h / 
-* Timer ⏲
-  * SMD Work
-  * TH Design
-  * TH Creation
-  * WBD Work
+**Tiime (planned/actual):** 8.5h / 4h
 * SMD - completed weekly admin and monthly budgetary activities
   * Total: 25.65h
 

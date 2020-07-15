@@ -15,9 +15,20 @@
 
 ---
 
+## Day 106 - 14 July 2020
+**Work streak:** 74 days
+**Time (planned/actual):** 1.5h / 
+* SMD - planned work for today
+* TH - x commits
+  * commit `c1061ac` (2020-07-14) - Create SkillGO prefab
+  * commit `11497ad` (2020-07-14) - Add color to AdvGO prefab to make it stand out for testing
+  * commit `1673e31` (2020-07-14) - Create Hire Adventurer prefab
+  * commit `596802a` (2020-07-14) - Remove old adventure slot prefab
+  * commit `8ed1e7b` (2020-07-14) - Add AdventurerGO prefab
+
 ## Day 105 - 13 July 2020
 **Work streak:** 73 days
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 1.6h
 * Personal - I felt like crap tonight and didn't get as much accomplished as I wanted to.
 * SMD - reviewed tasks for today
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon

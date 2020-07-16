@@ -15,17 +15,23 @@
 
 ---
 
+## Day 108 - 16 July 2020
+**Work streak:** 76 days
+**Time (planned/actual):** 2h / 
+* SMD planned work for today
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - finished writing My VS Code Setup blog
+* WBD - posted blog and shared
+
 ## Day 107 - 15 July 2020
 **Work streak:** 75 days
-**Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
+**Time (planned/actual):** 5h / 3.9h
 * SMD - planned work for today
 * SMD - mid week review
-* SMD - review metrics for WBD, itch TH, and CC Patreon
-* TH - provide feedback on encounter icons
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - provided feedback on encounter icons
 * WBD - updated My VS Code Setup blog
-* WBD - engage communities
+* WBD - engaged communities
 
 ## Day 106 - 14 July 2020
 **Work streak:** 74 days

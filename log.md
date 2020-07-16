@@ -15,9 +15,21 @@
 
 ---
 
+## Day 107 - 15 July 2020
+**Work streak:** 75 days
+**Time (planned/actual):** 5h / 
+* Timers ⏲
+  * SMD Work
+* SMD - planned work for today
+* SMD - mid week review
+* SMD - review metrics for WBD, itch TH, and CC Patreon
+* TH - provide feedback on encounter icons
+* WBD - updated My VS Code Setup blog
+* WBD - engage communities
+
 ## Day 106 - 14 July 2020
 **Work streak:** 74 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 2.7h
 * SMD - planned work for today
 * TH - x commits
   * commit `c1061ac` (2020-07-14) - Create SkillGO prefab

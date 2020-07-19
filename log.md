@@ -15,9 +15,23 @@
 
 ---
 
+## Day 110 - 18 July 2020
+**Work streak:** 78 days
+**Time (planned/actual):** 8h / 
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - fixed a speed bug that only appeared on itch
+* TH - released TH v0.1.3.1 Alpha 4a on itch
+* SMD - planned work for next week
+* WBD - engaged community
+* WBD - took [Unity Gameplay Programming Fundamentals](https://learn.unity.com/project/unity-gameplay-programming-fundamentals)
+* TH - 3 commits
+  * commit `b8a29e3` (2020-07-18) - Refactor zone heading to include zone adventurer display
+  * commit `ca69fa5` (2020-07-18) - Add new skill prefab
+  * commit `3d1c872` (2020-07-18) - Fix SkillGO not showing up in AdvGO list content
+
 ## Day 109 - 17 July 2020
 **Work streak:** 77 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 1.3h
 * SMD - planned work for the day
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * WBD - update blog, shared to Unity Connect

@@ -15,9 +15,29 @@
 
 ---
 
+## Day 111 - 19 July 2020
+**Work streak:** 79 days
+**Time (planned/actual):** 3.5h / 
+* SMD - completed weekly admin activities
+  * Total: 23.43h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       55%        |  23%  |  32%  |  45%  |  0%   |
+|     37 of 57     |  5.4  | 7.56  | 10.47 |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    20%    |     68%     |     12%      |
+|   1.48    |    5.16     |     .92      |
+
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* SMD - reviewed annual goals and sales funnel
+* WBD - engaged community
+
 ## Day 110 - 18 July 2020
 **Work streak:** 78 days
-**Time (planned/actual):** 8h / 
+**Time (planned/actual):** 8h / 8.4h
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * TH - fixed a speed bug that only appeared on itch
 * TH - released TH v0.1.3.1 Alpha 4a on itch

@@ -15,9 +15,35 @@
 
 ---
 
+## Day 113 - 21 July 2020
+**Work streak:** 81 days
+**Time (planned/actual):** 1.5h / 
+* Timers ⏲
+  * SMD Work
+  * TH Creation
+  * WBD Work
+* SMD - planned work for today
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - researched using ScriptTemplates folder for custom default scripts
+* TH - 9 commits
+  * commit `6b2b8d1` (2020-07-21) - Wire up basic hire adventurer button
+  * commit `b1792ed` (2020-07-21) - Updated scene
+  * commit `1a7b69d` (2020-07-21) - Setup for hiring adventurers
+  * commit `d9a68b8` (2020-07-21) - Add basic AdventurerManager and AdventurerZoneManager classes
+  * commit `2d23a1e` (2020-07-21) - Add new region to UCO script
+  * commit `da295ad` (2020-07-21) - Update script templates for MB and UCO types
+  * commit `b57be77` (2020-07-21) - Add formula for topexx crystal rewards
+  * commit `fe1cea5` (2020-07-21) - Update topexx rewards to 0.25 per goal
+  * commit `e43b43d` (2020-07-21) - Add topexx crystals rewards and display
+
+## Day 112 - 20 July 2020
+**Work streak:** 80 days
+**Time (planned/actual):** 4.5h / 
+* WBD - engaged community
+
 ## Day 111 - 19 July 2020
 **Work streak:** 79 days
-**Time (planned/actual):** 3.5h / 
+**Time (planned/actual):** 3.5h / 2.9h
 * SMD - completed weekly admin activities
   * Total: 23.43h
 

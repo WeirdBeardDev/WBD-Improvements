@@ -15,13 +15,19 @@
 
 ---
 
+## Day 114 - 22 July 2020
+**Work streak:** 82 days
+**Time (planned/actual):** 8h / 
+* SMD - planned work for today
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - engaged reddit communities
+* SMD - mid-week review meeting
+* TH - 1 commits
+  * commit `ade8457` (2020-07-22) - Enable hiring of adventurer slots
+
 ## Day 113 - 21 July 2020
 **Work streak:** 81 days
-**Time (planned/actual):** 1.5h / 
-* Timers ⏲
-  * SMD Work
-  * TH Creation
-  * WBD Work
+**Time (planned/actual):** 1.5h / 5.9h
 * SMD - planned work for today
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * WBD - researched using ScriptTemplates folder for custom default scripts

@@ -15,6 +15,16 @@
 
 ---
 
+## Day 115 - 23 July 2020
+**Work streak:** 83 days
+**Time (planned/actual):** 3h / 
+* Personal - on vaca with friends, still working on my streak
+* SMD - planned work for today
+* TH - 3 commits
+  * commit `2fd3446` (2020-07-23) - Set the stage for adding the first zone slot
+  * commit `92c0a71` (2020-07-23) - Add ability to hired named and random adventurers
+  * commit `594ecc8` (2020-07-23) - Add silhouette image to adventurer button
+ 
 ## Day 114 - 22 July 2020
 **Work streak:** 82 days
 **Time (planned/actual):** 8h / 

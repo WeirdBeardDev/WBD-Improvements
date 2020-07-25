@@ -15,11 +15,20 @@
 
 ---
 
-## Day 115 - 23 July 2020
-**Work streak:** 83 days
+## Day 116 - 24 July 2020
+**Work streak:** 84 days
 **Time (planned/actual):** 3h / 
 * Personal - on vaca with friends, still working on my streak
+* WBD - engaged community
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - x commits
+
+## Day 115 - 23 July 2020
+**Work streak:** 83 days
+**Time (planned/actual):** 3h / 2.9h
+* Personal - on vaca with friends, still working on my streak
 * SMD - planned work for today
+* WBD - answered Unity survey for possible participation
 * TH - 3 commits
   * commit `2fd3446` (2020-07-23) - Set the stage for adding the first zone slot
   * commit `92c0a71` (2020-07-23) - Add ability to hired named and random adventurers

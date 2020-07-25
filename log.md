@@ -15,9 +15,22 @@
 
 ---
 
+## Day 117 - 25 July 2020
+**Work streak:** 85 days
+**Time (planned/actual):** 3h / 
+* Timers ⏲
+  * SMD Work
+* SMD - planned work for today
+* SMD - planned work for next week
+* WBD - engage the community
+* TH - 3 commits
+  * commit `32fa29c` (2020-07-25) - Add adv zone manager class
+  * commit `2c4d12c` (2020-07-25) - Finalize AdventurerManager.LoadData()
+  * commit `e22665e` (2020-07-25) - Add a basic named adventure for Bryant Templeton
+
 ## Day 116 - 24 July 2020
 **Work streak:** 84 days
-**Time (planned/actual):** 3h / 
+**Time (planned/actual):** 3h / 1.1h
 * Personal - on vaca with friends, still working on my streak
 * WBD - engaged community
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon

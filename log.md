@@ -21,7 +21,8 @@
 * Personal - on vaca with friends, still working on my streak
 * WBD - engaged community
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
-* TH - x commits
+* TH - 1 commits
+  * commit `74b2e02` (2020-07-24) - Add the first slot to each zone
 
 ## Day 115 - 23 July 2020
 **Work streak:** 83 days

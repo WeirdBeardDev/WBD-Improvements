@@ -18,14 +18,12 @@
 ## Day 119 - 27 July 2020
 **Work streak:** 87 days
 **Time (planned/actual):** 4h / 
-* Timers ⏲
-  * SMD Work
-  * WBD Work
 * Personal - on vaca with friends, still working on my streak
 * SMD - planned work for the day
 * WBD - playtested Kernfusion and reported 2 bugs
 * SMD - created my learning list for Q4
 * SMD - created blog topics for remainder of Q3 and started Q4
+* WBD - researched git and work flow strategies
 
 ## Day 118 - 26 July 2020
 **Work streak:** 86 days

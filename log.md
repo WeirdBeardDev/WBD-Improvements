@@ -15,11 +15,32 @@
 
 ---
 
+## Day 118 - 26 July 2020
+**Work streak:** 86 days
+**Time (planned/actual):** 3.5h / 
+* Personal - on vaca with friends, still working on my streak
+* SMD - completed weekly admin activities
+  * Total: 24.7h
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       52%        |  21%  |  50%  |  29%  |  0%   |
+|     17 of 33     | 5.21  | 12.36 | 7.13  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |    100%     |      0%      |
+|     0     |    12.36    |      0       |
+
+* SMD - reviewed metrics for wBD, itch TH, and CC Patreon
+* SMD - reviewed annual goals and sales funnel
+* SMD - laid our initial plan for Q4
+
+
 ## Day 117 - 25 July 2020
 **Work streak:** 85 days
-**Time (planned/actual):** 3h / 
-* Timers ⏲
-  * SMD Work
+**Time (planned/actual):** 3h / 4.52h
+* Personal - on vaca with friends, still working on my streak
 * SMD - planned work for today
 * SMD - planned work for next week
 * WBD - engage the community

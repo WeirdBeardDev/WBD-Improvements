@@ -15,9 +15,16 @@
 
 ---
 
+## Day 120 - 28 July 2020
+**Work streak:** 88 days
+**Time (planned/actual):** 2h / 
+* Personal - on vaca with friends, still working on my streak
+* SMD - planned work for the day
+* WBD - researched and tested items for "Update Unity Code Templates" blog
+
 ## Day 119 - 27 July 2020
 **Work streak:** 87 days
-**Time (planned/actual):** 4h / 
+**Time (planned/actual):** 4h / 5.7h
 * Personal - on vaca with friends, still working on my streak
 * SMD - planned work for the day
 * WBD - playtested Kernfusion and reported 2 bugs

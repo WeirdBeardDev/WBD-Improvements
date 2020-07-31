@@ -15,9 +15,17 @@
 
 ---
 
+## Day 122 - 30 July 2020
+**Work streak:** 90 days
+**Time (planned/actual):** 8.5h / 
+* SMD - planned work for today
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* TH - 1 commit
+  * commit `e0d7828` (2020-07-30) - Add the ground work for assigning and unassigning adventurers
+
 ## Day 121 - 29 July 2020
 **Work streak:** 89 days
-**Time (planned/actual):** 2h / 
+**Time (planned/actual):** 2h / 2.8h
 * Personal - traveled home from vaca
 * WBD - wrote first draft of "Update Unity Code Templates" blog
 

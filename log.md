@@ -15,9 +15,18 @@
 
 ---
 
+## Day 123 - 31 July 2020
+**Work streak:** 91 days
+**Time (planned/actual):** 1.5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, and CC Patreon
+* WBD - edited "Creating Custom Unity Script Templates" blog
+* WBD - engaged the community
+
 ## Day 122 - 30 July 2020
 **Work streak:** 90 days
-**Time (planned/actual):** 8.5h / 
+**Time (planned/actual):** 8.5h / 1.3h
+* Personal - I choose to take a rest day, this is a marathon
 * SMD - planned work for today
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * TH - 1 commit

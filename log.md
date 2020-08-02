@@ -15,9 +15,21 @@
 
 ---
 
+## Day 124 - 1 Aug 2020
+**Work streak:** 92 days
+**Time (planned/actual):** 8h / 
+* Timers ⏲
+  * SMD Work
+  * WBD Work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - attended Solo Game Dev's meetup
+* WBD - posted [Creating Custom Unity Script Templates](http://weirdbearddev.com/2020/08/01/creating-custom-unity-script-templates/) blog
+* WBD - engaged community
+
 ## Day 123 - 31 July 2020
 **Work streak:** 91 days
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 4.1h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, and CC Patreon
 * WBD - edited "Creating Custom Unity Script Templates" blog

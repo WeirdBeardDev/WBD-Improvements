@@ -15,12 +15,35 @@
 
 ---
 
-## Day 124 - 1 Aug 2020
-**Work streak:** 92 days
-**Time (planned/actual):** 8h / 
+## Day 125 - 2 Aug 2020
+**Work streak:** 93 days
+**Time (planned/actual):** 
 * Timers ⏲
   * SMD Work
   * WBD Work
+* SMD - completed weekly admin activities
+  * Total: 20.15h
+  * ✔️ SMD milestone - >60% of checklist done
+  * 👎 TH milestone - adventurers apply bonuses
+  * ✔️ WBD milestone - posted blog and engaged community
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       64%        |  22%  |  6%   |  73%  |  0%   |
+|     21 of 33     | 4.37  | 1.12  | 14.66 |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |    100%     |      0%      |
+|     0     |    1.12     |      0       |
+
+* SMD - made a plan for the week
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - read and took notes on Pro Git ch 1-3
+
+## Day 124 - 1 Aug 2020
+**Work streak:** 92 days
+**Time (planned/actual):** 8h / 
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * WBD - attended Solo Game Dev's meetup
@@ -50,6 +73,7 @@
 * Personal - traveled home from vaca
 * WBD - wrote first draft of "Update Unity Code Templates" blog
 
+# Days 91-120; 29 Jun - 28 Jul 2020
 ## Day 120 - 28 July 2020
 **Work streak:** 88 days
 **Time (planned/actual):** 2h / 1.9h

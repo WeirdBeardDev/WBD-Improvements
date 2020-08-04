@@ -15,12 +15,26 @@
 
 ---
 
-## Day 125 - 2 Aug 2020
-**Work streak:** 93 days
-**Time (planned/actual):** 
+## Day 126 - 3 Aug 2020
+**Work streak:** 94 days
+**Time (planned/actual):** 5h / 
 * Timers ⏲
   * SMD Work
+  * TH Creation
   * WBD Work
+* SMD - planned today's work - focus -> coding
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - read and took notes on Pro Git ch 1-3
+* TH - updated TextMeshPro to v2.1.1
+* TH - 4 commits
+  * commit `6e3d253` (2020-08-03) - Update TextMeshPro to v2.1.1
+  * commit `ca9e3e4` (2020-08-03) - Fix a bug where the modal panel was not set as last sibling
+  * commit `333e465` (2020-08-03) - Add ability to assign adventurers to a zone
+  * commit `2dacbef` (2020-08-03) - Update save file version
+
+## Day 125 - 2 Aug 2020
+**Work streak:** 93 days
+**Time (planned/actual):** 0h / 2.5h
 * SMD - completed weekly admin activities
   * Total: 20.15h
   * ✔️ SMD milestone - >60% of checklist done

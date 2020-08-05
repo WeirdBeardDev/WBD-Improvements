@@ -15,14 +15,19 @@
 
 ---
 
+## Day 127 - 4 Aug 2020
+**Work streak:** 95 days
+**Time (planned/actual):** 1.5h / 
+* SMD - planned today's work - focus on research next blog
+* SMD - created a snippet for the boilerplate new log day
+* WBD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - research Transform supporting IEnumerable
+* TH - documented my adv design to date
+
 ## Day 126 - 3 Aug 2020
 **Work streak:** 94 days
-**Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
-  * TH Creation
-  * WBD Work
-* SMD - planned today's work - focus -> coding
+**Time (planned/actual):** 5h / 3h
+* SMD - planned today's work - focus on coding
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * WBD - read and took notes on Pro Git ch 1-3
 * TH - updated TextMeshPro to v2.1.1

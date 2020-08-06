@@ -15,6 +15,14 @@
 
 ---
 
+## Day 128 - 05 Aug 2020
+**Work streak:** 96
+**Time (planned/actual):** 5h / 
+* SMD - mid-week review
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged community
+
 ## Day 127 - 4 Aug 2020
 **Work streak:** 95 days
 **Time (planned/actual):** 1.5h / 

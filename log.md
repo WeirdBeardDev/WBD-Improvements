@@ -15,6 +15,23 @@
 
 ---
 
+## Day 129 - 06 Aug 2020
+**Work streak:** 97
+**Time (planned/actual):** 5h / 
+* Timers ⏲
+  * SMD Work
+  * TH Creation
+  * WBD Work
+* Personal - I didn't get much sleep last night so today is a short day
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged community
+* TH - 4 commits
+  * commit `2681d21` (2020-08-06) - Add comment to implement adding adv slots correctly
+  * commit `0ba50d2` (2020-08-06) - Add ability to unassign an adventurer from a slot
+  * commit `299a320` (2020-08-06) - Add new event, unassign adventurer
+  * commit `03c6d9a` (2020-08-06) - Test new wicker image
+
 ## Day 128 - 05 Aug 2020
 **Work streak:** 96
 **Time (planned/actual):** 5h / 

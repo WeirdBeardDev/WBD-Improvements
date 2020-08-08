@@ -15,13 +15,18 @@
 
 ---
 
+## Day 130 - 07 Aug 2020
+**Work streak:** 98
+**Time (planned/actual):** 1.5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* TH - 2 commits
+  * commit `6dc44a9` (2020-08-07) - Refactor existing Skill class
+  * commit `12f27e3` (2020-08-07) - Add awarding of experience points to assigned adventurers
+
 ## Day 129 - 06 Aug 2020
 **Work streak:** 97
-**Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
-  * TH Creation
-  * WBD Work
+**Time (planned/actual):** 5h / 1.9h
 * Personal - I didn't get much sleep last night so today is a short day
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
@@ -34,7 +39,7 @@
 
 ## Day 128 - 05 Aug 2020
 **Work streak:** 96
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 2.4h
 * SMD - mid-week review
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter

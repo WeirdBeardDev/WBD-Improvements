@@ -15,9 +15,23 @@
 
 ---
 
+## Day 131 - 08 Aug 2020
+**Work streak:** 99
+**Time (planned/actual):** 8h / 
+* Personal - I've been in a slump all week, I want to complete a 100 day streak before I take a break
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged the community
+* TH - 5 commits
+  * commit `15d7ac0` (2020-08-08) - Add code to increase adventurer's level
+  * commit `e4ec9c5` (2020-08-08) - Add five skill slots for testing
+  * commit `4325237` (2020-08-08) - Update skill UI
+  * commit `dde6ff7` (2020-08-08) - Add untested skill classes and UI
+  * commit `7b8c94a` (2020-08-08) - Remove unused fields
+
 ## Day 130 - 07 Aug 2020
 **Work streak:** 98
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 1.4h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * TH - 2 commits

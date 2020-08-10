@@ -15,9 +15,35 @@
 
 ---
 
+## Day 132 - 09 Aug 2020
+**Work streak:** 100
+**Time (planned/actual):** 0h / 
+* Personal - today I mark 100 days of consective work on my business, this is a milestone and sets a goal for me to beat in my next round of work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD - planned work for this week
+* TH - 1 commit
+  * commit `986ae63` (2020-08-09) - Make it that only the first adv slot is free
+* SMD - completed weekly admin activities
+  * Total: 
+  * 👎 get >65% checklist done
+  * 👎 finish adventurers feature
+  * ✔️ research next blog; engage community
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       47%        |  31%  |  42%  |  26%  |  0%   |
+|     15 of 32     | 4.35  | 5.86  | 3.65  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |    100%     |      0%      |
+|     0     |    5.86     |      0       |
+
+
 ## Day 131 - 08 Aug 2020
 **Work streak:** 99
-**Time (planned/actual):** 8h / 
+**Time (planned/actual):** 8h / 1.3h
 * Personal - I've been in a slump all week, I want to complete a 100 day streak before I take a break
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter

@@ -15,6 +15,17 @@
 
 ---
 
+## Day 133 - 15 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 8h / 
+* Timers ⏲
+  * SMD Work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD - completed monthly budgetary work
+* SMD - planed work for next week
+* WBD - engaged community
+
 ## Day 132 - 09 Aug 2020
 **Work streak:** 100
 **Time (planned/actual):** 0h / 

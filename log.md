@@ -15,6 +15,31 @@
 
 ---
 
+## Day 134 - 17 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* TH - 3 commits
+  * commit `2940c4b` (2020-08-17) - Refactor Location IsSelected
+  * commit `33ba294` (2020-08-17) - Display adventurer portrait in panel
+  * commit `cf6188d` (2020-08-17) - Rebuild adventurer panel UI
+* SMD - completed weekly admin activities
+  * Total: 2.63h
+  * 👎 get >65% checklist done
+  * 👎 implement skills for adventurers
+  * 👎 research next blog; engage community
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       27%        |  53%  |  0%   |  47%  |  0%   |
+|     6 of 22      | 1.39  |   0   | 1.24  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |     0%      |      0%      |
+|     0     |      0      |      0       |
+
 ## Day 133 - 15 Aug 2020
 **Work streak:** 1
 **Time (planned/actual):** 8h / 
@@ -36,7 +61,7 @@
 * TH - 1 commit
   * commit `986ae63` (2020-08-09) - Make it that only the first adv slot is free
 * SMD - completed weekly admin activities
-  * Total: 
+  * Total: 13.86h
   * 👎 get >65% checklist done
   * 👎 finish adventurers feature
   * ✔️ research next blog; engage community

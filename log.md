@@ -15,6 +15,27 @@
 
 ---
 
+## Day 135 - 19 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 
+* Timers ⏲
+  * SMD Work
+  * TH Creation
+  * WBD Work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD (admin) - finalize Q4 into a structured quarterly plan
+* SMD - held mid-week review
+* WBD - engage community
+  * answered questions on Unity Answers
+  * engaged on Twitter
+  * engaged with reddit communities
+* TH - 4 commits
+  * commit `8934f44` (2020-08-19) - Refactor assign/unassign adventurers to zones
+  * commit `a4f1495` (2020-08-19) - Update zone adventurer display to use portrait prefab
+  * commit `a06b3db` (2020-08-19) - Add Preselected event to Adventurer
+  * commit `6f8f36c` (2020-08-19) - Update border images
+
 ## Day 134 - 17 Aug 2020
 **Work streak:** 1
 **Time (planned/actual):** 5h / 

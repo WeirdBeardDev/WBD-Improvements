@@ -15,13 +15,38 @@
 
 ---
 
-## Day 135 - 19 Aug 2020
+## Day 136 - 24 Aug 2020
 **Work streak:** 1
 **Time (planned/actual):** 5h / 
 * Timers ⏲
   * SMD Work
   * TH Creation
-  * WBD Work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD - planned work for the week
+* TH - 3 commits
+  * commit `e4009eb` (2020-08-24) - Can increase adventurer's level
+  * commit `5fd8f00` (2020-08-24) - Display skills on adventurers
+  * commit `e88f0c6` (2020-08-24) - Update adv panel to not show an empty adv
+* SMD - completed weekly admin activities
+  * Total: 13.15h
+  * 👎 get >65% checklist done
+  * 👎 implement skills for adventurers
+  * 👎 research next blog; engage community
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       28%        |  17%  |  65%  |  17%  |  0%   |
+|     8 of 29      | 2.27  | 8.58  |  2.3  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    3%     |     97%     |      0%      |
+|   0.25    |    8.33     |      0       |
+
+## Day 135 - 19 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 6.4h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * SMD (admin) - finalize Q4 into a structured quarterly plan
@@ -38,7 +63,7 @@
 
 ## Day 134 - 17 Aug 2020
 **Work streak:** 1
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 6.8h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * TH - 3 commits

@@ -15,12 +15,27 @@
 
 ---
 
-## Day 136 - 24 Aug 2020
+## Day 137 - 26 Aug 2020
 **Work streak:** 1
 **Time (planned/actual):** 5h / 
 * Timers ⏲
   * SMD Work
   * TH Creation
+  * WBD Work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - test Transform as IEnumerable for blog
+* TH - 6 commits
+  * commit `7e787fa` (2020-08-26) - Enforce max skill level
+  * commit `ccc47be` (2020-08-26) - Implement skills adding/removing effects
+  * commit `8fee980` (2020-08-26) - Simplify Skill class and implement GrantIncomeSkill for testing
+  * commit `c422e4b` (2020-08-26) - Update skill description
+  * commit `b9c9833` (2020-08-26) - Update region name
+  * commit `6846e58` (2020-08-26) - Update adv to show next level cost and current / max skills allowed
+
+## Day 136 - 24 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 2.2h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * SMD - planned work for the week

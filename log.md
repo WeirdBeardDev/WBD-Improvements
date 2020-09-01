@@ -15,13 +15,36 @@
 
 ---
 
-## Day 137 - 26 Aug 2020
+## Day 138 - 31 Aug 2020
 **Work streak:** 1
 **Time (planned/actual):** 5h / 
 * Timers ⏲
   * SMD Work
-  * TH Creation
+  * SteamMech Design
   * WBD Work
+* SMD - planned today's work
+* SteamMech - created timer card; did some initial game design work
+* SMD - completed weekly admin activities
+  * Total: 8.21h
+  * 👎 get >65% checklist done
+  * ✔️ implement skills for adventurers
+  * 👎 post to itch
+  * 👎 research next blog; engage community
+
+| Quests Completed |  SMD  |  TH*  |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       10%        |  8%   |  72%  |  19%  |  0%   |
+|     3 of 30      | 0.67  | 5.94  |  1.6  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |    100%     |      0%      |
+|     0     |    5.94     |      0       |
+
+
+## Day 137 - 26 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 6h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * WBD - test Transform as IEnumerable for blog

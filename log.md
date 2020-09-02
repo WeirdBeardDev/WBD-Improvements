@@ -15,13 +15,23 @@
 
 ---
 
-## Day 138 - 31 Aug 2020
-**Work streak:** 1
-**Time (planned/actual):** 5h / 
+## Day 139 - 01 Sep 2020
+**Work streak:** 2
+**Time (planned/actual):** 1.5h / 
 * Timers ⏲
   * SMD Work
-  * SteamMech Design
-  * WBD Work
+  * TH Creation
+  * WBD Creation
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged community
+* TH - test alpha 5
+* TH - 1 commits
+  * commit `985d7d7` (2020-09-01) - Test adventurer feature in Editor
+
+## Day 138 - 31 Aug 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 2.4h
 * SMD - planned today's work
 * SteamMech - created timer card; did some initial game design work
 * SMD - completed weekly admin activities

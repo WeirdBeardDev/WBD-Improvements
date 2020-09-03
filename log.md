@@ -15,13 +15,27 @@
 
 ---
 
+## Day 140 - 02 Sep 2020
+**Work streak:** 3
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - conducted mid-week review
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged community
+* TH - merge feat_adventurers into master branch
+* TH - created branch `test_NewArt` for looking at new art work, merged into master
+  * updated encounter icons and changed the quest display to update based on type
+  * updated new UI hexbox and ovalbox elements
+  * updated new frames
+  * added new Adventurer button
+  * removed old encounter icons from project
+* TH - 2 commits
+  * commit `0696846` (2020-09-02) - Add new icons to game
+  * commit `35c4c52` (2020-09-02) - Resolve merge conflict by incorporting both updates
+
 ## Day 139 - 01 Sep 2020
 **Work streak:** 2
-**Time (planned/actual):** 1.5h / 
-* Timers ⏲
-  * SMD Work
-  * TH Creation
-  * WBD Creation
+**Time (planned/actual):** 1.5h / 2.6h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * WBD - engaged community

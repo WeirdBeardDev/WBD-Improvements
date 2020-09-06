@@ -15,9 +15,28 @@
 
 ---
 
+## Day 141 - 05 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 8h / 
+* Timers ⏲
+  * SMD Work
+  * TH Creation
+  * WBD Work
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged with the community
+* TH - built and saved TH v0.1.4 Alpha 5
+* TH - 6 commits
+  * commit `0e71692` (2020-09-05) - Fix time speedup bug on reset
+  * commit `08ffad5` (2020-09-05) - Fix bug where adventurers were not resetting correctly
+  * commit `3b86407` (2020-09-05) - Fix typo in reset confirmation
+  * commit `bd6a7d6` (2020-09-05) - Update skill level and cost display
+  * commit `3d626ed` (2020-09-05) - Update to use new encounter types
+  * commit `654d612` (2020-09-05) - Update project to v0.1.4
+
 ## Day 140 - 02 Sep 2020
 **Work streak:** 3
-**Time (planned/actual):** 5h / 
+**Time (planned/actual):** 5h / 5.7h
 * SMD - planned today's work
 * SMD - conducted mid-week review
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter

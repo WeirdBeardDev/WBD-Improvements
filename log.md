@@ -15,13 +15,35 @@
 
 ---
 
+## Day 142 - 08 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 1.5h / 
+* SMD - planned today's work
+* SMD - paid Amex
+* SMD - planned work for the week
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD - completed monthly budgetary items
+* TH - deployed alpha 5 to itch
+* WBD - watched most of Create Your First Action RPG
+* SMD - completed weekly admin activites
+  * Total: 17.61h
+  * 👎 get >65% checklist done
+  * 👎 release test v0.1.5; post to itch
+  * 👎 post IEnumerator blog; research next blog; engage community
+
+| Quests Completed |  SMD  |  GP   |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       36%        |  26%  |  57%  |  17%  |  0%   |
+|     10 of 28     | 4.62  | 10.01 | 2.98  |   0   |
+
+| SM Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    18%    |     82%     |      0%      |
+|   1.85    |    8.16     |      0       |
+
 ## Day 141 - 05 Sep 2020
 **Work streak:** 1
 **Time (planned/actual):** 8h / 
-* Timers ⏲
-  * SMD Work
-  * TH Creation
-  * WBD Work
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * WBD - engaged with the community
@@ -83,7 +105,6 @@
 | :-------: | :---------: | :----------: |
 |    0%     |    100%     |      0%      |
 |     0     |    5.94     |      0       |
-
 
 ## Day 137 - 26 Aug 2020
 **Work streak:** 1

@@ -15,9 +15,18 @@
 
 ---
 
+## Day 143 - 12 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 6.5h / 
+* SMD - planned today's work
+* WBD - read Building an RPG with Unity 2018
+  * Read until Terrain Toolkit 2017 wouldn't work with Unity 2019
+* WBD - read Hands-On Unity Game Dev 2020
+  * Read chapters 1-3
+
 ## Day 142 - 08 Sep 2020
 **Work streak:** 1
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 3.7h
 * SMD - planned today's work
 * SMD - paid Amex
 * SMD - planned work for the week

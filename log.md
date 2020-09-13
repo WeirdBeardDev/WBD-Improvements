@@ -15,6 +15,36 @@
 
 ---
 
+## Day 144 - 13 Sep 2020
+**Work streak:** 2
+**Time (planned/actual):** 0h / 
+* Timers ⏲
+  * SMD Work
+  * TH Design
+  * WBD Work
+* SMD - planned today's work
+* SMD - created plan for the week
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* TH - planned TH Alpha 6
+* WBD - read Hands-On Unity Game Dev 2020
+  * read chapters 4 and part of 5
+* SMD - completed weekly cleanup
+  * Total: 8.83
+  * 👎 get >50% checklist done
+  * ✔️ release test v0.1.5; post to itch
+  * 👎 post IEnumerator blog; research next blog; engage community
+
+| Quests Completed |  SMD  |  GP   |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       12%        |  9%   |  16%  |  75%  |  0%   |
+|     4 of 34      | 0.79  | 1.42  | 6.62  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |     0%      |     100%     |
+|     0     |      0      |     1.42     |
+
+
 ## Day 143 - 12 Sep 2020
 **Work streak:** 1
 **Time (planned/actual):** 6.5h / 

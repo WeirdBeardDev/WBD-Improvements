@@ -15,13 +15,18 @@
 
 ---
 
+## Day 145 - 15 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 1.5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+  * noticed spam referrer traffic on WBD and created filters to remove future hits from GA
+* WBD - engaged community
+* WBD - use GA to create baseline readership for WBD
+
 ## Day 144 - 13 Sep 2020
 **Work streak:** 2
-**Time (planned/actual):** 0h / 
-* Timers ⏲
-  * SMD Work
-  * TH Design
-  * WBD Work
+**Time (planned/actual):** 0h / 5.3h
 * SMD - planned today's work
 * SMD - created plan for the week
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter

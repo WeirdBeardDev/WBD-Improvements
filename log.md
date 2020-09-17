@@ -15,9 +15,22 @@
 
 ---
 
+## Day 146 - 16 Sep 2020
+**Work streak:** 2
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD - attended mid-week review
+* WBD - created increased readership plan for Q4
+* WBD - engaged community
+* TH - work on alpha 6
+  * commit `252a792` (2020-09-16) - Add AutobuyEncounterResearch, first pass
+  * commit `4070e39` (2020-09-16) - Add portrait code for rest of the named adventurers
+  * commit `7250a1b` (2020-09-16) - Add new character portraits
+
 ## Day 145 - 15 Sep 2020
 **Work streak:** 1
-**Time (planned/actual):** 1.5h / 
+**Time (planned/actual):** 1.5h / 3.3h
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
   * noticed spam referrer traffic on WBD and created filters to remove future hits from GA

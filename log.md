@@ -15,6 +15,23 @@
 
 ---
 
+## Day 147 - 19 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 8h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged community
+  * answered questions on Unity Answers
+* TH - worked on alpha 6
+  * commit `455a1ea` (2020-09-19) - Create zone prefab
+  * commit `30c995f` (2020-09-19) - Add close button icon to GeneralUI atlas
+  * commit `f9d6715` (2020-09-19) - Add prefab for silver hexbox
+  * commit `2a8881b` (2020-09-19) - Create screen sections
+  * commit `c0436da` (2020-09-19) - Add singleton and GameManager
+  * commit `6b50511` (2020-09-19) - Setup basic project values
+  * commit `da37d9e` (2020-09-19) - Add standard folders
+  * commit `0d4d88b` (2020-09-19) - Initial commit
+
 ## Day 146 - 16 Sep 2020
 **Work streak:** 2
 **Time (planned/actual):** 5h / 

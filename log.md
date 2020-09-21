@@ -15,6 +15,38 @@
 
 ---
 
+## Day 148 - 20 Sep 2020
+**Work streak:** 2
+**Time (planned/actual):** 4.5h / 
+* SMD - completed weekly admin activities
+* SMD - planned today's work
+* SMD - created work plan for this week
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - read Hands-On Unity 2020 Game Dev
+  * Finished notes on chapter 5
+  * Took notes on most of chapter 6
+* TH - refactor and update zone display
+  * commit `11770ce` (2020-09-20) - Add accordian button and fader to zone list
+  * commit `1c0135e` (2020-09-20) - Create AccordianButton
+  * commit `3f99dd2` (2020-09-20) - Add Fader component
+  * commit `b90bf57` (2020-09-20) - Add ShowHide component
+* SMD - completed weekly cleanup
+  * Total: 17.7h
+  * 👎 get >50% checklist done
+  * ✔️ create plan for TH alpha 6; work on alpha 6
+  * 👎 read Hands-On book; engage community
+
+| Quests Completed |  SMD  |  GP   |  WBD  | FAFF  |
+| :--------------: | :---: | :---: | :---: | :---: |
+|       38%        |  14%  |  38%  |  49%  |  0%   |
+|     13 of 34     | 2.45  | 6.65  |  8.6  |   0   |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    24%    |     76%     |      0%      |
+|   1.61    |    5.04     |      0       |
+
+
 ## Day 147 - 19 Sep 2020
 **Work streak:** 1
 **Time (planned/actual):** 8h / 

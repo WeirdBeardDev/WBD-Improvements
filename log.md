@@ -15,9 +15,20 @@
 
 ---
 
+## Day 149 - 21 Sep 2020
+**Work streak:** 3
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - engaged the community
+* TH - refactor and update zone display
+  * commit `79de21d` (2020-09-21) - Add accordion resizer to zone display
+  * commit `2d272f4` (2020-09-21) - Add Tilter component
+  * commit `0cc9ae5` (2020-09-21) - Remove print from Fader
+
 ## Day 148 - 20 Sep 2020
 **Work streak:** 2
-**Time (planned/actual):** 4.5h / 
+**Time (planned/actual):** 4.5h / 5.2h
 * SMD - completed weekly admin activities
 * SMD - planned today's work
 * SMD - created work plan for this week

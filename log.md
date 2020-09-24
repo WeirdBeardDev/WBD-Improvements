@@ -15,13 +15,25 @@
 
 ---
 
-## Day 150 - 22 Sep 2020
-**Work streak:** 4
-**Time (planned/actual):** 1.5h / 
+## Day 151 - 23 Sep 2020
+**Work streak:** 5
+**Time (planned/actual):** 5h / 
+* Timers
+  * SMD Work
+  * WBD Work
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
-* WBD - [Pro Git](https://git-scm.com/book/en/v2) Ch 1-3
-* WBD - engage community
+* SMD - held mid-week review
+* SMD - reviewed Q4 plan, update as needed
+* WBD - engaged community
+
+## Day 150 - 22 Sep 2020
+**Work streak:** 4
+**Time (planned/actual):** 1.5h / 1.8h
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - read [Pro Git](https://git-scm.com/book/en/v2) Ch 1-3
+* WBD - engaged community
 
 ## Day 149 - 21 Sep 2020
 **Work streak:** 3

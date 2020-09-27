@@ -15,6 +15,23 @@
 
 ---
 
+## Day 153 - 26 Sep 2020
+**Work streak:** 2
+**Time (planned/actual):** 5.5h / 
+* SMD - planned today's work
+* TH - refactor and update zone display
+  * commit `b3902dd` (2020-09-26) - Add location prefab
+  * commit `b628e9e` (2020-09-26) - Update text size in zone display
+  * commit `49d40c9` (2020-09-26) - Fix zone resizing
+
+## Day 152 - 25 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 1.5h / 
+* Personal - a rough afternoon caused me to abandon my work and I didn't even commit my log or time
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* TH - refactored and updated zone display
+
 ## Day 151 - 23 Sep 2020
 **Work streak:** 5
 **Time (planned/actual):** 5h / 

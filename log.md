@@ -15,6 +15,34 @@
 
 ---
 
+## Day 154 - 28 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 0h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* SMD - created a plan for the week
+* SMD - went thru SMD email
+* SMD - paid for CC's book editing
+* TH - design TH rebuild features
+* SMD - completed weekly cleanup
+  * Total: 19.27h
+  * 👎 get >50% checklist done
+  * 👎 refactor and update zone display
+  * 👎 refactor and update quest display
+  * 👎 tweet on at least 5 different days
+  * 👎 write Unity Transform blog
+  * 👎 research Setting Up New Unity Project in Git and LFS for Dropbox
+
+| Quests Completed |  SMD  |  GP   |  WBD  |
+| :--------------: | :---: | :---: | :---: |
+|       45%        |  14%  |  60%  |  25%  |
+|     13 of 31     | 2.74  | 11.65 | 4.88  |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    0%     |    100%     |      0%      |
+|     0     |     1.6     |     0.05     |
+
 ## Day 153 - 26 Sep 2020
 **Work streak:** 2
 **Time (planned/actual):** 5.5h / 
@@ -35,9 +63,6 @@
 ## Day 151 - 23 Sep 2020
 **Work streak:** 5
 **Time (planned/actual):** 5h / 
-* Timers
-  * SMD Work
-  * WBD Work
 * SMD - planned today's work
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
 * SMD - held mid-week review

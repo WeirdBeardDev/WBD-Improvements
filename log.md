@@ -15,6 +15,17 @@
 
 ---
 
+## Day 155 - 30 Sep 2020
+**Work streak:** 1
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - held project review meeting (1:23)
+* TH - refactor and update location prefab
+  * commit `2daafe1` (2020-09-30) - Add a zone script to the zone prefab
+  * commit `4f6b1ed` (2020-09-30) - Add a zone type
+  * commit `a873aad` (2020-09-30) - Enable selecting/deselecting locations
+  * commit `6d5065a` (2020-09-30) - Update Location prefab
+
 ## Day 154 - 28 Sep 2020
 **Work streak:** 1
 **Time (planned/actual):** 0h / 

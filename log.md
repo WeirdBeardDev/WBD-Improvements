@@ -15,6 +15,41 @@
 
 ---
 
+## Day 158 - 03 Oct 2020
+**Work streak:** 4
+**Time (planned/actual):** 8h / 
+* Timers ⏲
+  * SMD Work
+  * TH Design
+  * TH Creation
+  * WBD Work
+* Personal - I never logged my work or time yesterday so the time will be added to today's time.
+* SMD - planned today's work
+* TH - design Zone->Location->Quest... class tree
+* TH - 5 commits
+  * commit `c033849` (2020-10-03) - Refactor Location class
+  * commit `3fcbd18` (2020-10-03) - Refactor zone class
+  * commit `f42be5a` (2020-10-03) - Add the static formula class
+  * commit `aa42e90` (2020-10-01) - Make minor change to scene
+  * commit `b79175a` (2020-10-01) - Add script templates to the project
+
+## Day 157 - 02 Oct 2020
+**Work streak:** 3
+**Time (planned/actual):** 1.5h / 
+* Timers ⏲
+  * SMD Work
+  * TH Design
+* Personal - I never logged my work or time yesterday so the time will be added to today's time.
+* SMD - planned today's work
+* WBD - found a UML extension for VSCode
+
+## Day 156 - 01 Oct 2020
+**Work streak:** 2
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* TH - design RankedTrait class
+
 ## Day 155 - 30 Sep 2020
 **Work streak:** 1
 **Time (planned/actual):** 5h / 

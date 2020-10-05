@@ -7,13 +7,44 @@
   * 1 to mobile
   * all to [WeirdBeardDev's itch.io](https://weirdbearddev.itch.io/)
 * I want to spend at least 20 hours a week on building my business.
-* I want to achieve a 100 day streak for working on my business.
-  * I need to spend at least 1 hour of good work for it to count towards my streak.
-* I want to complete >90% of my quest list every week. (added 24 May 2020)
+* I define a "Good Week" as:
+  * completed >20 hours towards building my company
+  * completed all non stretch milestones
+    * milestones must be SMART (specific, measurable, attainable, relevant, time-bound)
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
 ---
+
+## Day 159 - 04 Oct 2020
+**Good Week Streak:** 0
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* SMD - created plan for the week
+* SMD - created basic outline for 2021 Q1
+* SMD - updated spam filter for GA
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+* WBD - updated WBD Readership stats
+* WBD - postponed creating an asset pack until 21Q2
+* WBD - engaged community on Twitter and reddit
+* SMD - completed weekly cleanup
+  * Hours: 16.37
+  * 👎accomplish >50% of the checklist
+  * 👎refactor and update zone display
+  * 👎refactor and update quest display
+  * 👎tweet on at least 5 different days
+  * 👎write Unity Transforms blog
+  * 👎research Setting Up New Unity Project in Git and LFS for Dropbox
+
+| Quests Completed |  SMD  |  GP   |  WBD  |
+| :--------------: | :---: | :---: | :---: |
+|       36%        |  26%  |  55%  |  20%  |
+|     13 of 36     | 4.18  | 8.93  | 3.26  |
+
+| TH Design | TH Creation | TH Marketing |
+| :-------: | :---------: | :----------: |
+|    59%    |     41%     |      0%      |
+|   5.31    |    3.62     |      0       |
 
 ## Day 158 - 03 Oct 2020
 **Work streak:** 4
@@ -82,7 +113,7 @@
 | Quests Completed |  SMD  |  GP   |  WBD  |
 | :--------------: | :---: | :---: | :---: |
 |       45%        |  14%  |  60%  |  25%  |
-|     13 of 31     | 2.74  | 11.65 | 4.88  |
+|     14 of 31     | 2.74  | 11.65 | 4.88  |
 
 | TH Design | TH Creation | TH Marketing |
 | :-------: | :---------: | :----------: |
@@ -115,6 +146,7 @@
 * SMD - reviewed Q4 plan, update as needed
 * WBD - engaged community
 
+# Days 121-150; 29 Jul - 22 Sep 2020
 ## Day 150 - 22 Sep 2020
 **Work streak:** 4
 **Time (planned/actual):** 1.5h / 1.8h

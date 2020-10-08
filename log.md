@@ -16,8 +16,35 @@
 
 ---
 
+## Day 161 - 07 Oct 2020
+**Good week streak:** 0
+**Time (planned/actual):** 5h / 
+* Timers ⏲
+  * SMD Work
+  * TH Design
+  * TH Creation
+  * WBD Work
+* Personal - I never submitted my time or log yesterday, I folded them into today's submissions.
+* SMD - planned today's work
+* WBD - engaged community
+* SMD - paid for editing services for Comfort Creatives book
+* TH - design quest display section
+* TH - build out quest display section
+* TH - 2 commits
+  * commit `8b073f0` (2020-10-07) - Update quest layout
+  * commit `c967d4f` (2020-10-07) - Layout initial quest display section
+
+## Day 160 - 06 Oct 2020
+**Good week Streak:** 0
+**Time (planned/actual):** 1.5h / 
+* Timers ⏲
+  * SMD Work
+* SMD - planned today's work
+* SMD - completed project reviews
+* SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter
+
 ## Day 159 - 04 Oct 2020
-**Good Week Streak:** 0
+**Good week Streak:** 0
 **Time (planned/actual):** 5h / 
 * SMD - planned today's work
 * SMD - created plan for the week

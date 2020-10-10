@@ -16,14 +16,41 @@
 
 ---
 
+## Day 164 - 10 Oct 2020
+**Good week streak:** 0
+**Time (planned/actual):** 8h / 
+* Timers ⏲
+  * SMD Work
+  * TH Creation
+  * WBD Work
+* Personal - I never submitted my time or log yesterday, I folded them into today's submissions.
+* SMD - planned today's work
+* WBD - research blog "Using Inheritence for Goals"
+* WBD - engage community
+* TH - continue implementing objectives
+* TH - 5 commits
+  * commit `97a556a` (2020-10-10) - Add location, quest, encounters, and goal hierarchy
+  * commit `5b6e478` (2020-10-10) - Add namespace to usings
+  * commit `b8b43ca` (2020-10-09) - Add mutlibuy and number formatters
+  * commit `669265a` (2020-10-08) - Add a NameGenerator class
+  * commit `29d13b0` (2020-10-08) - Update UCO script to remove namespace
+
+## Day 163 - 09 Oct 2020
+**Good week streak:** 0
+**Time (planned/actual):** 0h / 
+* Personal - I never submitted my time or log yesterday, I folded them into today's submissions.
+* SMD - planned today's work
+* TH - start implementing playable encounters, and objectives
+
+## Day 162 - 08 Oct 2020
+**Good week streak:** 0
+**Time (planned/actual):** 5h / 
+* SMD - planned today's work
+* TH - implemented new quest class
+
 ## Day 161 - 07 Oct 2020
 **Good week streak:** 0
 **Time (planned/actual):** 5h / 
-* Timers ⏲
-  * SMD Work
-  * TH Design
-  * TH Creation
-  * WBD Work
 * Personal - I never submitted my time or log yesterday, I folded them into today's submissions.
 * SMD - planned today's work
 * WBD - engaged community
@@ -37,8 +64,6 @@
 ## Day 160 - 06 Oct 2020
 **Good week Streak:** 0
 **Time (planned/actual):** 1.5h / 
-* Timers ⏲
-  * SMD Work
 * SMD - planned today's work
 * SMD - completed project reviews
 * SMD - reviewed metrics for WBD, itch TH, CC Patreon, and Twitter

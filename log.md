@@ -9,20 +9,48 @@
 * I want to spend at least 20 hours a week on building my business.
 * I define a "Good Week" as:
   * completed >20 hours towards building my company
-  * completed all non stretch milestones
+  * completed 80% of my milestones
     * milestones must be SMART (specific, measurable, attainable, relevant, time-bound)
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
 ---
 
+## Week 42 - 11-17 Oct 2020
+**Good week streak:** 0
+* Timers ⏲
+  * SMD Work
+### Game Project - Treasure Hunter
+* TBD
+### WBD
+* TBD
+### SMD
+* 👉SMD - create plan for this week
+* SMD - completed weekly cleanup for last week
+  * Hours: 20.48
+  * ✔️accomplish >50% of the checklist
+  * ✔️refactor and update zone display
+  * 👎tweet on at least 5 different days
+  * 👎write the next blog
+  * ✔️research the next blog topic - Using Inheritence for Goals
+  * ✔️learn the next concept - [The Cost of a Game Studio](https://www.polygon.com/2014/7/31/5949433/the-cost-of-a-game-studio)
+
+| Quests Completed |  SMD  |  GP   |  WBD  |
+| :--------------: | :---: | :---: | :---: |
+|       70%        |  25%  |  38%  |  36%  |
+|     23 of 33     | 5.19  | 7.86  | 7.43  |
+
+#### Game Project: Treasure Hunter
+
+| Design | Creation | Marketing |
+| :----: | :------: | :-------: |
+|   2%   |   98%    |    0%     |
+|  0.18  |   7.68   |     0     |
+
+
 ## Day 164 - 10 Oct 2020
 **Good week streak:** 0
 **Time (planned/actual):** 8h / 
-* Timers ⏲
-  * SMD Work
-  * TH Creation
-  * WBD Work
 * Personal - I never submitted my time or log yesterday, I folded them into today's submissions.
 * SMD - planned today's work
 * WBD - research blog "Using Inheritence for Goals"

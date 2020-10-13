@@ -19,21 +19,26 @@
 ## Week 42 - 11-17 Oct 2020
 **Good week streak:** 0  
 * Active Timers ⏲
-  * none
+  * SMD Work
+  * WBD Work
 ### Days
-* 11 Oct = D165
+* 11 Oct = D165, 13 Oct = D166
 ### Game Project - Treasure Hunter
 * TBD
 ### WBD
 * (learn) - [How to Create Your Own Video Game Studio](https://insights.dice.com/2014/07/08/how-to-create-your-own-video-game-studio/) - misleading title, the article contains examples of people going to USC, working at bigger companies, and starting their own companies; nothing on "how to create" anything let alone a game studio
 * engaged the community
-  * twitter game dev community
+  * Twitter game dev community
   * Unity Answers
+  * various reddit communities
+* wrote first draft of Using Transform's IEnumerable Features blog
 ### SMD
 * SMD - created plan for this week
 * SMD - complete monthly budgetary items
 * SMD - pay invoice for CC Book 1 editing
 * SMD - searched for ISBNs, didn't find any, found UPCs instead
+* SMD - reviewed metrics for WBD, itch, and CC Patreon
+* SMD - completed weekly project reviews
 * SMD - completed weekly cleanup for last week
   * Hours: 20.48
   * ✔️accomplish >50% of the checklist

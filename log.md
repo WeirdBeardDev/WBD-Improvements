@@ -18,13 +18,20 @@
 
 ## Week 42 - 11-17 Oct 2020
 **Good week streak:** 0  
-* Active Timers ⏲
-  * SMD Work
-  * WBD Work
 ### Days
-* 11 Oct = D165, 13 Oct = D166
+* 11 Oct = D165, 13 Oct = D166, 16 Oct = D167, 17 Oct = D168
 ### Game Project - Treasure Hunter
-* TBD
+* Design work
+* Coding work
+  * commit `66f0866` (2020-10-17) - Implement an initially functioning quest
+  * commit `6fe52ad` (2020-10-17) - Add encounters to display quest area
+  * commit `3e073c1` (2020-10-17) - Fix bug in encounter cost growth rate
+  * commit `e75866f` (2020-10-17) - Add currency view and encounter header
+  * commit `512ffc8` (2020-10-17) - Display quest name for selected location
+  * commit `ec1274a` (2020-10-17) - Add second location for testing
+  * commit `518b510` (2020-10-17) - Refactor Location to show full map for Plains zone
+  * commit `495c91b` (2020-10-17) - Add initial GoalGO script to prefab:Goal
+  * commit `57996cb` (2020-10-17) - Implement initial prefab:Goal
 ### WBD
 * (learn) - [How to Create Your Own Video Game Studio](https://insights.dice.com/2014/07/08/how-to-create-your-own-video-game-studio/) - misleading title, the article contains examples of people going to USC, working at bigger companies, and starting their own companies; nothing on "how to create" anything let alone a game studio
 * engaged the community

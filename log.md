@@ -16,6 +16,61 @@
 
 ---
 
+## Week 43 - 18-24 Oct 2020
+**Good week streak:** 1
+### Days
+* 18 Oct = D169, 19 Oct = D170, 22 Oct = D171, 24 Oct = D172
+### Game Project - Treasure Hunter
+* Design work
+  * updated prefab:Location design
+  * designed basic layout for Action Display area
+* Coding work
+  * commit `e021a63` (2020-10-24) - Fix prefab:Goal View to adjust for screen sizes
+  * commit `787653d` (2020-10-24) - Remove comment
+  * commit `5576722` (2020-10-24) - Improve quest display
+  * commit `9118381` (2020-10-24) - Add PreviousZone option to ZoneType enum       
+  * commit `95bd508` (2020-10-24) - Fix bug by replacing wingit with icon
+  * commit `2c9e0c5` (2020-10-24) - Add initial rewards for completing a quest goal
+  * commit `a2b1e4d` (2020-10-24) - Add list of zones to game manager
+  * commit `4a8a2af` (2020-10-24) - Update prefab:Encounter View
+  * commit `0d6d4e4` (2020-10-22) - Display zone background for selected quest     
+  * commit `a44d0db` (2020-10-22) - Add background images to zones
+  * commit `837093f` (2020-10-22) - Add zone background images to game
+  * commit `94ba948` (2020-10-22) - Create TMP sprite assets for text boxes
+  * commit `7bf20a8` (2020-10-22) - Update prefab:Location to include new progress bar
+  * commit `5c73446` (2020-10-22) - Add panels for the Action Display area
+### WBD Work
+* moved learning notes to WBD Learning board on Trello
+* engaged the community
+  * tweeted twice on Monday
+* posted [Unity's Transform Implements IEnumerable](http://weirdbearddev.com/2020/10/19/unitys-transform-implements-ienumerable/)
+* research and wrote first draft of "Need a Random Quest Goal? Build a Better Factory!"
+### SMD Work
+* SMD - created plan for this week
+* bought WordPress site for Comfort Creatives
+* SMD - completed weekly cleanup for last week
+  * Hours: 20.64
+  * ✔️ accomplish >50% of the checklist
+  * ✔️ implement playable Location
+  * ✔️ engage community - tweet 3 diff days or 6 times
+  * ✔️ engage community - respond in 3 communities
+  * ✔️ write blog - Unity Transform Supports IEnumerable
+  * 👎 research blog - Using Inheritence for Goals
+  * ✔️ learn - How to Create Your Own Video Game Studio
+
+| Quests Completed |  SMD  |  GP   |  WBD  |
+| :--------------: | :---: | :---: | :---: |
+|       76%        |  23%  |  45%  |  32%  |
+|     31 of 41     | 4.83  | 9.29  | 6.52  |
+
+#### Game Project: Treasure Hunter
+
+| Design | Creation | Marketing |
+| :----: | :------: | :-------: |
+|  10%   |   90%    |    0%     |
+|  0.92  |   8.37   |     0     |
+
+
 ## Week 42 - 11-17 Oct 2020
 **Good week streak:** 0  
 ### Days

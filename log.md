@@ -16,7 +16,74 @@
 
 ---
 
-## Week 43 - 18-24 Oct 2020
+## Week 2020-46 - 08-14 Nov 2020
+**Good week streak:** 0
+* Active Timers ⏲
+  * SMD Work
+### Days
+* 08 Nov = D175,
+### Game Project - Treasure Hunter
+* Design work
+* Coding work
+### WBD Work
+* updated WBD readership metrics
+### SMD Work
+* SMD - create plan for this week
+* SMD - completed weekly cleanup for last week
+* SMD - completed monthly budget activities
+* SMD - created a plan for major goals in 2021 Q1
+
+## Week 2020-45 - 01-07 Nov 2020
+**Good week streak:** 0  
+Personal - I took part of this week off and spent time with my wife.
+### Days
+* 06 Nov = D174,
+### Game Project - Treasure Hunter
+* Design work
+* Coding work
+### WBD Work
+* engaged community - Unity Answers
+### SMD Work
+* SMD - completed weekly cleanup for last week; with the time off I did not capture last week's progress
+
+## Week 2020-44 - 25-31 Oct 2020
+**Good week streak:** 0  
+Personal - I took part of this week off and spent time with my wife.
+### Days
+* 27 Oct = D173
+### Game Project - Treasure Hunter
+* Design work
+* Coding work
+### WBD Work
+* TBD
+### SMD Work
+* SMD - create plan for this week
+* SMD - completed weekly cleanup for last week
+  * Hours: 17.76
+  * ✔️ accomplish >53% of the checklist
+  * ✔️ design Action Display
+  * ✔️ improve Quest Display so it matches previous version capability
+  * 👎 engage community - tweet 3 diff days or 6 times
+  * ✔️ engage community - respond in 3 communities
+  * ✔️ post blog - Unity Transform Supports IEnumerable
+  * ✔️ write blog - Using Inheritence for Goals
+  * ✔️ learn - starting a game studio
+  * ✔️ learn - making pixel perfect icons
+
+| Quests Completed |  SMD  |  GP   |  WBD  |
+| :--------------: | :---: | :---: | :---: |
+|       82%        |  23%  |  35%  |  43%  |
+|     36 of 44     |   4   | 6.15  | 7.61  |
+
+#### Game Project: Treasure Hunter
+
+| Design | Creation | Marketing |
+| :----: | :------: | :-------: |
+|   8%   |   92%    |    0%     |
+|  0.49  |   5.66   |     0     |
+
+
+## Week 2020-43 - 18-24 Oct 2020
 **Good week streak:** 1
 ### Days
 * 18 Oct = D169, 19 Oct = D170, 22 Oct = D171, 24 Oct = D172
@@ -71,7 +138,7 @@
 |  0.92  |   8.37   |     0     |
 
 
-## Week 42 - 11-17 Oct 2020
+## Week 2020-42 - 11-17 Oct 2020
 **Good week streak:** 0  
 ### Days
 * 11 Oct = D165, 13 Oct = D166, 16 Oct = D167, 17 Oct = D168

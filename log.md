@@ -20,6 +20,7 @@
 **Good week streak:** 0
 * Active Timers ⏲
   * SMD Work
+  * WBD Work
 ### Days
 * 08 Nov = D175,
 ### Game Project - Treasure Hunter

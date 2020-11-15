@@ -17,15 +17,19 @@
 ---
 
 ## Week 2020-46 - 08-14 Nov 2020
-**Good week streak:** 0
-* Active Timers ⏲
-  * SMD Work
-  * WBD Work
+**Good week streak:** 0  
 ### Days
-* 08 Nov = D175,
+* 08 Nov = D175, 14 Nov = D176
 ### Game Project - Treasure Hunter
-* Design work
 * Coding work
+  * commit `4624007` (2020-11-14) - Add formula comment for topexx rewards
+  * commit `2c50d50` (2020-11-14) - Fix bug with calculating all time wingits, needed for rewards calcs
+  * commit `fc69efd` (2020-11-14) - Add topexx crytals rewards formula
+  * commit `1fb140d` (2020-11-14) - Refactor fix for 0 maps in list
+  * commit `dbf1651` (2020-11-14) - Fix null ref error when no quests exists in the linked list        
+  * commit `8895c01` (2020-11-14) - Add unity debugger config
+  * commit `7f73563` (2020-11-14) - Update VS Code package to v1.2.3
+  * commit `0f29665` (2020-11-14) - Refactor to use events for quest completion
 ### WBD Work
 * updated WBD readership metrics
 ### SMD Work

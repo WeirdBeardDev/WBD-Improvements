@@ -16,6 +16,43 @@
 
 ---
 
+## Week 2020-47 - 15-21 Nov 2020
+**Good week streak:** 0
+* Active Timers ⏲
+  * None
+### Days
+* 15 Nov = D177,
+### Personal
+* I struggled with motivation last week.  I will learn from it and move on.
+### Game Project - Treasure Hunter
+* Design work
+* Coding work
+### WBD Work
+* engaged various reddit communities
+* edited my next blog - Building a Random Quest Generator
+### SMD Work
+* SMD - create plan for this week
+* SMD - completed weekly cleanup for last week
+  * Hours: 9.61
+  * 👎 **SMD Milestone:** accomplish >52% of the checklist (use median)
+  * 👎 **TH Milestone:** design research feature
+  * 👎 **TH Milestone:** code initial research feature and tech
+  * 👎 **WBD Milestone:** engage community - tweet at least 3 diff days or 6 times
+  * 👎 **WBD Milestone:** engage community - respond in at least 3 communities
+  * 👎 **WBD Milestone:** post blog - Building a Random Quest Factory
+  * 👎 **WBD Milestone:** write blog - Enum as Indexer
+  * 👎 **WBD Milestone:** learn - read 2 articles on starting a video game company
+
+| Quests Completed |    SMD     |     GP     |   WBD    |
+| :--------------: | :--------: | :--------: | :------: |
+|   10/35 (29%)    | 3.26 (34%) | 5.75 (60%) | 0.6 (6%) |
+
+#### Game Project: Treasure Hunter
+
+|   Design   |  Creation  | Marketing |
+| :--------: | :--------: | :-------: |
+| 0.79 (14%) | 4.96 (86%) |  0 (0%)   |
+
 ## Week 2020-46 - 08-14 Nov 2020
 **Good week streak:** 0  
 ### Days

@@ -16,6 +16,21 @@
 
 ---
 
+## Week 2020-49 - 29 Nov-5 Dec 2020
+**Good week streak:** 0
+### Days
+* 29 Nov = D178, 5 Dec = D179
+### WBD Work
+* edited and posted [Building a Random Quest Generator](http://weirdbearddev.com/2020/12/05/building-a-random-quest-generator/)
+### SMD Work
+* rework schedule template
+* SMD - create plan for this week
+* SMD - completed weekly cleanup for last week
+  * Hours: Thanksgiving Holiday week
+
+## Week 2020-48 - 22-28 Nov 2020
+* Thanksgiving Holiday Week
+
 ## Week 2020-47 - 15-21 Nov 2020
 **Good week streak:** 0
 * Active Timers ⏲

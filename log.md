@@ -18,18 +18,23 @@
 
 ## Week 2020-50 - 06-12 Dec 2020
 **Good week streak:** 0
-* Active Timers ⏲
-  * SMD Work
 ### Days
-* 06 Dec = D180,
+* 06 Dec=D180, 8 Dec=D181, 10 Dec=D182
 ### Game Project - Treasure Hunter
 * Design work
 * Coding work
 ### WBD Work
-* TBD
+* update GA spam filters
+* update WBD readership stats
+* engaged on reddit
 ### SMD Work
-* SMD - create plan for this week
-* SMD - completed weekly cleanup for last week
+* create plan for this week
+* updated the books
+* updated schedule for 2021 Q1 blogging
+* udpated schedule for 2021 Q1 learning
+* created 2021 Annual Plan card in Trello
+### Last Week In Review
+* completed weekly cleanup for last week
   * Hours: 2.23
   * My wife had migraine-like headaches several times last week and I spent time with her.
 

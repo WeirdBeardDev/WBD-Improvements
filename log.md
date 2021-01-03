@@ -16,6 +16,24 @@
 
 ---
 
+## Week 2020-51 - 13-19 Dec 2020
+**Good week streak:** 0
+* Active Timers ⏲
+  * SMD Work
+  * TH Design
+### Days
+* 14 Dec = D183,
+### Game Project - Treasure Hunter
+* Design work
+* Coding work
+### WBD Work
+* TBD
+### SMD Work
+* 👉SMD - create plan for this week
+### Last Week In Review
+* SMD - completed weekly cleanup for last week
+  * Hours: 3.28
+
 ## Week 2020-50 - 06-12 Dec 2020
 **Good week streak:** 0
 ### Days

@@ -16,6 +16,25 @@
 
 ---
 
+## Week 2021-01 - 03-09 Jan 2021
+**Good week streak:** 0
+* Active Timers ⏲
+  * SMD Work
+### Days
+* 05 Jan = D184,
+### Game Project - Space Wave
+* Time for the project is tracked separately from my normal SMD time
+* Design work
+* Coding work
+### WBD Work
+* TBD
+### SMD Work
+* 👉SMD - create plan for this week
+### Last Week In Review
+* Personal - I took some time off.  I did some work but did not record it.
+* Personal - I connected with a fellow game dev looking to build a team to create games.  During January he will work individually with a few devs to get a sense of how they work.  Then in February he will bring us together to form a larger team.
+* Personal - I put Treasure Hunter on the back burner to focus on this new opportunity.
+
 ## Week 2020-51 - 13-19 Dec 2020
 **Good week streak:** 0
 * Active Timers ⏲

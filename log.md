@@ -21,13 +21,24 @@
 * Active Timers ⏲
   * SMD Work
 ### Days
-* 05 Jan = D184,
+* 05 Jan = D184, 6 Jan = D185
 ### Game Project - Space Wave
 * Time for the project is tracked separately from my normal SMD time
+* Admin work
+  * created grunt fund model, updated time trackers, and created Dropbox and Drive folders
 * Design work
+  * researched some shooter games on Google Play for design ideas
+  * started creating mockup designs
 * Coding work
+  * created project; added to GitLab; invited Joshua; laid down ground work
+* Commits
+  * commit `b4667d9` (2021-01-06) - Add script templates
+  * commit `8c43802` (2021-01-06) - Add SaveOnRun script
+  * commit `983edf3` (2021-01-06) - Add in backgrounds for testing
+  * commit `fd0cabc` (2021-01-06) - Update settings for vertical scroller game
+  * commit `6205de7` (2021-01-06) - Initial commit
 ### WBD Work
-* TBD
+* researched creating a shooter game in Unity
 ### SMD Work
 * 👉SMD - create plan for this week
 ### Last Week In Review

@@ -21,14 +21,16 @@
 * Active Timers ⏲
   * SMD Work
 ### Days
-* 05 Jan = D184, 6 Jan = D185
+* 05 Jan = D184, 6 Jan = D185, 7 Jan = D186
 ### Game Project - Space Wave
 * Time for the project is tracked separately from my normal SMD time
 * Admin work
   * created grunt fund model, updated time trackers, and created Dropbox and Drive folders
+  * reviewed contract; sought details from Anthem on taking on a second job
 * Design work
   * researched some shooter games on Google Play for design ideas
   * started creating mockup designs
+  * created screen mockups and the feature cards with checklists
 * Coding work
   * created project; added to GitLab; invited Joshua; laid down ground work
 * Commits

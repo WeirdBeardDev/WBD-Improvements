@@ -16,12 +16,10 @@
 
 ---
 
-## Week 2021-01 - 03-09 Jan 2021
+## Week 2021-W01 - 03-09 Jan 2021
 **Good week streak:** 0
-* Active Timers ⏲
-  * SMD Work
 ### Days
-* 05 Jan = D184, 6 Jan = D185, 7 Jan = D186
+* 05 Jan = D184, 6 Jan = D185, 7 Jan = D186, 9 Jan = D187
 ### Game Project - Space Wave
 * Time for the project is tracked separately from my normal SMD time
 * Admin work
@@ -34,6 +32,12 @@
 * Coding work
   * created project; added to GitLab; invited Joshua; laid down ground work
 * Commits
+  * commit `5144606` (2021-01-09) - Add a firing weapon to the ship
+  * commit `fb23240` (2021-01-09) - Enable ship movement
+  * commit `d7759c3` (2021-01-09) - Add a game manager
+  * commit `d9d4c80` (2021-01-09) - Update license header
+  * commit `4698966` (2021-01-09) - Update copyright on various scripts
+  * commit `713785f` (2021-01-09) - Update custom template names
   * commit `b4667d9` (2021-01-06) - Add script templates
   * commit `8c43802` (2021-01-06) - Add SaveOnRun script
   * commit `983edf3` (2021-01-06) - Add in backgrounds for testing
@@ -41,6 +45,7 @@
   * commit `6205de7` (2021-01-06) - Initial commit
 ### WBD Work
 * researched creating a shooter game in Unity
+* engaged various communities on reddit
 ### SMD Work
 * 👉SMD - create plan for this week
 ### Last Week In Review
@@ -50,9 +55,6 @@
 
 ## Week 2020-51 - 13-19 Dec 2020
 **Good week streak:** 0
-* Active Timers ⏲
-  * SMD Work
-  * TH Design
 ### Days
 * 14 Dec = D183,
 ### Game Project - Treasure Hunter

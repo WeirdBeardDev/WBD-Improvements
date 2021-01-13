@@ -16,6 +16,61 @@
 
 ---
 
+## Week 2021-W02 - 11-16 Jan 2021
+**Good week streak:** 0
+* Active Timers ⏲
+### Days
+* 11 Jan = D188, 12 Jan = D189
+### Game Project - Space Wave
+* Admin work
+  * attended standups on multiple days
+  * added suggestions for Discord server
+* Design work
+  * designed scene transitions
+* Development work
+  * commit `a3c9de2` (2021-01-12) - Add Unity updates
+  * commit `94cf55b` (2021-01-12) - Allow user to navigate between all main screens
+  * commit `b429301` (2021-01-12) - Add debugger launch config
+  * commit `232437e` (2021-01-12) - Add scenes to build
+  * commit `006989c` (2021-01-12) - Add all scenes to the game; Begin mockup of Start scene
+  * commit `17d55ac` (2021-01-12) - Add Unity version to the readme
+  * commit `5c6a3f2` (2021-01-11) - Add Unity changes
+  * commit `2760cf3` (2021-01-11) - Add a readme to the project
+  * commit `f807db7` (2021-01-11) - Add a credits file to the project
+  * commit `82ac445` (2021-01-11) - Add limits to player ship movements
+  * commit `42b19c6` (2021-01-11) - Cleanup code for Despawner
+  * commit `8142175` (2021-01-11) - Add a boundary where Hazard and Shot tags will become disabled
+  * commit `fd7793d` (2021-01-11) - Add an asteroid wave spawner
+  * commit `a47dd44` (2021-01-11) - Organize Prefab and Script folders
+  * commit `1937981` (2021-01-11) - Add prefabs for 2 hazards and 1 powerup
+* Marketing work
+### WBD Work
+* TBD
+### SMD Work
+* 👉SMD - create plan for this week
+### Last Week In Review
+* SMD - completed weekly cleanup for last week
+  * Hours: 19.06
+  * 👎 **SMD Milestone:** accomplish >50% of the checklist (use median)
+  * ✔️ **SW Milestone:** finish GDD
+  * ✔️ **SW Milestone:** design basic UI
+  * ✔️ **SW Milestone:** create project
+  * 👎 **SW Milestone:** finish a basic block mockup
+  * 👎 **WBD Milestone:** engage community - tweet at least 3 diff days or 6 times
+  * ✔️ **WBD Milestone:** engage community - respond in at least 3 communities
+  * 👎 **WBD Milestone:** write blog - Enum as Indexer
+
+| Quests Completed |    SMD    |     GDP     |    WBD     |
+| :--------------: | :-------: | :---------: | :--------: |
+|   14/29 (48%)    | 0.68 (4%) | 13.26 (70%) | 5.12 (27%) |
+
+#### Game Project: Space Wave (SW) and Treasure Hunter (TH)
+
+| Admin |  Design  | Develop | Marketing |
+| :---: | :------: | :-----: | :-------: |
+| 1.66  | SW: 5.54 |  5.05   |     0     |
+|       | TH: 1.01 |         |           |
+
 ## Week 2021-W01 - 03-09 Jan 2021
 **Good week streak:** 0
 ### Days
@@ -52,6 +107,8 @@
 * Personal - I took some time off.  I did some work but did not record it.
 * Personal - I connected with a fellow game dev looking to build a team to create games.  During January he will work individually with a few devs to get a sense of how they work.  Then in February he will bring us together to form a larger team.
 * Personal - I put Treasure Hunter on the back burner to focus on this new opportunity.
+
+# Year 2020
 
 ## Week 2020-51 - 13-19 Dec 2020
 **Good week streak:** 0
@@ -499,7 +556,6 @@ Personal - I took part of this week off and spent time with my wife.
 * SMD - reviewed Q4 plan, update as needed
 * WBD - engaged community
 
-# Days 121-150; 29 Jul - 22 Sep 2020
 ## Day 150 - 22 Sep 2020
 **Work streak:** 4
 **Time (planned/actual):** 1.5h / 1.8h
@@ -956,7 +1012,6 @@ Personal - I took part of this week off and spent time with my wife.
 * Personal - traveled home from vaca
 * WBD - wrote first draft of "Update Unity Code Templates" blog
 
-# Days 91-120; 29 Jun - 28 Jul 2020
 ## Day 120 - 28 July 2020
 **Work streak:** 88 days
 **Time (planned/actual):** 2h / 1.9h
@@ -1334,7 +1389,6 @@ Personal - I took part of this week off and spent time with my wife.
   * commit `7552f09` (2020-06-29) - Fix TMP color issue
   * commit `cfb5eb1` (2020-06-29) - Enable Unity Quick Search feature
 
-# Days 61-90; 30 May - 28 June 2020
 ## Day 90 - 28 June 2020
 **Work streak:** 58 days
 **Time (planned/actual):** 3.5h / 3.2h
@@ -1745,7 +1799,6 @@ Personal - I took part of this week off and spent time with my wife.
     * added #if directives around key code so that when I'm testing the game is easier
     * when I build the code it will revert to PROD code
 
-# Days 31-60; 18 Apr - 29 May 2020
 ## Day 60 - 29 May 2020
 **Work streak:** 28 days
 **Time (planned/actual):** 1.5h / 3.6h
@@ -2114,7 +2167,6 @@ Personal - I took part of this week off and spent time with my wife.
 **Time (planned/actual):** 10h / 0.8h
 * SMD - planning meeting
 
-# Days 1-30; 8 Mar - 17 Apr 2020
 ## Day 30 - 17 Apr 2020
 **Time (planned/actual):** 2h / 2h
 * TH - commit `e0620fe` - Implement basic research item displays and leveling

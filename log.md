@@ -20,14 +20,18 @@
 **Good week streak:** 0
 * Active Timers ⏲
 ### Days
-* 11 Jan = D188, 12 Jan = D189
+* 11 Jan = D188, 12 Jan = D189, 15 Jan = D190
 ### Game Project - Space Wave
 * Admin work
   * attended standups on multiple days
   * added suggestions for Discord server
+  * researched Joint Venture contracts so SMD and Loot Kit Studio could work together
 * Design work
   * designed scene transitions
+  * created initial code designs for the player object
 * Development work
+  * commit `13f6ac9` (2021-01-15) - Add starter code for the Player POCO for saving/loading
+  * commit `c219294` (2021-01-15) - Add class structures for game state management
   * commit `a3c9de2` (2021-01-12) - Add Unity updates
   * commit `94cf55b` (2021-01-12) - Allow user to navigate between all main screens
   * commit `b429301` (2021-01-12) - Add debugger launch config

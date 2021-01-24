@@ -16,6 +16,29 @@
 
 ---
 
+## Week 2021-W03 - 17-23 Jan 2021
+**Good week streak:** 0
+### Days
+* 19 Jan = D191, 21 Jan = D192, 23 Jan = D193
+### Game Project - Space Wave
+* Admin work
+  * contract reviews and rewrites
+* Develop work
+  * commit `c183656` (2021-01-23) - Fix bug with disappearing resources
+  * commit `36cf56f` (2021-01-23) - Add enum for Hazards
+  * commit `36f5ba0` (2021-01-23) - Add resource collection UI
+  * commit `de9b693` (2021-01-23) - Fix firing bug when ship is at screen limits
+  * commit `c071ece` (2021-01-23) - Update comments throughout code
+  * commit `a7d3a02` (2021-01-21) - Move resource counting to the Resources class
+  * commit `f3aaad4` (2021-01-21) - Add basic saving/loading functionality
+  * commit `a3a7493` (2021-01-19) - Change default material speed and time to live
+  * commit `0d4e23b` (2021-01-19) - Add materials, update hazards and despawner
+  * commit `4f5742a` (2021-01-19) - Add collision detection between asteroids, shots, and the ship
+  * commit `0edfb37` (2021-01-19) - Update script template region names
+  * commit `9b08d5f` (2021-01-19) - Add debug statements
+  * commit `a8d2a5d` (2021-01-19) - Add initial reset game file
+  * commit `a11be5a` (2021-01-19) - Add infrastructure for saving/loading functionality
+
 ## Week 2021-W02 - 11-16 Jan 2021
 **Good week streak:** 0
 * Active Timers ⏲

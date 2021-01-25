@@ -16,6 +16,26 @@
 
 ---
 
+## Week 2021-W04 - 24-30 Jan 2021
+**Good week streak:** 0
+* Active Timers ⏲
+  * SMD Work
+### Days
+* 24 Jan = D194,
+### Game Project - Space Wave
+* Admin work
+* Design work
+* Develop work
+* Marketing work
+### WBD Work
+* TBD
+### SMD Work
+* created plan for this week
+* updated 2021 plan to include LKS projects
+* updated spam referrer filter on GA
+* completed monthly budgetary items
+* completed weekly cleanup
+
 ## Week 2021-W03 - 17-23 Jan 2021
 **Good week streak:** 0
 ### Days

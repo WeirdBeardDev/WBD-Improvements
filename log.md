@@ -2,39 +2,30 @@
 ## Goals
 * I want to track my efforts at building my own business, Space Monkeys Down.
 * I want to start my life as a game designer and developer.
-* I want to publish 3 games by the end of 2020.
-  * 1 to Steam
-  * 1 to mobile
-  * all to [WeirdBeardDev's itch.io](https://weirdbearddev.itch.io/)
-* I want to spend at least 20 hours a week on building my business.
-* I define a "Good Week" as:
-  * completed >20 hours towards building my company
-  * completed 80% of my milestones
-    * milestones must be SMART (specific, measurable, attainable, relevant, time-bound)
+* I want to work with Loot Kit Studios to develop games with an eye towards forming a game studio in the future.
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
 ---
 
 ## Week 2021-W04 - 24-30 Jan 2021
-**Good week streak:** 0
-* Active Timers ⏲
-  * SMD Work
 ### Days
-* 24 Jan = D194,
+* 24 Jan = D194, 27 Jan = D195, 28 Jan = D196, 29 Jan = D197, 30 Jan = D198
 ### Game Project - Space Wave
-* Admin work
-* Design work
 * Develop work
-* Marketing work
+  * researched Catmull-Rom spline
+  * recreated the hazard path
 ### WBD Work
-* TBD
+* Did prelim work for Apocolypse project in Feb
+* brushed up on Slicing Pie
 ### SMD Work
 * created plan for this week
 * updated 2021 plan to include LKS projects
 * updated spam referrer filter on GA
 * completed monthly budgetary items
 * completed weekly cleanup
+* reviewed contract with Loot Kit Studios
+* had 1:1 with LKS
 
 ## Week 2021-W03 - 17-23 Jan 2021
 **Good week streak:** 0

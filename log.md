@@ -8,6 +8,37 @@
 
 ---
 
+## Week 2021-W05 - 31 Jan-06 Feb 2021
+### Days
+* 02 Feb = D199, 04 Feb = D200, 05 Feb = D201, 06 Feb = D202
+### Game Project - Apocalypse
+* Admin work
+  * attended Feb planning meeting
+  * signed contract for Feb project
+  * created Trello board for new project
+  * created Slicing Pie model for new project
+  * attended brainstorming session for Feb project
+  * reviewed GDD and provided feedback
+  * updated Time Tracking card with config settings
+  * on the backlog purpose card I described the labels we use
+  * wrote up standup notes in discord
+* Design work
+  * created a basic grouping of tasks; discussed with Josh; refined most tasks
+* Develop work
+  * getting Apocalypse repo and reviewing project
+  * added several editor improvements and things needed for VSCode
+  * commit `6f6ad48` (2021-02-06) - Add 3 repeating backgrounds       
+  * commit `f9fe4c7` (2021-02-06) - Enable the backgrounds to move    
+  * commit `3766598` (2021-02-06) - Create prefabs for ground tilemaps
+  * commit `edbd493` (2021-02-06) - Copy JF scene as a starting point 
+  * commit `23cf921` (2021-02-06) - Add a note about tilemap size
+  * commit `4812e5d` (2021-02-06) - Add singleton class to project
+  * commit `9d3769a` (2021-02-06) - Update repeating backgrounds to work off camera movement
+  * rebased `development-Aj` to `development`
+  * commit `0f42f12` (2021-02-06) - Update object position in hierarchy
+  * commit `57c4ef9` (2021-02-06) - Add despawner to main camera
+  * merged `development-Aj` into `development`
+
 ## Week 2021-W04 - 24-30 Jan 2021
 ### Days
 * 24 Jan = D194, 27 Jan = D195, 28 Jan = D196, 29 Jan = D197, 30 Jan = D198

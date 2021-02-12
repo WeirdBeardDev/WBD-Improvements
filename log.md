@@ -8,6 +8,46 @@
 
 ---
 
+## Week 2021-W06 - 07-13 Feb 2021
+### Days
+* 07 Feb = D203, 8 Feb=D204, 9 Feb=D205, 11 Feb=D206, 12 Feb=D207
+### Game Project - Apocalypse
+* Admin work
+  * connected GitLab to Discord #gitlab channel
+  * wrote up the coding standards; shared on Discord
+* Design work
+  * created design diagram for gameplay and death overlay
+* Develop work
+  * commit `d66c0b8` (2021-02-08) - Add GameOver Overlay Screen
+  * commit `18e466d` (2021-02-08) - Add game over panel to JF's scene
+  * merged `dev-Aj` onto `dev`
+  * created LksManager; reviewed OnApplicationQuit logic; earmarked GameManager
+  * commit `9c02348` (2021-02-11) - Earmark GameManager for changes
+  * commit `2453141` (2021-02-11) - Recreate Aj's game scene
+  * commit `8230be9` (2021-02-11) - Create initial LksManager
+  * commit `fdc480a` (2021-02-11) - Add Died event to PlayerController
+  * commit `b09e380` (2021-02-11) - Add Died event to EnemyTank
+  * created `dev-aj2` branch, an offshot of `development-jf`
+  * commit `a3f6f17` (2021-02-12) - Update initial enemy movement so they always appear on the screen
+  * commit `4fc1343` (2021-02-12) - Organize scripts
+  * commit `7f23d5c` (2021-02-12) - Enable player death and game reset
+  * commit `5ce0ed6` (2021-02-12) - Move to GameplayManager script
+  * commit `a7a82b6` (2021-02-12) - Delete empty script
+  * commit `d2b3714` (2021-02-12) - Reenable type safety check in EnemySpawned
+  * commit `ca312fc` (2021-02-12) - Refactor Missile script
+  * commit `d41b3b4` (2021-02-12) - Delete commented out line
+  * commit `c25067b` (2021-02-12) - Refactor EnemyTank script
+  * commit `51fce09` (2021-02-12) - Remove unused BoxCollider2D from player tank
+  * commit `e362b54` (2021-02-12) - Organize Ground* prefabs
+  * commit `262ff1a` (2021-02-12) - Move EnemySpawner to 0,0,0 relative to parent
+  * commit `ca8396c` (2021-02-12) - Create Game-Aj2 scene
+* Marketing work
+### Game Project - LKS Base
+* commit bc085ba (2021-02-08) - Add VSCode config and some default folders
+### SMD Work
+* paid Amex; updated the books
+* updated WBD readership stats; checked for spam referrers
+
 ## Week 2021-W05 - 31 Jan-06 Feb 2021
 ### Days
 * 02 Feb = D199, 04 Feb = D200, 05 Feb = D201, 06 Feb = D202

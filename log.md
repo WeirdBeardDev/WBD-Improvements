@@ -8,6 +8,53 @@
 
 ---
 
+## Week 2021-W08 - 21-27 Feb 2021
+* Active Timers ⏲
+  * SMD Work
+### Days
+* 21 Feb=D214,
+### Game Project - Apocalypse
+* Admin work
+* Design work
+* Develop work
+* Marketing work
+### WBD Work
+* TBD
+### SMD Work
+* cleaned up Weekly Quest board
+* 👉SMD - create plan for this week
+
+## Week 2021-W07 - 14-20 Feb 2021
+### Days
+* 15 Feb=D208, 16 Feb=D209, 17 Feb=D210, 18 Feb=D211, 19 Feb=D212, 20 Feb=D213
+### Game Project - Apocalypse
+* Admin work
+  * updated hours, grunt fund, and slicing pie
+  * added Unity version to the main card
+  * created a feedback label
+  * created a feedback template
+  * created release card for v0.1
+  * did a sweep of the Trello board; still need some updates
+  * 1:1 with LKS; created `lks-processes` channel in Discord
+  * brainstormed Apocalypse features; office hours discussion
+  * created task - Setup Project Details in Unity
+  * updated Saturday to Team Meeting + Office Hours
+  * add suggestions for GDD; created feature cards
+  * Office Hours discussion with Johnathan about next steps
+* Design work
+* Develop work
+  * signed into LKS org on Google Play; downloaded Apocalypse to phone for testing
+* Marketing work
+### WBD Work
+* answered VSCode debugger question on Unity Answers
+* playtested Hexadehra
+### SMD Work
+* changed emails from @smd to @wbd/@gmail
+* initiated xfer of CC domain from GoDaddy to WordPress
+* cancelled GoDaddy Linux hosting
+* researched copyright registration and ISBN purchasing
+* finialized xfer of CC to WP domains; setup email and privacy on CC
+
 ## Week 2021-W06 - 07-13 Feb 2021
 ### Days
 * 07 Feb = D203, 8 Feb=D204, 9 Feb=D205, 11 Feb=D206, 12 Feb=D207

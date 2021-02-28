@@ -2,27 +2,33 @@
 ## Goals
 * I want to track my efforts at building my own business, Space Monkeys Down.
 * I want to start my life as a game designer and developer.
-* I want to work with Loot Kit Studios to develop games with an eye towards forming a game studio in the future.
 
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
 ---
 
 ## Week 2021-W08 - 21-27 Feb 2021
-* Active Timers ⏲
-  * SMD Work
 ### Days
-* 21 Feb=D214,
-### Game Project - Apocalypse
+* 21 Feb=D214, 22 Feb=D215, 23 Feb=D216, 24 Feb=D217, 27 Feb=D218
+### Game Dev Project - Apocalypse
 * Admin work
+  * chatted with LKS; planned out min game for publish; updated slicing pie
+  * parted ways with LKS
 * Design work
 * Develop work
+  * started implementing stats
+  * worked on and abandoned `feat-stats` branch; created `feat-stats2` branch
+  * created Player Shooting is Wonky bug
 * Marketing work
 ### WBD Work
 * TBD
 ### SMD Work
 * cleaned up Weekly Quest board
-* 👉SMD - create plan for this week
+* created plan for this week
+* closed old SMD Backlog board
+* updated SMD books for playtesting income
+* paid city and state business fees; mailed in tangible property list
+* setup Studio B; discussed Dungeon Crawler Jam
 
 ## Week 2021-W07 - 14-20 Feb 2021
 ### Days

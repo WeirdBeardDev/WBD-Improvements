@@ -7,6 +7,72 @@
 
 ---
 
+## Week 2021-W10 - 07-13 Mar 2021
+### Days
+* 08 Mar=D224, 9 Mar=D225, 11 Mar=D226, 12 Mar=D227, 13 Mar=D228
+### Game Dev Project - Dungeon Crawler Jam
+* Admin work
+  * talked with [Timofey](https://www.patreon.com/timofeydraws/posts) about joining the game jam
+* Design work
+* Develop work
+  * tested player movement; added free look
+  * created baseline for combat system; office hours meeting
+  * commit `acfb6e1` (2021-03-11) - Merge remote-tracking branch 'origin/User-JF' into feature-combat
+  * commit `0e2750b` (2021-03-11) - Make the right sidebar tabs work correctly
+  * commit `4e82d13` (2021-03-11) - -Chest Hinge -Minor Changes to weapon and character
+  * commit `560fcdd` (2021-03-11) - Fix bug of infinite loop
+  * commit `7f72874` (2021-03-11) - Change starting rotation to the player object y-rotation
+  * commit `746c7ad` (2021-03-11) - Block out combat methods
+  * commit `ad7ba94` (2021-03-11) - Add enemy grouper for dealing with multiple enemies in a single combat
+  * commit `04bf7dc` (2021-03-11) - -Added Probuilder -Added Test-Probuilder Scene -Added Dragon Asset -Added GameplayerManager -Added Enemy Prefab -Added Unlockable\Door\Chest Functionality -Added Door Prefab
+  * commit `ebbad1d` (2021-03-11) - Start working on combat system
+  * commit `33c57d6` (2021-03-10) - Add enemy tag
+  * commit `f18385c` (2021-03-09) - Update enemy for testing
+  * commit `5f29bdc` (2021-03-09) - Setup combat system for initial coding pass
+  * commit `bd07269` (2021-03-09) - Create prefabs for minimap, right sidebar, and move arrow sections of the UI
+  * commit `79ef6c8` (2021-03-09) - Add a text feed for outputing game text
+  * commit `b4d84ae` (2021-03-09) - Create prefabs for StudioB and combat system managers
+  * commit `c920c58` (2021-03-09) - Add StudioBManager as singleton
+  * commit `22f6be6` (2021-03-09) - Add CombatSystem as singleton
+  * commit `b41c897` (2021-03-09) - Add subpanels to right panel
+  * commit `668e89d` (2021-03-09) - Add a multiline textbox for output
+  * commit `f0613fa` (2021-03-09) - Create a workable UI design
+  * commit `54eab44` (2021-03-09) - Merge remote-tracking branch 'origin/User-JF' into feature-combat
+  * commit `98c733d` (2021-03-09) - Fix player bouncing off walls
+  * commit `c45085f` (2021-03-09) - Add player tag to player prefab
+  * commit `e865c19` (2021-03-12) - Create first pass at enemy attacks
+  * commit `aaa2f4a` (2021-03-12) - Create primary combat loop
+  * commit `3f87e81` (2021-03-12) - Add Pluralize extensions to float type
+  * commit `9940e05` (2021-03-12) - Adjust the right sidebar display
+  * commit `02ec3af` (2021-03-12) - Add a Pluralize method for strings
+  * commit `97a3b60` (2021-03-12) - Add custom icons for scriptable objects
+  * commit `09e8f18` (2021-03-12) - Merge branch 'main' into feature-combat
+  * worked on enemy attacks; redesigned UI
+* Marketing work
+### WBD Work
+* TBD
+### SMD Work
+* 👉SMD - create plan for this week
+
+## Week 2021-W09 - 28 Feb - 6 Mar 2021
+### Days
+* 28 Feb=D219, 2 Mar=D220, 4 Mar=D221, 5 Mar=D222, 6 Mar=D223
+### Game Dev Project - Dungeon Crawler Jam
+* Admin work
+* Design work
+  * design session for DCJam
+  * designed combat; fleshed out some ideas; studio b design meeting
+  * design meeting to flesh out UI and game concepts; posted for another artist
+* Develop work
+  * setup new branch; creating grid movement
+* Marketing work
+### WBD Work
+* none
+### SMD Work
+* filed federal and state taxes for business
+* completed weekly cleanup
+* reviewed themes for WordPress
+
 ## Week 2021-W08 - 21-27 Feb 2021
 ### Days
 * 21 Feb=D214, 22 Feb=D215, 23 Feb=D216, 24 Feb=D217, 27 Feb=D218

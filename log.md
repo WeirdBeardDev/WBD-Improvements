@@ -7,6 +7,23 @@
 
 ---
 
+## Week 2021-W11 - 14-20 Mar 2021
+### Days
+* 14 Mar=D229, 15 Mar=D230, 16 Mar=D231, 17 Mar=D232, 19 Mar=D233, 20 Mar=D234
+### Game Dev Project - Dungeon Crawler Jam
+* Admin work
+* Design work
+  * provided feedback on character/monster art
+  * designed the combat flow; updated the readme
+* Develop work
+  * update right side UI for new design
+  * Add linecast test to initiate combat
+  * refactor combat UI
+  * merged JF branch to my branch; resolved conflicts; discussed with JF
+  * got the basic combat functionality implemented
+  * worked on left side UI
+* Marketing work
+
 ## Week 2021-W10 - 07-13 Mar 2021
 ### Days
 * 08 Mar=D224, 9 Mar=D225, 11 Mar=D226, 12 Mar=D227, 13 Mar=D228

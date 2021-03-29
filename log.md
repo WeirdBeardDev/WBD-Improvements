@@ -7,6 +7,68 @@
 
 ---
 
+## Week 2021-W13 - 28 Mar - 3 Apr 2021
+* Active Timers ⏲
+  * SMD Work
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu  |  Fri  |  Sat  |
+| :----: | :----: | :----: | :----: | :---: | :---: | :---: |
+| 28 Mar | 29 Mar | 30 Mar | 31 Mar | 1 Apr | 2 Apr | 3 Apr |
+|        |  D240  |        |        |       |       |       |
+
+### Game Dev Project - Dungeon Crawler Jam
+* Admin work
+* Design work
+* Develop work
+* Marketing work
+### WBD Work
+* TBD
+### SMD Work
+* 👉SMD - create plan for this week
+
+## Week 2021-W12 - 21-27 Mar 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 21 Mar | 22 Mar | 23 Mar | 24 Mar | 25 Mar | 26 Mar | 27 Mar |
+|        |  D235  |  D236  |        |  D237  |  D238  |  D240  |
+
+### Game Dev Project - Dungeon Crawler Jam
+* Admin work
+  * none 
+* Design work
+  * created schedule for jam
+* Develop work
+  * commit `6c6a738` (2021-03-26) - Add combat delay between all turns
+  * commit `9d97c28` (2021-03-26) - Make enemies die in combat and reward player with XP
+  * commit `f727f5b` (2021-03-23) - Prep work for testing if enemies are dead
+  * commit `72bc4ed` (2021-03-23) - Add code for defend aciton in combat
+  * commit `3f11dfd` (2021-03-23) - Add defense to enemy and update combat to account for it
+  * commit `8b138d1` (2021-03-23) - Update test scene and tweak inventory code
+  * commit `ee4792b` (2021-03-23) - Create skill level display prefab
+  * commit `318d6d3` (2021-03-23) - Create character info panel prefab
+  * commit `93e11fc` (2021-03-23) - Update closed fist icon
+  * commit `e134797` (2021-03-22) - Update test scene
+  * commit `fa8120d` (2021-03-22) - Add equip and drop buttons to inventory screen
+  * commit `3c87144` (2021-03-22) - Add the first pass at inventory
+  * commit `aee45ac` (2021-03-22) - Add equipped UI updates
+  * commit `66a64d8` (2021-03-22) - Organize sprite folder
+  * commit `9407542` (2021-03-22) - Add UI updates for currency items
+  * commit `0f35117` (2021-03-22) - Add placeholder sprites for the UI
+  * commit `d451ff5` (2021-03-22) - Add basic health bar for player
+  * commit `b6a68c7` (2021-03-22) - Create slot and currency prefabs
+  * commit `5ac0254` (2021-03-22) - Update debug names
+  * commit `97f92f3` (2021-03-22) - Update script templates
+* Marketing work
+  * none
+### WBD Work
+* none
+### SMD Work
+* created plan for this week
+* cleaned up weekly quest board
+
 ## Week 2021-W11 - 14-20 Mar 2021
 ### Days
 * 14 Mar=D229, 15 Mar=D230, 16 Mar=D231, 17 Mar=D232, 19 Mar=D233, 20 Mar=D234

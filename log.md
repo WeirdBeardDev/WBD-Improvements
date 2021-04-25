@@ -7,20 +7,49 @@
 
 ---
 
+## Week 2021-W16 - 18-24 Apr 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 18 Apr | 19 Apr | 20 Apr | 21 Apr | 22 Apr | 23 Apr | 24 Apr |
+|  D253  |  D254  |  D255  |  D256  |        |  D257  |  D258  |
+
+### Game Dev Project - Dagon2
+* Admin work
+  * wiki and plantUML tests
+* Design work
+  * documented my game design work
+  * reviewed UI work with the team
+* Develop work
+  * converted movement to a state machine
+* Marketing work
+### WBD Work
+* TBD
+### SMD Work
+* TBD
+
+## Week 2021-W15: 11-17 Apr 2021
+* Days worked: 13 Apr=D251, 17 Apr=D252
+* I took most of the week off after crunching for the game jam.
+
+## Week 2021-W14: 4-10 Apr 2021
+* Days worked: 4 Apr=D245, 5 Apr=D246, 6 Apr=D247, 7 Apr=D248, 8 Apr =D249, 10 Apr=D250
+* I worked on [Depths of Dagon](https://weirdbearddev.itch.io/depths-of-dagon) for the Dungeon Crawler Game Jam 2021
+
 ## Week 2021-W13 - 28 Mar - 3 Apr 2021
-* Active Timers ⏲
-  * SMD Work
 ### Days
 
 |  Sun   |  Mon   |  Tue   |  Wed   |  Thu  |  Fri  |  Sat  |
 | :----: | :----: | :----: | :----: | :---: | :---: | :---: |
 | 28 Mar | 29 Mar | 30 Mar | 31 Mar | 1 Apr | 2 Apr | 3 Apr |
-|        |  D240  |        |        |       |       |       |
+|        |  D240  |  D241  |  D242  |       | D243  | D244  |
 
 ### Game Dev Project - Dungeon Crawler Jam
 * Admin work
 * Design work
 * Develop work
+  * provided feedback on UI assets
 * Marketing work
 ### WBD Work
 * TBD

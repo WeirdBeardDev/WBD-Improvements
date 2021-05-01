@@ -7,6 +7,35 @@
 
 ---
 
+## Week 2021-W17: 25 Apr - 1 May 2021
+### Days
+
+|  Sun   |  Mon   |   Tue   |  Wed   |  Thu   |  Fri   |  Sat  |
+| :----: | :----: | :-----: | :----: | :----: | :----: | :---: |
+| 25 Apr | 26 Apr | 27x Apr | 28 Apr | 29 Apr | 30 Apr | 1 May |
+|  D259  |        |         |  D260  |  D261  |  D262  | D263  |
+
+### Game Dev Project - Dagon2
+* Admin work
+  * created wiki channel in Discord - submitted ticket to Discord
+  * updated team member's username and hours in wiki
+  * did market salary research
+* Design work
+  * added research resources for procedural generation to the wiki
+  * created team's market salaries and finialized our studio name
+  * bought domain for game name
+  * bought [Dungeon Architect](https://assetstore.unity.com/packages/tools/utilities/dungeon-architect-53895) asset
+  * created a path to alpha
+  * created Trello cards for alpha work
+* Develop work
+  * none this week
+* Marketing work
+  * none this week
+### WBD Work
+* none this week
+### SMD Work
+* performed weekly cleanup
+
 ## Week 2021-W16 - 18-24 Apr 2021
 ### Days
 

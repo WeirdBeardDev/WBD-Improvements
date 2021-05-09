@@ -7,6 +7,36 @@
 
 ---
 
+## Week 2021-W18: 02-08 May 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 02 May | 03 May | 04 May | 05 May | 06 May | 07 May | 08 May |
+|  D264  |  D265  |  D266  |  D267  |  D268  |  D269  |  D270  |
+
+### Game Dev Project - Dagon2
+* Admin work
+  * updated hours for slicing pie
+* Design work
+  * met with team to design more parts of the game
+  * design work on various screens
+  * created designs for game state management
+  * design meeting with the team
+  * design code for HQ Locations
+* Develop work
+  * graybox the start and options screen; worked on display main menu and company menu
+  * finished start screen menu slider
+  * researched saving/loading
+  * finished start screen UI layout and basic coding
+  * created `feature-hq` branch
+  * implemented a basic HQ scene and test scene
+* Marketing work
+### CC Work
+* WordPress mentoring
+### SMD Work
+* weekly cleanup
+
 ## Week 2021-W17: 25 Apr - 1 May 2021
 ### Days
 

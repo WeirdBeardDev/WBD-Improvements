@@ -7,6 +7,57 @@
 
 ---
 
+## Week 2021-W21: 23-29 May 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 23 May | 24 May | 25 May | 26 May | 27 May | 28 May | 29 May |
+|        |  D275  |        |        |        |        |        |
+
+### Game Dev Project - Dagon2
+* Admin work
+* Design work
+* Develop work
+* Marketing work
+### WBD Work
+* 👉create coding standards for POCOs and create a separate .editorconfig for them
+### SMD Work
+* 👉SMD - create plan for this week
+
+## Week 2021-W20: 16-22 May 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 16 May | 17 May | 18 May | 19 May | 20 May | 21 May | 22 May |
+|        |        |        |  D274  |        |        |        |
+
+### Game Dev Project - Dagon2
+* Admin work
+* Design work
+* Develop work
+* Marketing work
+### WBD Work
+* none
+### SMD Work
+* none
+
+## Week 2021-W19: 09-15 May 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 09 May | 10 May | 11 May | 12 May | 13 May | 14 May | 15 May |
+|  D271  |        |  D272  |        |        |        |  D273  |
+
+### Game Dev Project - Dagon2
+* none
+### WBD Work
+* created coding standards for Unity projects and added them to .editorconfig
+### SMD Work
+* updated the books
+
 ## Week 2021-W18: 02-08 May 2021
 ### Days
 

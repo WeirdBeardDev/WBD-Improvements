@@ -13,12 +13,27 @@
 |  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 23 May | 24 May | 25 May | 26 May | 27 May | 28 May | 29 May |
-|        |  D275  |        |        |        |        |        |
+|        |        |        |  D275  |        |  D276  |  D277  |
 
 ### Game Dev Project - Dagon2
 * Admin work
 * Design work
+  * updated wiki with design convo from last week
+  * created test characters; held weekly Fri meeting
+  * redesigned faces to be square
 * Develop work
+  * commit `1e9ca62` (2021-05-29) - Start creating test setups for encounters
+  * commit `b210a7d` (2021-05-27) - Update scene
+  * commit `38ab41f` (2021-05-26) - Add test backgrounds
+  * commit `6e3df9f` (2021-05-26) - Add names and icons
+  * commit `5867d97` (2021-05-26) - Create AbilitySO and some basic fighter abilities
+  * commit `109edde` (2021-05-26) - Create ClassSO and fighter and wizard classes
+  * commit `61e3ad3` (2021-05-26) - Create ScriptableObject template
+  * commit `d4e8e06` (2021-05-26) - Remove empty MonoBehaviours
+  * commit `231a4cf` (2021-05-26) - Add pluralize number extension
+  * commit `024043a` (2021-05-26) - Add test scene for combat
+  * commit `ddc12b9` (2021-05-26) - Create baseline for SaveData class
+  * commit `f7e9f44` (2021-05-26) - Update titling for Generated Code section
 * Marketing work
 ### WBD Work
 * 👉create coding standards for POCOs and create a separate .editorconfig for them

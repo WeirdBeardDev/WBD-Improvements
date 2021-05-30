@@ -1,11 +1,59 @@
 # Daily Work Log
-## Goals
-* I want to track my efforts at building my own business, Space Monkeys Down.
-* I want to start my life as a game designer and developer.
-
 **Log Template:** [Improvement Challenge](https://github.com/WeirdBeardDev/Improvement-Challenge) on GitHub
 
+## Goals
+* I want to build Rocket Slide, a video game studio.
+* I want to build our first game codenamed `Dagon2`.
+* I want to expand my WeirdBeardDev persona with more blogs and live streaming.
+* I want to take on more side jobs so Space Monkeys Down becomes my day job.
+
+## Legend
+* 👉 planned task
+* ✔️ finished task
+
+## Process
+Each week I create a list of work I want to accomplish that will help me accomplish my goals. In a perfect week, I will create my work list on Sunday and post it and then update it throughout the week, with a final update on Saturday.  As the week progresses I will add, update, or remove tasks as necessary.
+
+I will mark planned work with a 👉 and finished work with a ✔️.
+
 ---
+
+
+## Week 2021-W22: 30 May - 5 Jun 2021
+### Days
+
+|  Sun   |  Mon   |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  |
+| :----: | :----: | :---: | :---: | :---: | :---: | :---: |
+| 30 May | 31 May | 1 Jun | 2 Jun | 3 Jun | 4 Jun | 5 Jun |
+|  D278  |        |       |       |       |       |       |
+
+### Game Dev Project - Dagon2
+#### Admin
+* 👉create game description for recruiting
+* 👉create posts for recruiting
+* 👉cleanup Trello board
+#### Design
+* none
+#### Development
+* 👉setup characters on left of encounter map
+* 👉setup enemies on right of encounter map
+* 👉add health and spirit to initiative tracker
+* 👉create ability display for characters
+* 👉enable picking an ability and having it work
+* 👉update unity start project
+* 👉create coding standards for POCOs and create a separate .editorconfig for them
+#### Marketing work
+* 👉create a #screenshotsaturday Tweet for the encounter system
+### WBD Work
+* 👉create plan for this week
+* 👉setup Trello board for Air-Tite Access work
+* 👉perform analysis on Access database
+* 👉create a action plan for automating the form (primary work)
+* 👉create a list of suggested improvements
+* 👉start planning an upgrade to SQL Server/web site
+### SMD Work
+* 👉review SMD financials to learn how to create invoices
+* 👉update Jul 2021 plan re: Rocket Slide and WBD Biz
 
 ## Week 2021-W21: 23-29 May 2021
 ### Days
@@ -36,9 +84,9 @@
   * commit `f7e9f44` (2021-05-26) - Update titling for Generated Code section
 * Marketing work
 ### WBD Work
-* 👉create coding standards for POCOs and create a separate .editorconfig for them
+* none
 ### SMD Work
-* 👉SMD - create plan for this week
+* none
 
 ## Week 2021-W20: 16-22 May 2021
 ### Days

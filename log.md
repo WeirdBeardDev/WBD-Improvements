@@ -10,14 +10,55 @@
 ## Legend
 * 👉 planned task
 * ✔️ finished task
+* ❌ canceled task
 
 ## Process
 Each week I create a list of work I want to accomplish that will help me accomplish my goals. In a perfect week, I will create my work list on Sunday and post it and then update it throughout the week, with a final update on Saturday.  As the week progresses I will add, update, or remove tasks as necessary.
 
-I will mark planned work with a 👉 and finished work with a ✔️.
+See the legend for the marks I use.
 
 ---
 
+## Week 2021-W23: 06-12 Jun 2021
+### Days
+
+|  Sun  |  Mon  |  Tue  |  Wed  |  Thu   |  Fri   |  Sat   |
+| :---: | :---: | :---: | :---: | :----: | :----: | :----: |
+| 6 Jun | 7 Jun | 8 Jun | 9 Jun | 10 Jun | 11 Jun | 12 Jun |
+| D284  |       |       |       |        |        |        |
+
+### Game Dev Project - Dagon2
+#### Admin
+* 👉cleanup Trello board
+#### Design
+* 👉weekly Sunday meeting with teammates
+* 👉(canx) weekly Friday meeting with teammates
+#### Development
+* 👉create ability display for characters
+* 👉enable picking an ability and having it work
+* 👉add health and spirit to initiative tracker
+* 👉update unity start project
+* 👉create a fake data object to simulate reading from saved game file
+* 👉create coding standards for POCOs and create a separate .editorconfig for them
+#### Marketing
+* 👉create game description for recruiting
+* 👉create posts for recruiting
+* 👉create a #screenshotsaturday Tweet/Insta post for the encounter system
+### WBD Work
+#### Admin
+* 👉create plan for this week
+* 👉update WBD readership stats
+* 👉update Learning / Tips & Tricks pages
+#### Marketing
+* 👉WBD (BullCM) - start planning an upgrade to SQL Server/web site
+#### Project - BullCM
+* 👉create a action plan for EDI-to-SPS (primary work)
+* continue list of suggested improvements
+### SMD Work
+* 👉update Jul 2021 plan re: Rocket Slide and WBD Biz
+* 👉update spam referrer filter on GA
+* 👉complete monthly budgetary items
+* 👉review SMD financials to learn how to create invoices
 
 ## Week 2021-W22: 30 May - 5 Jun 2021
 ### Days
@@ -25,31 +66,35 @@ I will mark planned work with a 👉 and finished work with a ✔️.
 |  Sun   |  Mon   |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  |
 | :----: | :----: | :---: | :---: | :---: | :---: | :---: |
 | 30 May | 31 May | 1 Jun | 2 Jun | 3 Jun | 4 Jun | 5 Jun |
-|  D278  |        |       |       |       |       |       |
+|  D278  |  D279  |       | D280  | D281  | D282  | D283  |
 
 ### Game Dev Project - Dagon2
 #### Admin
-* 👉create game description for recruiting
-* 👉create posts for recruiting
 * 👉cleanup Trello board
 #### Design
-* none
+* ✔️weekly Sunday meeting with teammates
+* ❌(canx) weekly Friday meeting with teammates
 #### Development
-* 👉setup characters on left of encounter map
-* 👉setup enemies on right of encounter map
-* 👉add health and spirit to initiative tracker
+* ✔️setup characters on left of encounter map
+* ✔️setup enemies on right of encounter map
 * 👉create ability display for characters
 * 👉enable picking an ability and having it work
+* 👉add health and spirit to initiative tracker
 * 👉update unity start project
+* 👉create a fake data object to simulate reading from saved game file
+* ✔️create a series of game objects where the camera can reside
 * 👉create coding standards for POCOs and create a separate .editorconfig for them
 #### Marketing work
-* 👉create a #screenshotsaturday Tweet for the encounter system
+* 👉create game description for recruiting
+* 👉create posts for recruiting
+* 👉create a #screenshotsaturday Tweet/Insta post for the encounter system
 ### WBD Work
-* 👉create plan for this week
-* 👉setup Trello board for Air-Tite Access work
-* 👉perform analysis on Access database
+* ✔️create plan for this week
+* ✔️setup Trello board for Air-Tite Access work
+* ✔️setup old laptop, and Access 32-bit on it
+* ✔️perform analysis on Access database
 * 👉create a action plan for automating the form (primary work)
-* 👉create a list of suggested improvements
+* ✔️create a list of suggested improvements
 * 👉start planning an upgrade to SQL Server/web site
 ### SMD Work
 * 👉review SMD financials to learn how to create invoices

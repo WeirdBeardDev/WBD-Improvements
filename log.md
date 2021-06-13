@@ -11,6 +11,7 @@
 * 👉 planned task
 * ✔️ finished task
 * ❌ canceled task
+* 🕛 deferred task (created card in Trello)
 
 ## Process
 Each week I create a list of work I want to accomplish that will help me accomplish my goals. In a perfect week, I will create my work list on Sunday and post it and then update it throughout the week, with a final update on Saturday.  As the week progresses I will add, update, or remove tasks as necessary.
@@ -19,46 +20,89 @@ See the legend for the marks I use.
 
 ---
 
+## Week 2021-W24: 13-19 Jun 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 13 Jun | 14 Jun | 15 Jun | 16 Jun | 17 Jun | 18 Jun | 19 Jun |
+|  D287  |        |        |        |        |        |        |
+
+### Game Dev Project - Dagon2
+#### Admin
+* TBD
+#### Design
+* 👉 weekly Sunday meeting with teammates
+* 👉 weekly Friday meeting with teammates
+#### Development
+* 👉 enable picking an ability and having it work
+* 👉 finish implementing graybox encounter screen
+* 👉 create a fake data object to simulate reading from saved game file
+#### Marketing
+* 👉 proofread the recruiting write up
+* 👉 create posts for recruiting
+* 👉 create a #screenshotsaturday Tweet/Insta post for the encounter system
+### WBD Work
+#### Admin
+* ✔️ create plan for this week
+* ✔️ perform weekly cleanup and time tracking
+* 👉 update WBD readership stats
+* 👉 update Jul 2021 plan re: Rocket Slide and WBD Biz
+* 👉 update spam referrer filter on GA
+* 👉 complete monthly budgetary items
+#### Marketing
+* 👉 write blog about Unity Starter GitHub project
+* 👉 (BullCM) - start planning an upgrade to SQL Server/web site
+* 👉 (BullCM) - continue list of suggested improvements
+* 👉 update Learning / Tips & Tricks pages
+#### Project - BullCM
+* 👉 review SMD financials to learn how to create invoices
+* 👉 invoice BullCM for my time
+* 👉 work out how invoicing will work for the project, e.g., weekly, time-based, etc?
+* 👉 create a action plan and estimate for EDI-to-SPS (primary work)
+
 ## Week 2021-W23: 06-12 Jun 2021
 ### Days
 
 |  Sun  |  Mon  |  Tue  |  Wed  |  Thu   |  Fri   |  Sat   |
 | :---: | :---: | :---: | :---: | :----: | :----: | :----: |
 | 6 Jun | 7 Jun | 8 Jun | 9 Jun | 10 Jun | 11 Jun | 12 Jun |
-| D284  |       |       |       |        |        |        |
+| D284  |       | D285  |       |        |        |  D286  |
 
 ### Game Dev Project - Dagon2
 #### Admin
-* 👉cleanup Trello board
+* ✔️ cleanup Trello board
 #### Design
-* 👉weekly Sunday meeting with teammates
-* 👉(canx) weekly Friday meeting with teammates
+* ✔️ weekly Sunday meeting with teammates
+* ❌ (canx) weekly Friday meeting with teammates
 #### Development
-* 👉create ability display for characters
-* 👉enable picking an ability and having it work
-* 👉add health and spirit to initiative tracker
-* 👉update unity start project
-* 👉create a fake data object to simulate reading from saved game file
-* 👉create coding standards for POCOs and create a separate .editorconfig for them
+* ✔️ first pass at shadows on characters
+* ✔️ add images to abilities
+* ✔️ create ability display for characters
+* 👉 enable picking an ability and having it work
+* 🕛 add health and spirit to initiative tracker
+* ✔️ update unity starter project
+* 👉 create a fake data object to simulate reading from saved game file
+* 🕛 create coding standards for POCOs and create a separate .editorconfig for them
 #### Marketing
-* 👉create game description for recruiting
-* 👉create posts for recruiting
-* 👉create a #screenshotsaturday Tweet/Insta post for the encounter system
+* ✔️ create game description for recruiting
+* 👉 create posts for recruiting
+* 👉 create a #screenshotsaturday Tweet/Insta post for the encounter system
 ### WBD Work
 #### Admin
-* 👉create plan for this week
-* 👉update WBD readership stats
-* 👉update Learning / Tips & Tricks pages
+* ✔️ create plan for this week
+* 👉 update WBD readership stats
+* 👉 update Learning / Tips & Tricks pages
 #### Marketing
-* 👉WBD (BullCM) - start planning an upgrade to SQL Server/web site
+* 👉 WBD (BullCM) - start planning an upgrade to SQL Server/web site
 #### Project - BullCM
-* 👉create a action plan for EDI-to-SPS (primary work)
-* continue list of suggested improvements
+* 👉 create a action plan for EDI-to-SPS (primary work)
+* 👉 continue list of suggested improvements
 ### SMD Work
-* 👉update Jul 2021 plan re: Rocket Slide and WBD Biz
-* 👉update spam referrer filter on GA
-* 👉complete monthly budgetary items
-* 👉review SMD financials to learn how to create invoices
+* 👉 update Jul 2021 plan re: Rocket Slide and WBD Biz
+* 👉 update spam referrer filter on GA
+* 👉 complete monthly budgetary items
+* 👉 review SMD financials to learn how to create invoices
 
 ## Week 2021-W22: 30 May - 5 Jun 2021
 ### Days

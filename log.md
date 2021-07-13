@@ -20,46 +20,105 @@ See the legend for the marks I use.
 
 ---
 
-## Week 2021-W24: 13-19 Jun 2021
+## Week 2021-W26: 27 Jun - 3 Jul 2021
 ### Days
 
-|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 13 Jun | 14 Jun | 15 Jun | 16 Jun | 17 Jun | 18 Jun | 19 Jun |
-|  D287  |        |        |        |        |        |        |
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu  |  Fri  |  Sat  |
+| :----: | :----: | :----: | :----: | :---: | :---: | :---: |
+| 27 Jun | 28 Jun | 29 Jun | 30 Jun | 1 Jul | 2 Jul | 3 Jul |
+|  D300  |        |        |        |       |       |       |
 
-### Game Dev Project - Dagon2
+### Game Dev Project - Frog Catcher (Unity Create With Code Jam)
 #### Admin
 * TBD
 #### Design
 * 👉 weekly Sunday meeting with teammates
 * 👉 weekly Friday meeting with teammates
 #### Development
+* TBD
+#### Marketing
+* TBD
+### WBD Work
+#### Admin
+* 👉 create plan for this week
+* 👉 perform weekly cleanup and time tracking
+#### Marketing
+* TBD
+#### Project - BullCM
+* TBD
+
+## Week 2021-W25: 20-26 Jun 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 20 Jun | 21 Jun | 22 Jun | 23 Jun | 24 Jun | 25 Jun | 26 Jun |
+|  D294  |  D295  |  D296  |        |  D297  |  D298  |  D299  |
+
+### Game Dev Project - Dagon2
+#### Admin
+* TBD
+#### Design
+* ❌ (canx) weekly Sunday meeting with teammates
+* ✔️ weekly Friday meeting with teammates
+#### Development
+* didn't track
+#### Marketing
+* didn't track
+### WBD Work
+#### Admin
+* 👉 create plan for this week
+* ✔️ perform weekly cleanup and time tracking
+#### Marketing
+* didn't track
+#### Project - BullCM
+* didn't track
+
+## Week 2021-W24: 13-19 Jun 2021
+### Days
+
+|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| 13 Jun | 14 Jun | 15 Jun | 16 Jun | 17 Jun | 18 Jun | 19 Jun |
+|  D287  |  D288  |  D289  |  D290  |  D291  |  D292  |  D293  |
+
+### Game Dev Project - Dagon2
+#### Admin
+* TBD
+#### Design
+* ✔️ weekly Sunday meeting with teammates
+* ✔️ weekly Friday meeting with teammates
+#### Development
 * 👉 enable picking an ability and having it work
 * 👉 finish implementing graybox encounter screen
 * 👉 create a fake data object to simulate reading from saved game file
 #### Marketing
-* 👉 proofread the recruiting write up
-* 👉 create posts for recruiting
+* ✔️ proofread the recruiting write up
+* ✔️ create posts for recruiting
+* ✔️ talked with new dev and added him to the team
 * 👉 create a #screenshotsaturday Tweet/Insta post for the encounter system
 ### WBD Work
 #### Admin
 * ✔️ create plan for this week
 * ✔️ perform weekly cleanup and time tracking
+* ✔️ review SMD financials to learn how to create invoices
 * 👉 update WBD readership stats
 * 👉 update Jul 2021 plan re: Rocket Slide and WBD Biz
 * 👉 update spam referrer filter on GA
 * 👉 complete monthly budgetary items
+* 👉 research VA laws on fictious names and "doing business as"
+* 👉 create "doing business as" for SMD to use WBD
+* 👉 create "doing business as" for SMD to use CC
 #### Marketing
 * 👉 write blog about Unity Starter GitHub project
 * 👉 (BullCM) - start planning an upgrade to SQL Server/web site
 * 👉 (BullCM) - continue list of suggested improvements
 * 👉 update Learning / Tips & Tricks pages
 #### Project - BullCM
-* 👉 review SMD financials to learn how to create invoices
-* 👉 invoice BullCM for my time
+* ✔️ invoice BullCM for my time
 * 👉 work out how invoicing will work for the project, e.g., weekly, time-based, etc?
-* 👉 create a action plan and estimate for EDI-to-SPS (primary work)
+* ✔️ review the RSX format
+* ✔️ analyze database
 
 ## Week 2021-W23: 06-12 Jun 2021
 ### Days
